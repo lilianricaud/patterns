@@ -6,6 +6,8 @@ Gathering places that are beautiful, comfortable, functional, and creatively des
 
 ![NatureRoom by Peggy Holman]({{site.baseurl}}/http://groupworksdeck.org/sites/default/files/styles/large/public/upload/patterns/NatureRoom1_large.JPG)
 
+
+
 ## Description:
 
 The aesthetics of place are an essential part of the "field" of an event, and can have a major impact on the energy, mood and openness of a group. Beauty acts on both conscious and unconscious levels in its effect on groups. A beautiful space can evoke a subtle sense of gratitude and help soften the collective heart, opening the opportunity for deeper levels of work.
