@@ -2,6 +2,8 @@
 
 Gathering places that are beautiful, comfortable, functional, and creatively designed to serve the purpose of the meeting call forth participants' best life energy to contribute. Thoughtfully arrange the space and decor to inspire, focus, and sustain the group's work.
 
+http://groupworksdeck.org/sites/default/files/styles/large/public/upload/patterns/NatureRoom1_large.JPG
+
 ## Description:
 
 The aesthetics of place are an essential part of the "field" of an event, and can have a major impact on the energy, mood and openness of a group. Beauty acts on both conscious and unconscious levels in its effect on groups. A beautiful space can evoke a subtle sense of gratitude and help soften the collective heart, opening the opportunity for deeper levels of work.
@@ -18,19 +20,19 @@ When participants first walk into a space it presents clues as to what may happe
 
 Qualities to consider include:
 
-    Size: Neither too large nor too small for the group; enough so that all participants can move around, find a corner to themselves, have room to put personal things, coats; neither claustrophobic nor oversized.
+- Size: Neither too large nor too small for the group; enough so that all participants can move around, find a corner to themselves, have room to put personal things, coats; neither claustrophobic nor oversized.
 
-    Arrangement: What arrangement will support your activities? For instance, a Circle in the centre with breakout work tables around the outside allows a group to come together, then work as individuals or small groups, with easy transitions in the proximity of community. The roundness is archetypal, everyone can see each other, and it's easy to go around the circle so that people know who is next. See also Nooks in Space and Time.
+- Arrangement: What arrangement will support your activities? For instance, a Circle in the centre with breakout work tables around the outside allows a group to come together, then work as individuals or small groups, with easy transitions in the proximity of community. The roundness is archetypal, everyone can see each other, and it's easy to go around the circle so that people know who is next. See also Nooks in Space and Time.
 
-    Centre: A vase of flowers, fire pit, or coffee table in the center provides a focal point when sitting in a circle. Sometimes, however, you might want space in the centre for a speaker or performer(s) to move around and address the group.
+- Centre: A vase of flowers, fire pit, or coffee table in the center provides a focal point when sitting in a circle. Sometimes, however, you might want space in the centre for a speaker or performer(s) to move around and address the group.
 
-    Furnishings: Can the furniture be reconfigured to get the arrangement you want? Appropriate (varied, comfy) seating allows everyone to feel at ease, especially when sitting for long periods. Do you want tables for writing on, or will they block intimacy? Can you have a combination of spaces within the room?
+- Furnishings: Can the furniture be reconfigured to get the arrangement you want? Appropriate (varied, comfy) seating allows everyone to feel at ease, especially when sitting for long periods. Do you want tables for writing on, or will they block intimacy? Can you have a combination of spaces within the room?
 
-    Lighting: Windows on two or more sides of the room provides a more pleasant environment than a single source. Skylights offer natural light. Also consider careful use and placement of other forms of light, for example candlelight to create a sense of intimacy and warmth. Diffused light, or even total darkness, may be employed to allow the emergence of 'internal light', or to encourage a more reflective or ceremonial feeling. If there will be slides or video, make sure the room can be made dark enough to see them, but not so dark people can't see each other, or are likely to fall asleep.
+- Lighting: Windows on two or more sides of the room provides a more pleasant environment than a single source. Skylights offer natural light. Also consider careful use and placement of other forms of light, for example candlelight to create a sense of intimacy and warmth. Diffused light, or even total darkness, may be employed to allow the emergence of 'internal light', or to encourage a more reflective or ceremonial feeling. If there will be slides or video, make sure the room can be made dark enough to see them, but not so dark people can't see each other, or are likely to fall asleep.
 
-    Beauty and function: Plants or flowers humanize the space, subtly supporting the affective domain. Be conscious about whether you want food in the room (intimacy, convenience), and/or outside the room (a place to go to).
+- Beauty and function: Plants or flowers humanize the space, subtly supporting the affective domain. Be conscious about whether you want food in the room (intimacy, convenience), and/or outside the room (a place to go to).
 
-    Soundtrack: Introduced sounds and music - appropriate use of background music, musical performances for energy shift or inspiration, bells to indicate the start and end of activities, and the tone and volume of voices (use of amplifiers, microphones etc.). Also consider the sounds, natural or introduced, musical or ethereal, in the space, including sounds like a bell to signify the end of a time-limited event, and even the tone of the facilitator's voice, and their impact on the mood and energy of the group.
+- Soundtrack: Introduced sounds and music - appropriate use of background music, musical performances for energy shift or inspiration, bells to indicate the start and end of activities, and the tone and volume of voices (use of amplifiers, microphones etc.). Also consider the sounds, natural or introduced, musical or ethereal, in the space, including sounds like a bell to signify the end of a time-limited event, and even the tone of the facilitator's voice, and their impact on the mood and energy of the group.
 
 ## Cautions & Caveats:
 Often you have to work with what space you're given. Consider how to work with a space that is less than desirable. What are the most important characteristics to address? What are the simplest antidotes to common problems?
