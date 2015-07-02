@@ -1,7 +1,8 @@
-Heart: 
+## Heart:
 
 Gathering places that are beautiful, comfortable, functional, and creatively designed to serve the purpose of the meeting call forth participants' best life energy to contribute. Thoughtfully arrange the space and decor to inspire, focus, and sustain the group's work.
-Description: 
+
+## Description:
 
 The aesthetics of place are an essential part of the "field" of an event, and can have a major impact on the energy, mood and openness of a group. Beauty acts on both conscious and unconscious levels in its effect on groups. A beautiful space can evoke a subtle sense of gratitude and help soften the collective heart, opening the opportunity for deeper levels of work.
 
@@ -31,13 +32,13 @@ Qualities to consider include:
 
     Soundtrack: Introduced sounds and music - appropriate use of background music, musical performances for energy shift or inspiration, bells to indicate the start and end of activities, and the tone and volume of voices (use of amplifiers, microphones etc.). Also consider the sounds, natural or introduced, musical or ethereal, in the space, including sounds like a bell to signify the end of a time-limited event, and even the tone of the facilitator's voice, and their impact on the mood and energy of the group.
 
-Cautions & Caveats:
+## Cautions & Caveats:
 Often you have to work with what space you're given. Consider how to work with a space that is less than desirable. What are the most important characteristics to address? What are the simplest antidotes to common problems?
 Consider security issues: compliance and relationship to security personnel (e.g. leaving doors and windows open for fresh air).
 Identify and remove, or cover (or decorate!) distracting or negative signs and features.
 
  
-Examples: 
+## Examples:
 
 Natural environment preferable to manufactured - Example: a group who met at a beautiful location near the sea but, for fear of distraction, did not open the curtain.
 Working with the space you have: Dave had the experience of speaking right after Al Gore, in a large venue holding 2000 with a small audience of 25. Solution: move to another venue and make a circle of chairs, or if that's not possible, go outside.
@@ -47,17 +48,23 @@ Accelerated Solutions Environment - tailor-made space for creative events, inclu
 Beauty: Centerpieces at FireHawk and Pele's Dreaming Ceremony and Summer Solstices
 
  
-Resources: 
+## Resources:
 
 A Pattern Language www.patternlanguage.com (link is external) is about the architectural patterns that make a space work.
 Penn State University Classroom & Technology Design & Construction http://clc.its.psu.edu/classrooms/Design/ (link is external)
 Where is the Front of the Room (link is external) by Sandor Schuman
  
-Category: 
+## Licence:
+CC-BY-SA
+
+## Source:
+http://groupworksdeck.org/patterns/Aesthetics_of_Space
+
+## Category:
 
     Context 
 
-Related: 
+## Related: 
 Circle
 Gaia
 Hosting
