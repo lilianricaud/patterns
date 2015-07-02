@@ -2,7 +2,9 @@
 
 Gathering places that are beautiful, comfortable, functional, and creatively designed to serve the purpose of the meeting call forth participants' best life energy to contribute. Thoughtfully arrange the space and decor to inspire, focus, and sustain the group's work.
 
-![NatureRoom by Peggy Holman (http://groupworksdeck.org/natureroom1)]({{site.baseurl}}/{{http://groupworksdeck.org/sites/default/files/styles/large/public/upload/patterns/NatureRoom1_large.JPG}})
+
+
+![NatureRoom by Peggy Holman]({{site.baseurl}}/http://groupworksdeck.org/sites/default/files/styles/large/public/upload/patterns/NatureRoom1_large.JPG)
 
 ## Description:
 
