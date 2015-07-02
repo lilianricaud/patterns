@@ -12,7 +12,9 @@
 
 ## Pattern number
 
+
 ## Pattern maturity (Alexander's scale)
+
  
 ## Links
  
