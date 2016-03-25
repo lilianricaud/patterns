@@ -48,11 +48,15 @@ By giving them a worthy and meaningful challenge that none of them could accompl
 
 As the Founder, you are of necessity a salesperson, yes but a salesperson who deals in ideas. Here is what you are selling the Pioneer:
 
-    A departure: an escape route from the old and tired, into an open space with few constraints;
-    A sense of possibility — the promise of a new freedom he has had a glimpse of, but has not yet experienced;
-    Mystery, adventure, and challenge — an experience; danger, even!
-    An opportunity to contribute his unique talents towards creating something meaningful that, in her eyes, deserves to exist;
-    And finally, the chance to design a new ‘home’, a new life for himself and others.
+A departure: an escape route from the old and tired, into an open space with few constraints;
+
+A sense of possibility — the promise of a new freedom he has had a glimpse of, but has not yet experienced;
+
+Mystery, adventure, and challenge — an experience; danger, even!
+
+An opportunity to contribute his unique talents towards creating something meaningful that, in her eyes, deserves to exist;
+
+And finally, the chance to design a new ‘home’, a new life for himself and others.
 
 ## - Connection -
 
