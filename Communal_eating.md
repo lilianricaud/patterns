@@ -1,6 +1,6 @@
 # COMMUNAL EATING
 
-<img src="https://github.com/lilianricaud/patterns/blob/master/communal-eating-pattern-image.jpg?raw=true">
+<img src="https://raw.githubusercontent.com/lilianricaud/patterns/master/communal-eating-pattern-image.jpg">
 
 ## Core
 
