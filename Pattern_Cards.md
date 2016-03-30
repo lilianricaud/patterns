@@ -1,7 +1,7 @@
 # PATTERN CARDS
 
 ![cartes-co-creation.jpg]({{site.baseurl}}/cartes-co-creation.jpg)
-
+<img src="https://github.com/lilianricaud/patterns/blob/master/cartes-co-creation.jpg?raw=true">
 
 Pattern languages are useful tools but because of their non-linear nature, they are not easy to manipulate in a linear book format. 
 
