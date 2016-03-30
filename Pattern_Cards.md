@@ -1,5 +1,8 @@
 # PATTERN CARDS
 
+![cartes-co-creation.jpg]({{site.baseurl}}/cartes-co-creation.jpg)
+
+
 Pattern languages are useful tools but because of their non-linear nature, they are not easy to manipulate in a linear book format. 
 
 Therefore, 
@@ -18,6 +21,6 @@ Lilian Ricaud inspired by:
 
 ## Linked patterns
 
-REIFICATION CARDS/ IDEAS OBJECTS
+- ARTEFACTS
 
 
