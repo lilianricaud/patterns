@@ -10,6 +10,6 @@ Bill Mollison's permaculture patterns
 Detailled online in 
 http://deepgreenpermaculture.com/permaculture/permaculture-design-principles/2-each-element-performs-many-functions/
 
-## Similar patterns
+## Related patterns
 
 ## Similar patterns in other languages
