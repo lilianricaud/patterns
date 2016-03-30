@@ -7,9 +7,6 @@ The Group Works deck of 100 full-colour cards (91 patterns + 9 category cards) n
 The cards were created by more than fifty volunteers (the Group Pattern Language Project) from diverse organizational backgrounds who collaborated over three years to express the core wisdom at the heart of successful group sessions. The cards are accompanied by a 5-panel explanatory legend card and a booklet describing the deck's purpose, story, and ideas for suggested activities.
 
 <table>
-
-<tbody>
-
 <tr>
 
 <td>[Aesthetics of Space](http://groupworksdeck.org/patterns/Aesthetics_of_Space)</td>
@@ -315,8 +312,5 @@ The cards were created by more than fifty volunteers (the Group Pattern Language
 <td>[Go Meta](http://groupworksdeck.org/patterns/Go_Meta)</td>
 
 </tr>
-
-</tbody>
-
 </table>
 
