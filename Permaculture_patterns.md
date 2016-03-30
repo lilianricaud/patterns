@@ -2,6 +2,8 @@
 
 These are pattern described by Bill Mollison. Note that these differ slightly from other principles described by Holmgren later on. Unfortunately in the article about permaculture, Wikipedia editors onyly mention the former. 
 
+Source: Permaculture: A Designer's Manual, Mollison, B.
+
 ## Relative location		
 every element is placed in relationship to another so that they assist each other.
 
