@@ -1,60 +1,18 @@
 # Pattern Mining areas
 
-## What is this document about ?
+This is part of an effort to 
+- mine refine co-creative patterns 
+- build pattern languages and generative sequences as defined by Christopher Alexander.
 
-patterns are static, like a snapshot of a dynamic reality. As such they are not useful to build something, but rather a guide to evaluate what has been built and if it's rich.
+See the ReadMe for more information
 
-To build things up, we need generative sequence, a step-by-step set of instructions designed so the intelligence is in the process and therefore anyone can unconsciously design something great without much technical expertise.
+All work is licenced under CC-BY-SA unless stated otherwise.
 
-Generative sequences can't be assembled but they themselves have to be generated and refined step by step
-
-## How you can contribute ?
-
-Because these patterns and generative sequences needs to be evolved and refined step by step, it is interesting that this becomes a collective work.
-
-This document is stored on Github whose technology allow for forking and merging easily content. In plain language it means you can copy and make your own version of the document, add the modifications you want and it might be merged back into the original document. or not.
-
-Basically this allows for decentralized collaboration where everyone can feed of each other, but collaboration happens without having to negociate consensus as different versions can coexist.
-
-This way you can make your own custom patterns language, while at the same time maeking it easy for anyone to reuse your contributions.
-
-To get started you need a github account and click on the small pen icon on the top left of the text.
+# Raw patterns
 
 > Work in Progress	
-
-This is an attempt to identify not just clever solutions expressed in a neat pattern format but rather deep/generative/living patterns, that will help produce living systems. 
-
-One of the criteria being to which extend the patterns let our inner forces loose. "The specific patterns out of which a town is made may be alive or dead. to the extent they are alive, they let our inner force loose and set us free; but when they are dead, they keep us locked in inner conflict." 
-
-C.Alexander												
-
-
-## Flexible office space		
-
-Is it possible to create a kind of space which is specifically tuned to the needs of people working, and yet capable of an infinite number of various arrangements and combinations within it?		
-
-Lay out the office space as wings of open space, with free standing columns around their edges, so they define half private and common spaces opening into one another. Set down enough columns so that people can fill them in over the years, in many different ways - but always in a semi-permanent fashion. If you happen to know the working group before you build the space, then make it more like a house, more closely tailored to their needs. In either case, create a variety of space throughout the office - comparable in variety to the different sizes and kinds of space in a large old house.	
-
-Source: Christopher Alexander's pattern language	146	
-
-## Communal eating	
-
-Without communal eating, no human group can hold together.		Give every institution and social group a place where people can eat together. Make the common meal a regular event. In particular, start a common lunch in every work place, so that a genuine meal around a common table (not out of boxes, machines, or bags) becomes an important, comfortable, and daily event with room for invited guests. In our own work group at the Center, we found this worked most beautifully when we took it in turns to cook the lunch. The lunch became an event: a gathering: something that each of us put our love and energy into, on our day to cook.	
-
-Source: Christopher Alexander pattern language	147	
-
-## Small work groups
-
-When more than half a dozen people work in the same place, it is essential that they not be forced to work in one huge undifferentiated space, but that instead, they can divide their workspace up, and so form smaller groups.		Break institutions into small, spatially identifiable work groups, with less than half a dozen people in each. Arrange these work groups so that each person is in at least partial view of the other members of his own group; and arrange several groups in such a way that they share a common entrance, food, office equipment, drinking fountains, bathrooms.	
-Source: Christopher Alexander pattern language	148		
-
-## Reception welcomes you		
-Have you ever walked into a public building and been processed by the receptionist as if you were a package?		Arrange a series of welcoming things immediately in- side the entrance‚Äîsoft chairs, a fireplace, food, coffee. Place the reception desk so that it is not between the receptionist and the welcoming area, but to one side at an angle‚Äîso that she, or he, can get up and walk toward the people who come in, greet them, and then invite them to sit down	Christopher Alexander pattern language	149							
-Small meeting rooms	*	The larger meetings are, the less people get out of them. But institutions often put their money and attention into large meeting rooms and lecture halls.		Make at least 70 per cent of all meeting rooms really small - for It people or less. Locate them in the most public parts of the building, evenly scattered among the workplaces.	Christopher Alexander pattern language	151							
-Sitting Circle	*	A group of chairs, a sofa and a chair, a pile of cushions - these are the most obvious things in everybody's life - and yet to make them work, so people become animated and alive in them, is a very subtle business. Most seating arrangements are sterile, people avoid them, nothing ever happens there. Others seem somehow to gather life around them, to concentrate and liberate energy. What is the difference between the two?		Place each sitting space in a position which is protected, not cut by paths or movement, roughly circular, made so that the room itself helps to suggest the circle - not too strongly - with paths and activities around it, so that people naturally gravitate toward the chairs when they get into the mood to sit. Place the chairs and cushions loosely in the circle, and have a few too many.	Christopher Alexander pattern language	185							
-Commons areas at the heart	**	No social group - whether a family, a work group, or a school group - can survive without constant informal contact among its members.		Create a single common area for every social group. Locate it at the center of gravity of all the spaces the group occupies, and in such a way that the paths which go in and out of the building lie tangent to it.	Christopher Alexander pattern language	129							
-Intimacy Gradient	**	Unless the spaces in a building are arranged in a sequence which corresponds to their degrees of privateness, the visits made by strangers, friends, guests, clients, family, will always be a little awkward.		Lay out the spaces of a building so that they create a sequence which begins with the entrance and the most public parts of the building, then leads into the slightly more private areas, and finally to the most private domains.	Christopher Alexander pattern language	127							
-Sequence of sitting spaces	*	Every corner of a building is a potential sitting space. But each sitting space has different needs for comfort and enclosure according to its position in the intimacy gradient		Put in a sequence of graded sitting spaces throughout the building, varying according to their degree of enclosure. Enclose the most formal ones entirely, in rooms by themselves; put the least formal ones in corners of other rooms, without any kind of screen around them; and place the intermediate one with a partial enclosure round them to keep them connected to some larger space, but also partly separate.	Christopher Alexander pattern language	142							
+just like unpolished diamonds, patterns need to be mined and refine to reach their full potential.
+							
 ## Knowledge artifacts		
 
 As you begin to collect, sort, and organize information it can quickly become overwhelming. How do you keep track of it all? The importance of artifacts as an aid to thinking can easily be illustrated if you imagine yourself playing a game of chess while blindfolded. It's possible to hold the positions of all the pieces in your mind's eye for a time - and most chess masters can do it for an entire game - but it's much easier to have the pieces diplayed on a board in front of you. The shape and color of each piece, and its pposition relative to the board and to other pieces, contains a rich set of information that can help you make better decisions about the game. 	
@@ -70,6 +28,44 @@ Source: Gamestorming
 Imagine trying to play chess without a board. A game like chess relies not only on the meaning of the pieces but also on the ever-changing relationships they have to each other in space. the grid of the chessboard creates a meaningful space as cleanly and as surely as the grid on any map. Both the grid and the pieces are integral and essential to the game.     Just like every other game, chess creates a world that players can explore together. the chessboard (meaningful space) creates the boundaries of the world, and the pieces (artifacts) populate the world.     The rules of the game govern what is and isn't possible in the world. chess players agree to enter the world in order to explore the possible permutations and combinations and try to achieve their goals, which, in the case of chess, are achieved at the expense of the other player. However in gamestorming, more often the players share a common goal.     For the knowledge explorer, meaningful space can be created anywhere: on a whiteboard, flip chart, or piece of paper; on a tabletop or in a room. It's a way of framing any space to make relationships within it more meaningful. the grid, like the grid of a chessboard, is one of the most common and useful ways to organize space. You can see grids all around you; we use grids for everything from planning cities to managing numbers in our spreadsheets.     Affinity mapping is a common method that uses meaningful space to sort a large set of nodes into a few common themes. It is a way to rapidly get a group of people aligned about what they are working on together. First generate a set of nodes using the Post-Up  								
 
 Source: Gamestorming
+
+## Build catchments
+
+entropy is the natural tendency to disorder, but it is balanced by an opposing tendency toward self-organization or what we call life. This kind of self-organization happens whenever energy flows are sufficient to generate storages.A catchment is nature's method of wealth accumulation and energy storage.A catchment is a system for accumulating a critical mass of a needed resource, like water or soil minerals, in order to trigger self-organizing system, i.e., life forms, that then spread over the landscape. Some natural examples of catchment include the sun, plant carbohydrates, bodies of water, geothemral energy, and plate tectonics.  How does catchment work? Since the ‚Äúdriving force behind all natural systems‚Äù is energy, catchment focuses on ways to capture naturally occurring flows of energy in such a way as to maximize the yield over time and space.   Catchment works because a positive feedback loop is created for energy, even in improbably small or forbidding places. 							
+
+Related: Energy cycling	Produce no waste, Outputs become inputs	
+
+##Pioneers/weeds	
+
+**Find and understand the pioneers/weeds**		
+
+weeds grows in your garden, individuals don't behave the way you expect them to in your organization, and in both case the more you try to remove them, the more they keep coming back. As time goes you need to put in more and more energy to keep thing in balance.		
+
+In nature in a disturbed environnement, pioneer plants are the first to colonize a soil and improve it for future sucession cycles and other plants to come. Fine knoweldge of the species will tell you if a soil lacks certains mineral, has excess water, compaction, 
+
+Therefore having "weeds" is not a problem but merely an indication that there is a problem and this pioneers are actually working hard to fix it.   Within organizations the same pattern occurs, pioneers have often seen problems others don't see and usually try to improve it, sometime at their expense. However, most often organizations tend to, at best, ignore these pioneers, and at worst try to remove them, thinking THEY are the problem without understanding they are both an indicator and a solution to problem.  Therefore in any system, try to find and understand the pioneers as they will tell you a lot about what needs fixing and, if you let them, will start fixing it for you.	
+Source: @lilious, inspired by permaculture
+
+## Seeds of System Change
+
+
+“You never change things by fighting the existing reality.
+To change something, build a new model that makes the existing model obsolete.”
+
+― R. Buckminster Fuller 
+
+Systems contains far too many links and are far too complex to be changed.
+
+In nature systems change by step by step evolution of a seed situation. Ecosystem evolves by SUCCESSION where PIONEERS SPECIES prepare the soil for more productive plants and animals.
+
+In butterfly metamophosis, specialized cells called imaginal cells divide and start to grow within the existing caterpillar, and gradually feeding of the old system.
+
+Therefore, 
+
+if you want to change a system, plant or find seeds of the new system and nurture them until they are strong enough to feed of the old system themselves.
+
+In organization such as institutions or large companies for example, start a new team/startup, or find if they are'nt already one, with the new culture you want to bring and help this team do what it already does. Slowly this can be open up to other part of the system to scale and slowly replace the former system.
+
 
 ## Long breath before speaking		
 
@@ -153,22 +149,13 @@ Transparency & Mirror to change behavior				maybe 2 patterns here: transparency 
 
 ## APPROPRIATE NAME
 
-
 Naming something is like shining a light to make something stand out and be visible to everyone.
 
 When you name somethin you give it a reality. Name embodies intent or a way to look at things.A name sends a message by itself and naming shows your intent and its clarity (or lack of). Pay extreme attention when you name something and make sure it align with your intent. (exemple "marathon" or "sprint" don't send the same message than "party")
 
-## Playfulness
+Similar: Group Works NAMING
 
-**Make it Playful.** 
-
-When people play they let down a lot of internal barriers	
 	
-## Everyone feels welcome		
-
-**Make everyone feel welcome**
-When coming in a new group, it's hard to be yourself and there is a barrier initially. Making everyone special and welcome break the ice and open up people so they let down their barrier and give the best of themselves.									
-## Apprenticeship		
 
 ## Hashtags
 
@@ -180,7 +167,10 @@ in online media users needs to add extra meaning/playction to certain words (tag
 
 Create a safe container for group interactions.
 
-Professionals of collaborative practices often stress the importance of a clean beginnings. Whenever you take on any hard, collaborative project, you have to expect that it will get messy in the middle. If you take the time to set up conditions for success at the beginning of the project, you will greatly increase your chances of surviving ‚Äî even thriving in ‚Äî that mess. Folks in this business often refer to this as ‚Äúcreating a safe container.‚Äù		Creating a safe container consists of three subpatterns: Literally creating a delightful, inviting space (physical, virtual, or both) in which the group can interact		 	http://fasterthan20.com/2014/01/the-art-of-the-start/					
+Professionals of collaborative practices often stress the importance of a clean beginnings. Whenever you take on any hard, collaborative project, you have to expect that it will get messy in the middle. If you take the time to set up conditions for success at the beginning of the project, you will greatly increase your chances of surviving ‚Äî even thriving in ‚Äî that mess. Folks in this business often refer to this as ‚Äúcreating a safe container.‚Äù		Creating a safe container consists of three subpatterns: Literally creating a delightful, inviting space (physical, virtual, or both) in which the group can interact		 	http://fasterthan20.com/2014/01/the-art-of-the-start/	
+
+Similar: Group Works OPENING AND WELCOME
+
 ## Delightful, inviting space	
 
 The physical spaces in which we work have a huge impact on our ability to work effectively. Dark, tight spaces affect the mood of the group. The seating arrangement can physically reinforce certain power dynamics. If it's hard to get to the whiteboard, people won't use it. These issues don't just apply to physical space. If your group has a  weekly two-hour phone call with poor audio quality and no shared display, people will dread (or simply tune out) those calls. If you have chosen to interact using an online tool that nobody knows how to use, then no one will use it. Spatial issues may seem trivial, but I think they are just as important as facilitation.		Literally creating a delightful, inviting space (physical, virtual, or both) in which the group can interact.  
@@ -189,6 +179,8 @@ Therefore,
 
 **Create a delightful, inviting space.**
 If you want to contribute to great collaborative experiences, investing in great space and great food are two of the easiest and most impactful ways to do that. Creating an inviting, delightful space is not just about physical or even virtual space. Language, for example, is a big part of this.	Eugene Eric Kim		http://fasterthan20.com/2014/01/the-art-of-the-start/	http://eekim.com/blog/2013/03/three-simple-hacks-for-making-delightful-virtual-spaces/				pool of light, seats, language	Developing shared understanding among the group, Making explicit working agreements.
+
+Similar: Group Works AESTHETICS OF SPACE
 
 ## Shared understanding
 
@@ -216,15 +208,14 @@ Similar: The Magical Number Seven, Plus or Minus Two
 ## Powerful story
 **Tell a powerful story**
 
-In the field of co-intelligence, stories are more than dramas people tell or read. Story, as a pattern, is a powerful way of organizing and sharing individual experience and exploring and co-creating shared realites. It forms one of the underlying structures of reality, comprehensible and responsive to those who possess what we call narrative intelligence. Our psyches and cultures are filled with narrative fields of influence, or story fields, which shape the awareness and behavior of the individuals and collectives associated with them.	Tom Atlee		http://www.co-intelligence.org/I-powerofstory.html						
+In the field of co-intelligence, stories are more than dramas people tell or read. Story, as a pattern, is a powerful way of organizing and sharing individual experience and exploring and co-creating shared realites. It forms one of the underlying structures of reality, comprehensible and responsive to those who possess what we call narrative intelligence. Our psyches and cultures are filled with narrative fields of influence, or story fields, which shape the awareness and behavior of the individuals and collectives associated with them.	Tom Atlee		http://www.co-intelligence.org/I-powerofstory.html			
+
+Similar: Group Works STORY
+
 ## Start with Why
 
 Patterns languages only work when the pattern are used in the correct order/sequence. To identify the mainframe patterns that form the whole, start by asking why you are doing what you are doing. Clarifying intent and why you are doing thing is a prequisite for any patterning.									
-## Build catchments
 
-entropy is the natural tendency to disorder, but it is balanced by an opposing tendency toward self-organization or what we call life. This kind of self-organization happens whenever energy flows are sufficient to generate storages.A catchment is nature's method of wealth accumulation and energy storage.A catchment is a system for accumulating a critical mass of a needed resource, like water or soil minerals, in order to trigger self-organizing system, i.e., life forms, that then spread over the landscape. Some natural examples of catchment include the sun, plant carbohydrates, bodies of water, geothemral energy, and plate tectonics.  How does catchment work? Since the ‚Äúdriving force behind all natural systems‚Äù is energy, catchment focuses on ways to capture naturally occurring flows of energy in such a way as to maximize the yield over time and space.   Catchment works because a positive feedback loop is created for energy, even in improbably small or forbidding places. 							
-
-Related: Energy cycling	Produce no waste, Outputs become inputs	
 
 ## Creative Walk &Movement				
 
@@ -257,15 +248,6 @@ source: sociocracy		https://en.wikipedia.org/wiki/Sociocracy#Organizing_in_circl
 #Semi-autonomous circles				
 Each circle has the responsibility to execute, measure, and control its own processes in achieving its goals. It governs a specific domain of responsibility within the policies of the larger organization. Circles are also responsible for their own development and for each member's development. Often called "integral education," the circle and its members are expected to determine what they need to know to remain competitive in their field and to reach the goals of their circle.	sociocracy		https://en.wikipedia.org/wiki/Sociocracy#Organizing_in_circles_.28principle_2.29	
 
-##Pioneers/weeds	
-
-**Find and understand the pioneers/weeds**		
-
-weeds grows in your garden, individuals don't behave the way you expect them to in your organization, and in both case the more you try to remove them, the more they keep coming back. As time goes you need to put in more and more energy to keep thing in balance.		
-
-In nature in a disturbed environnement, pioneer plants are the first to colonize a soil and improve it for future sucession cycles and other plants to come. Fine knoweldge of the species will tell you if a soil lacks certains mineral, has excess water, compaction, 
-
-Therefore having "weeds" is not a problem but merely an indication that there is a problem and this pioneers are actually working hard to fix it.   Within organizations the same pattern occurs, pioneers have often seen problems others don't see and usually try to improve it, sometime at their expense. However, most often organizations tend to, at best, ignore these pioneers, and at worst try to remove them, thinking THEY are the problem without understanding they are both an indicator and a solution to problem.  Therefore in any system, try to find and understand the pioneers as they will tell you a lot about what needs fixing and, if you let them, will start fixing it for you.	lilian, inspired by permaculture
 
 ##Support the women		
 
@@ -279,4 +261,4 @@ However studies have shown women manage money more fairly and distribute it in t
 One of the reasons presentations are dull is because there are no identifiable story patterns.		Whether for writing a movie or a business presentation, the most simplistic way to describe the structure of a story is situation, complication, and resolution. From mythic adventures to recollections shared around the dinner table, all stories follow this pattern. (RELATABLE AND LIKABLE HERO, ENCOUNTERS ROADBLOCKS, EMERGES TRANSFORMED)  Great stories introduce you to a hero to whom you can relate. The hero is usually a likeable sort who has an acute desire or goal that is threatened in some way. As the story unfolds and trials are met with triumph, you cheer for the hero until the story is resolved and the hero is transformed. As author Robert McKee explains, ‚ÄúSomething must be at stake that convinces the audience that a great deal will be lost if the hero doesn't obtain his goal.‚Äù If nothing is at risk, then it's not interesting.		
 
 ## Healing kindness
-**when feeling sorry for yourself, do something kind for someone else.**								
+**when feeling sorry for yourself, do something kind for someone else.**
