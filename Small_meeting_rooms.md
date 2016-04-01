@@ -6,7 +6,7 @@ The larger meetings are, the less people get out of them. But institutions often
 
 
 ## Solution
-Make at least 70 per cent of all meeting rooms really small - for It people or less. Locate them in the most public parts of the building, evenly scattered among the workplaces.
+Make at least 70 per cent of all meeting rooms really small - for 12 people or less. Locate them in the most public parts of the building, evenly scattered among the workplaces.
 
 ## Pattern source
 Christopher Alexander pattern language
