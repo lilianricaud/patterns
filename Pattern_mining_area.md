@@ -72,6 +72,8 @@ In nature systems change by step by step evolution of a seed situation. Ecosyste
 
 In butterfly metamophosis, specialized cells called imaginal cells divide and start to grow within the existing caterpillar, and gradually feeding of the old system.
 
+We can copy the way natural systems works.
+
 Therefore, 
 
 if you want to change a system, plant or find seeds of the new system and nurture them until they are strong enough to feed of the old system themselves.
