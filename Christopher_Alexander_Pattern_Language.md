@@ -1,3 +1,7 @@
+# Christopher_Alexander_Pattern_Language
+
+Excerpts from Christopher Alexander book A Pattern Language
+
 ## Flexible office space		
 
 Is it possible to create a kind of space which is specifically tuned to the needs of people working, and yet capable of an infinite number of various arrangements and combinations within it?		
