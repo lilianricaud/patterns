@@ -29,6 +29,18 @@ Imagine trying to play chess without a board. A game like chess relies not only 
 
 Source: Gamestorming
 
+## Meeting map
+
+Most meeting are confuse waste of time where no one is aligne on content and process
+
+Therefore, 
+
+Making Both Process and Content Explicit
+
+Sources: 
+- http://howtosavetheworld.ca/2015/06/21/the-meeting-map-making-both-process-and-content-explicit/
+- http://emergingleaderlabs.org/gameshifting_overview
+
 ## Build catchments
 
 entropy is the natural tendency to disorder, but it is balanced by an opposing tendency toward self-organization or what we call life. This kind of self-organization happens whenever energy flows are sufficient to generate storages.A catchment is nature's method of wealth accumulation and energy storage.A catchment is a system for accumulating a critical mass of a needed resource, like water or soil minerals, in order to trigger self-organizing system, i.e., life forms, that then spread over the landscape. Some natural examples of catchment include the sun, plant carbohydrates, bodies of water, geothemral energy, and plate tectonics.  How does catchment work? Since the ‚Äúdriving force behind all natural systems‚Äù is energy, catchment focuses on ways to capture naturally occurring flows of energy in such a way as to maximize the yield over time and space.   Catchment works because a positive feedback loop is created for energy, even in improbably small or forbidding places. 							
