@@ -72,3 +72,25 @@ Note : entre les patterns éthologiques d'un côté, et les patterns hydrologiqu
 ## Source:
 Eric Escoffier, Julie Gaffarel
 http://permaculture-sans-frontieres.org/fr/pattern
+
+
+## Liste de Patterns Permaculturels
+
+### double fer de hache
+
+### ramification
+
+### spirale
+
+### vague
+
+### Multifonction
+
+### Sol couvert
+
+### Guildes (cultures associées)
+
+### Cycles 
+cycles de matières, cycle d'énergie, cycle temporels, cycles saisonniers
+
+....
