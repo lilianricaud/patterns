@@ -140,7 +140,21 @@ Limites et difficultés: difficile de concevoir des séquences ou des patterns. 
 
 ## Système complexes
 
-Systèmes dynamiques no-linéaires complexes
+Systèmes dynamiques no-linéaires complexes:
+- convergent vers differentes solutions selon état de départ
+- stationnaire avec un ou plusieurs attracteurs oscillants ou chaotiques
+- souvent mais pas toujours sensibles aux conditions initialles, ce qui les rends déterministes, mais non predictibles
+
+Un même système lorsque son environnement est modifié peut présenter des bifurcations qui correspondent à l'apparition de modifications globales du comportement du système, sans que la nature des objets ou des interactions  aient changées localement -> Emergence  qui caractérise l'organisation en niveaux, chacun possédant des propriétés émergentes.
+
+Succession de bifurcations = historicité du système 
+
+Boucles de retroaction correspondant à une causalité circulaire sont nécessaire à l'apparition de ces comportements.
+
+Lorsque le système se déploi dans l'espace, bifurcations peuvent donner lieu a structures ou autoroganisation peut se produire.
+
+Livre:Emancipation et pensée du complexe.
+
 
 ## Caractéristiques de la pensée systémique
 - changement de perspective des parties au tout
