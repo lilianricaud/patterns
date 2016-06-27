@@ -67,7 +67,8 @@ La qualité sans nom: en perspective systémique systemes dissipatifs produisent
 arches vs angle droit
 
 patterns banlieux
-- patterns zones commerciales
+- patterns zones commerciales: GRANDES AVENUES, BATIMENTS ECRASANT, VOITURE REINE
+- patterns centre ville: RUES PIETONNES, UNITE ARCHITECTURALLE
 - patterns le corbusier, arches bétons basées sur la force, defiant la gravité, vs patterns intégrant les forces (pont du gard)
 
 
@@ -115,6 +116,8 @@ Chants et culture orale: outils de décodage de patterns
 Fontaines montpellier vs mus végétal sec.
 Village généré par itérations successives vs lotissement assemblé pour donner un air traditionnel.
 
+
+
 ### Differentiation du tout
 
 - Place de Venise
@@ -128,9 +131,16 @@ recettes vs ingrédients
 patterns deuxième génération. décrivent un processus
 contiennent patterns spatiaux + patterns temporels (dans quel ordre deployer les patterns).
 
+La séquence de déroulement (unfolding) est organisé afin que la form se déplie de manière cohérente et permettent à tous les patterns nécessaire d'apparatitre dans la structure finie. Les séquences traditionelles crééaient aussi la forme, la géométrie, le style afin que le tout ait une cohérence profonde.
+
 Limites et difficultés: difficile de concevoir des séquences ou des patterns. Les deux doivent être générés eux mêmes par itérations successives.
 
-# Les travaux d'Alexander vus à travers le prisme de la pensée systémique
+
+# la pensée systémique
+
+## Système complexes
+
+Systèmes dynamiques no-linéaires complexes
 
 ## Caractéristiques de la pensée systémique
 - changement de perspective des parties au tout
@@ -155,3 +165,18 @@ Quand le flot d'energie et de matière passant à travers eux augmente, les syt�
 Ils atteignent un point de bifurcation où le système peut évoluer vers différents états, chacun caractérisé par un attracteur spécifique où de nouvelles structures et formes d'ordre émergent.
 
 Lié à fluctuation amplifiées par boucles positives de feedback.
+
+### Exergie
+
+En thermodynamique, l'exergie est une grandeur permettant de mesurer la qualité d'une énergie, la partie utilisable, le travail maximum récupérable = variation au cours d'une transformation
+
+### Néguentropie:
+
+D'origine thermodynamique, utilisé en systémique comme synonyme de la force de cohésion. Traduction physique de l'information ? On parle dans l'étude de système dynamique de dysentropie où une neguentropie partielle mène à l'état d'auto organisation de niveau supérieur par un phénomène de percolation.
+
+
+# Les travaux d'Alexander vus à travers le prisme de la pensée systémique
+
+Qualité sans nom et structure dissipatives
+
+Les 15 transformations comme méta-patterns
