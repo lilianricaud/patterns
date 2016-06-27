@@ -5,10 +5,11 @@
 
 Une configuration de relations charactéristique d'un système.
 
-### Systèmes complexe et patterns
+exemple de patterns naturel (éclairs, branches, rivieres... spirales...)
+exemple de patterns d'architecture (fenêtres, portes, maisons, ...)
+patrons de coutures: robes, jeans
+visages humains: nez au milieu, deux yeux vers le haut, cheveux sur le dessus, bouche en bas, oreilles sur le coté, ...
 
-de quantité à qualité
-d'objets à relations
 
 ### Patterns de couture
 
@@ -47,6 +48,9 @@ EGLISE: lieu inspirant le recueillement, la spiritualité, la connexion quelque 
 GUITARE: MANCHE + CHEVALET + CORDES tendues sur manche entre sillon et chevalet.
 vairante du pattern: caisse de accoustique(résonance ), manouche (chevalet métal), électrique (caisse plate + micros + amplis), accoustique pour solo (caisse grignotée), flying V (s'affranchit completement du format de résonnance originel) double manche electrique, guitare+basse, Weissenborn (s'affranchit de manche dégagé car jeu différent ne nécessitant pas accès au touches)
 
+VELO: proto vélo = 2 ROUES reliées par un CADRE. VELO contient aussi GUIDON + PEDALIER (FREINS)
+
+variantes: velo couché, velos de course, vélo tout terrain (SUSPENSIONS), grand vélos (ROUES ASSYMETRIQUES)
 
 
 
@@ -79,6 +83,15 @@ Uen façon de gérer la complexité.
 Limite des patterns: ordre d'usage en situation complexe. Le patternd écrit le résultat final, la situation qui marche et son contexte, mais pas comment aboutir à cette situation, le processus à suivre.
 
 
+### Usage traditionnel des patterns
+
+Outil de lecture et de comprehensions du monde (interprétation, sens, meaning)
+Chants et culture orale: outils de décodage de patterns
+- ile polynésiennes
+- Chants aborigènes = cartes du territoire
+- Eim, la lecture des signes
+- symboles
+- myhthes
 
 
 
@@ -92,6 +105,7 @@ Village généré par itérations successives vs lotissement assemblé pour donn
 
 - Place de Venise
 - Embryon
+- objets itérés (cabane -> maison ...)
 
 ### Séquences genératives
 
@@ -102,8 +116,16 @@ contiennent patterns spatiaux + patterns temporels (dans quel ordre deployer les
 
 Limites et difficultés: difficile de concevoir des séquences ou des patterns. Les deux doivent être générés eux mêmes par itérations successives.
 
-### Chants et culture orale
 
-- ile polynésiennes
-- Chants aborigènes = cartes du territoire
-- Eim, la lecture des signes
+
+## Caractéristiques de la pensée systémique
+- changement de perspective des parties au tout
+- multidisciplinarité inhérente
+- des objets aux relations
+- de mesurer à cartographier
+- des quantités au qualités
+- des structures aux processus
+- d'une science objctive à une science epistémique
+- de la certitude Cartésienne à une connaissance approximative
+
+Capra 2015, p80.
