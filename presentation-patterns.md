@@ -20,26 +20,14 @@ patrons
 Branche (éclair
 
 
-Exemples de patterns : temporels : les polyrythmies... ; spatio-temporels : la chorégraphie, les phénomènes météo, les saisons de fructification... ; spatiaux : le relief, les motifs du chou romanesco ou des cônes des pins..
-
-### Patterns en permaculture
-
-pattern : motif, cycle. Schème, structure, processus. Modèle, canevas. Façon, manière, forme... Spatiale et/ou temporelle... sous laquelle les phénomènes se manifestent et interagissent pour tisser la réalité, incluant les comportements du vivant.
-
-Les patterns ont un sens. Ils sont liés à des fonctions (par exemple le pattern de ramification est souvent lié à la circulation de flux : systèmes racinaires et aériens des végétaux, réseaux sanguins et hydrologiques...).
-
-- double fer de hache, 
-- ramification, 
-- spirale
-- onde
-
-http://permaculture-sans-frontieres.org/fr/pattern
-
 ### Patterns en architecture
 
-MUR = contexte: besoin de se protéger des intempéries, bêtes sauvages, autres personnes, protections visuelle. Solution: enceinte protégée séparant intérieur et extérieur. Peux être faites en bois, bambous, paille, terre, pierre, brique...
+Fenetres, eglises, maisons
+
 
 ### Variations de Patterns 
+
+MUR = contexte: besoin de se protéger des intempéries, bêtes sauvages, autres personnes, protections visuelle. Solution: enceinte protégée séparant intérieur et extérieur. Peux être faites en bois, bambous, paille, terre, pierre, brique...
 
 PORTE: contexte: besoin de se protéger avec des MURS, mais nécessité de rentrer et sortir. Solution: dans l'enceinte ménager une ouverture qui peut être ouverte et fermée de façon dynamique via un panneau. (déclinaisons du pattern utilisant différents sous pattern: porte charnière, porte glissière, tissu, herse... l'usage de l'un ou l'autre de sous pattern est dicté par les besoins du contexte)
 
@@ -51,7 +39,6 @@ vairante du pattern: caisse de accoustique(résonance ), manouche (chevalet mét
 VELO: proto vélo = 2 ROUES reliées par un CADRE. VELO contient aussi GUIDON + PEDALIER (FREINS)
 
 variantes: velo couché, velos de course, vélo tout terrain (SUSPENSIONS), grand vélos (ROUES ASSYMETRIQUES)
-
 
 
 ### Patterns en musique
@@ -67,13 +54,28 @@ salsa: clave +
 - curry
 - herbes-fraiches
 
-### Design patterns informatique
-
 ### Alexander et la méthode des patterns
 
 Cofidication des bonnes pratiques
 
 ### Patterns vivants / génératifs
+
+### Design patterns informatique
+
+### Patterns en permaculture
+
+pattern : motif, cycle. Schème, structure, processus. Modèle, canevas. Façon, manière, forme... Spatiale et/ou temporelle... sous laquelle les phénomènes se manifestent et interagissent pour tisser la réalité, incluant les comportements du vivant.
+
+Les patterns ont un sens. Ils sont liés à des fonctions (par exemple le pattern de ramification est souvent lié à la circulation de flux : systèmes racinaires et aériens des végétaux, réseaux sanguins et hydrologiques...).
+
+Exemples de patterns : temporels : les polyrythmies... ; spatio-temporels : la chorégraphie, les phénomènes météo, les saisons de fructification... ; spatiaux : le relief, les motifs du chou romanesco ou des cônes des pins..
+
+- double fer de hache, 
+- ramification, 
+- spirale
+- onde
+
+http://permaculture-sans-frontieres.org/fr/pattern
 
 ### Patterns une façon de lire le monde
 
@@ -87,8 +89,9 @@ Limite des patterns: ordre d'usage en situation complexe. Le patternd écrit le 
 
 Outil de lecture et de comprehensions du monde (interprétation, sens, meaning)
 Chants et culture orale: outils de décodage de patterns
-- ile polynésiennes
+- ile polynésiennes: chant pour lire les signe et retrouver son chemin 
 - Chants aborigènes = cartes du territoire
+- chant samoan pour assembler un canoé
 - Eim, la lecture des signes
 - symboles
 - myhthes
