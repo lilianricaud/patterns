@@ -60,6 +60,17 @@ Cofidication des bonnes pratiques
 
 ### Patterns vivants / génératifs
 
+La qualité sans nom: en perspective systémique systemes dissipatifs produisent de l'ordre
+
+"anti-patterns": patterns mortifères, usages anti-sociaux des patterns (bancs anticlochards)
+
+arches vs angle droit
+
+patterns banlieux
+- patterns zones commerciales
+- patterns le corbusier, arches bétons basées sur la force, defiant la gravité, vs patterns intégrant les forces (pont du gard)
+
+
 ### Design patterns informatique
 
 ### Patterns en permaculture
@@ -119,7 +130,7 @@ contiennent patterns spatiaux + patterns temporels (dans quel ordre deployer les
 
 Limites et difficultés: difficile de concevoir des séquences ou des patterns. Les deux doivent être générés eux mêmes par itérations successives.
 
-
+# Les travaux d'Alexander vus à travers le prisme de la pensée systémique
 
 ## Caractéristiques de la pensée systémique
 - changement de perspective des parties au tout
@@ -132,3 +143,15 @@ Limites et difficultés: difficile de concevoir des séquences ou des patterns. 
 - de la certitude Cartésienne à une connaissance approximative
 
 Capra 2015, p80.
+
+## Structures dissipatives et nature de l'ordre
+
+En thermodynamique classique, la dissipation de l'énergie en chaleur, friction, ... est toujours associée à une perdition.
+
+Le concept de structure disssipatives de Prigogine introduit un changement radical de vue en montrant que dans des système ouverts la dissipation devient une source d'ordre.
+
+Quand le flot d'energie et de matière passant à travers eux augmente, les sytèmes ouverts deviennent instables et se transforment en nouvelles structures émergentes de plus grande complexité.
+
+Ils atteignent un point de bifurcation où le système peut évoluer vers différents états, chacun caractérisé par un attracteur spécifique où de nouvelles structures et formes d'ordre émergent.
+
+Lié à fluctuation amplifiées par boucles positives de feedback.
