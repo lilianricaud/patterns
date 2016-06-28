@@ -45,7 +45,18 @@ variantes: velo couché, velos de course, vélo tout terrain (SUSPENSIONS), gran
 
 gammes, raga, accords
 
+Plusieurs caractéristiques pour chaque musique:
+groove, tonalité, technique, progression d'accord, gamme, culture
+
 salsa: clave +
+
+MUSIQUE PUNK: CHANT CRIE, SATURATION, POWER CHORDS, 3 ACCORDS, BASSE REPETITIVE, BATTERIE LOURDE ET SECHE, 4/4, SIMPLICITE, SOLOS BASIQUES, PAROLES CONFRONTATRICES, ATTITUDE NIHILISTE, CRITIQUE SOCIALE
+
+MUSIQUE BLUES: GAMME PENTATONIQUE MINEURE, BASSE REPETITIVE, GUITARE MELODIQUE
+
+MUSIQUE FLAMENCO: GUITARE AUX DOIGTS, 
+
+MUSIQUE METAL: 
 
 ### Patterns en cuisine
 
@@ -56,7 +67,19 @@ salsa: clave +
 
 ### Alexander et la méthode des patterns
 
-Cofidication des bonnes pratiques
+Cofidication des bonnes pratiques pour expliciter et rendre partageables ces bonnes pratiques.
+
+Patterns = systèmes intégrant plusieurs forces (architectures, mais aussi social tres souvent).
+
+attention la forme externe peut sembler similaire, mais les forces en présence sont différentes:
+
+TROTTOIR DE PASSAGE: dans les villes occidentales un troittoir sert de lieu de passage protégé des voitures pour les pietons
+
+TROTOIR DE VIE: dans les villes du sud, un troittoir est un lieu de vie où l'on rencontre du monde, installe un marché, dort.
+
+La forme architecturale est similaire, mais le système social lié est tres different, il s'agit donc de deux patterns différents.
+
+Le processus qui conduit au pattern est clé, la forme externe n'est que la conséquence de l'interaction des forces. Un bon processus conduira a un pattern adapté.
 
 ### Patterns vivants / génératifs
 
