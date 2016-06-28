@@ -36,9 +36,11 @@ EGLISE: lieu inspirant le recueillement, la spiritualité, la connexion quelque 
 GUITARE: MANCHE + CHEVALET + CORDES tendues sur manche entre sillon et chevalet.
 vairante du pattern: caisse de accoustique(résonance ), manouche (chevalet métal), électrique (caisse plate + micros + amplis), accoustique pour solo (caisse grignotée), flying V (s'affranchit completement du format de résonnance originel) double manche electrique, guitare+basse, Weissenborn (s'affranchit de manche dégagé car jeu différent ne nécessitant pas accès au touches) https://en.wikipedia.org/wiki/Acoustic_guitar
 
+VELO: proto vélo = 2 ROUES reliées par un CADRE. VELO contient aussi GUIDON + PEDALIER (FREINS)
+
+
 <img src="https://raw.githubusercontent.com/lilianricaud/patterns/master/bike-patterns-open-hardware.jpg">
 
-VELO: proto vélo = 2 ROUES reliées par un CADRE. VELO contient aussi GUIDON + PEDALIER (FREINS)
 
 variantes: velo couché, velos de course, vélo tout terrain (SUSPENSIONS), grand vélos (ROUES ASSYMETRIQUES)
 
@@ -54,11 +56,14 @@ salsa: clave +
 
 MUSIQUE PUNK: CHANT CRIE, SATURATION, POWER CHORDS, 3 ACCORDS, BASSE REPETITIVE, BATTERIE LOURDE ET SECHE, 4/4, SIMPLICITE, SOLOS BASIQUES, PAROLES CONFRONTATRICES, ATTITUDE NIHILISTE, CRITIQUE SOCIALE
 
-MUSIQUE BLUES: GAMME PENTATONIQUE MINEURE, BASSE REPETITIVE, GUITARE MELODIQUE
+MUSIQUE SALSA: CLAVE, RHYTMES RAPIDES, CUIVRE, SECTION PERCUSSION, ALIGNEMENT PERCUSSION-CLAVE, GUAJEO, BASSE TUMBAO, MONAS, APPEL ET REPONSE
+https://en.wikipedia.org/wiki/Salsa_music#Music_structure
+
+MUSIQUE BLUES: GAMME PENTATONIQUE MINEURE, BASSE REPETITIVE, GUITARE MELODIQUE, APPEL ET REPONSE, 4/4
 
 MUSIQUE FLAMENCO: GUITARE ACCOUSTIQUE, JEU AUX DOIGTS, CHANT INTENSE, PERCUSION CORPORELLE
 
-MUSIQUE METAL: RYTHMES LOURDS, SON SATURE,
+MUSIQUE METAL: RYTHMES LOURDS, SON SATURE, LONG SOLOS, MUSIQUE TECHNIQUE
 
 ### Patterns en cuisine
 
