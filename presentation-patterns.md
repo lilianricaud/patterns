@@ -34,7 +34,9 @@ PORTE: contexte: besoin de se protéger avec des MURS, mais nécessité de rentr
 EGLISE: lieu inspirant le recueillement, la spiritualité, la connexion quelque chose de plus grand que soit, mais avec une fonction de lieu d'accueil de rituels. Espace amenagé ou on peut rentrer en (grand) groupe, possède tres généralement une élévation pour créer une connexion visuelle avec le ciel (CLOCHER; differents types de clocher: clocher murs toulousains, clochés tordus barran, cloches type minarets (ariège, clocher séparé de st-michel a bordeaux, double tours cathédrale auch).
 
 GUITARE: MANCHE + CHEVALET + CORDES tendues sur manche entre sillon et chevalet.
-vairante du pattern: caisse de accoustique(résonance ), manouche (chevalet métal), électrique (caisse plate + micros + amplis), accoustique pour solo (caisse grignotée), flying V (s'affranchit completement du format de résonnance originel) double manche electrique, guitare+basse, Weissenborn (s'affranchit de manche dégagé car jeu différent ne nécessitant pas accès au touches)
+vairante du pattern: caisse de accoustique(résonance ), manouche (chevalet métal), électrique (caisse plate + micros + amplis), accoustique pour solo (caisse grignotée), flying V (s'affranchit completement du format de résonnance originel) double manche electrique, guitare+basse, Weissenborn (s'affranchit de manche dégagé car jeu différent ne nécessitant pas accès au touches) https://en.wikipedia.org/wiki/Acoustic_guitar
+
+<img src="https://raw.githubusercontent.com/lilianricaud/patterns/master/bike-patterns-open-hardware.jpg">
 
 VELO: proto vélo = 2 ROUES reliées par un CADRE. VELO contient aussi GUIDON + PEDALIER (FREINS)
 
@@ -54,9 +56,9 @@ MUSIQUE PUNK: CHANT CRIE, SATURATION, POWER CHORDS, 3 ACCORDS, BASSE REPETITIVE,
 
 MUSIQUE BLUES: GAMME PENTATONIQUE MINEURE, BASSE REPETITIVE, GUITARE MELODIQUE
 
-MUSIQUE FLAMENCO: GUITARE AUX DOIGTS, 
+MUSIQUE FLAMENCO: GUITARE ACCOUSTIQUE, JEU AUX DOIGTS, CHANT INTENSE, PERCUSION CORPORELLE
 
-MUSIQUE METAL: 
+MUSIQUE METAL: RYTHMES LOURDS, SON SATURE,
 
 ### Patterns en cuisine
 
