@@ -76,6 +76,13 @@ MUSIQUE METAL: RYTHMES LOURDS, SON SATURE, LONG SOLOS, MUSIQUE TECHNIQUE
 
 Cofidication des bonnes pratiques pour expliciter et rendre partageables ces bonnes pratiques.
 
+Patterns = 
+- outil de lecture (lentille pour regarder le monde et focaliser sur certains aspects)
+- outil d'évaluation qualitative: est ce que le pattern est présent, oui ou non, si oui, dans quelle mesure est il bien exprimé
+- format/protocole de documentation/explicitation/partage de bonnes pratiques
+-> donne une trame de la configuration idéalle à atteindre
+ne donne pas le moyen d'arriver à une bonne expression du pattern, notamment le processus de conjugaison avec les autres pattenrs via le processus differentiation par émergence/déploiement des centres/patterns.
+
 Patterns = systèmes intégrant plusieurs forces (architectures, mais aussi social tres souvent).
 
 attention la forme externe peut sembler similaire, mais les forces en présence sont différentes:
