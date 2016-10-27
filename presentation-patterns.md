@@ -39,7 +39,7 @@ vairante du pattern: caisse de accoustique(résonance ), manouche (chevalet mét
 VELO: proto vélo = 2 ROUES reliées par un CADRE. VELO contient aussi GUIDON + PEDALIER (FREINS)
 
 
-<img src="https://raw.githubusercontent.com/lilianricaud/patterns/master/bike-patterns-open-hardware.jpg">
+![](https://raw.githubusercontent.com/lilianricaud/patterns/master/bike-patterns-open-hardware.jpg)
 
 
 variantes: velo couché, velos de course, vélo tout terrain (SUSPENSIONS), grand vélos (ROUES ASSYMETRIQUES)
@@ -153,13 +153,16 @@ Chants et culture orale: outils de décodage de patterns
 Fontaines montpellier vs mus végétal sec.
 Village généré par itérations successives vs lotissement assemblé pour donner un air traditionnel.
 
-Ilot moussu
+#### Structure assemblée: Mur végétalisé
 
-<img src="https://raw.githubusercontent.com/lilianricaud/patterns/master/pattern-Ilot_moussu-montpellier.jpg">
+![Mur végétalisé à Avignon: "ordre" non naturel: assemblage artificiel de diverses espèces, conséquences: système non stable, pas d'auto-maintenance et grand cout énérgétique pour maintenir cette apparence d'ordre](https://raw.githubusercontent.com/lilianricaud/patterns/master/pattern-mur-vegetalise-avignon.jpg)
 
- Lors de sa création, cette petite roche d'une cinquantaine de centimètres s'est enrichie de concrétions de calcaire et de mousse, issue de la végétation environnante, qui au fil du temps, ont donné cet immense agrégat ou choux fleur vert faisant la curiosité de ce square. L'ensemble du fond du bassin a été réalisé avec les pierres de l'ancienne poissonnerie qui se trouvait, jadis, à la place des Halles Castellane qui se situe à côté des places Jean Jaurès et des Martyrs de la résistance.
+
+### Structure générée: Ilot moussu
+
+![Lors de sa création, cette petite roche d'une cinquantaine de centimètres s'est enrichie de concrétions de calcaire et de mousse, issue de la végétation environnante, qui au fil du temps, ont donné cet immense agrégat ou choux fleur vert faisant la curiosité de ce square. L'ensemble du fond du bassin a été réalisé avec les pierres de l'ancienne poissonnerie qui se trouvait, jadis, à la place des Halles Castellane qui se situe à côté des places Jean Jaurès et des Martyrs de la résistance.](https://raw.githubusercontent.com/lilianricaud/patterns/master/pattern-Ilot_moussu-montpellier.jpg)
+
  
-https://fr.wikipedia.org/wiki/Square_Planchon#L.27.C3.AElot_moussu
 
 
 ### Differentiation du tout
