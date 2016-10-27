@@ -246,3 +246,15 @@ D'origine thermodynamique, utilisé en systémique comme synonyme de la force de
 Qualité sans nom et structure dissipatives
 
 Les 15 transformations comme méta-patterns
+
+
+
+## Images à trouver
+- jardiniere batiment previfrance
+- facade pays basque
+- espadrilles
+- route sans trottoir
+- bidonville
+- porte fermat
+- porte jardin botanique
+- structure destroying jeanne d'arc credit agricole.
