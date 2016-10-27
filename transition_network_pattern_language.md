@@ -11,3 +11,5 @@ The information here comes from many sources. Most important is the direct exper
 The core of the research guidelines is a pattern language: a collection of reliable solutions to problems that regularly arise in Transition research. Not every pattern is relevant to every research project, but for every project there should be some combination of patterns that provides a reliable guide to action. A number of user interfaces are under development, that can help guide you to the patterns that suit your unique circumstances. 
 
 - https://patterns.transitionresearchnetwork.org/
+
+- contact: transitionresearchnetwork@gmail.com
