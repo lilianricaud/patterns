@@ -153,6 +153,13 @@ Chants et culture orale: outils de décodage de patterns
 Fontaines montpellier vs mus végétal sec.
 Village généré par itérations successives vs lotissement assemblé pour donner un air traditionnel.
 
+Ilot moussu
+
+![]( https://github.com/lilianricaud/patterns/pattern-Ilot_moussu-montpellier.jpg )
+
+ Lors de sa création, cette petite roche d'une cinquantaine de centimètres s'est enrichie de concrétions de calcaire et de mousse, issue de la végétation environnante, qui au fil du temps, ont donné cet immense agrégat ou choux fleur vert faisant la curiosité de ce square. L'ensemble du fond du bassin a été réalisé avec les pierres de l'ancienne poissonnerie qui se trouvait, jadis, à la place des Halles Castellane qui se situe à côté des places Jean Jaurès et des Martyrs de la résistance.
+ 
+https://fr.wikipedia.org/wiki/Square_Planchon#L.27.C3.AElot_moussu
 
 
 ### Differentiation du tout
