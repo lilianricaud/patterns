@@ -163,6 +163,8 @@ Mur végétalisé à Avignon: "ordre" non naturel: assemblage artificiel de dive
 
 ![](https://raw.githubusercontent.com/lilianricaud/patterns/master/pattern-Ilot_moussu-montpellier.jpg)
 Lors de sa création, cette petite roche d'une cinquantaine de centimètres s'est enrichie de concrétions de calcaire et de mousse, issue de la végétation environnante, qui au fil du temps, ont donné cet immense agrégat ou choux fleur vert faisant la curiosité de ce square.
+
+La structure générée, le calcaire s'accumulle et donne des formes particulières, tandis que la vie trouve sa place en raison des conditions du lieu (brumisation constante, emplacements niche). Tant que les conditions restent similaires le système est très stable.
  
 
 
