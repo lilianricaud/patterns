@@ -3,7 +3,7 @@
 
 ### C'est quoi un pattern ?
 
-Une configuration de relations charactéristique d'un système.
+Une configuration de relations caractéristique d'un système donné.
 
 exemple de patterns naturel (éclairs, branches, rivieres... spirales...)
 exemple de patterns d'architecture (fenêtres, portes, maisons, ...)
@@ -128,10 +128,11 @@ http://permaculture-sans-frontieres.org/fr/pattern
 
 ### Patterns une façon de lire le monde
 
-Expliciter la connaissance et la rendre facilement partageable
-Redonner vie à une culture perdue
-Uen façon de gérer la complexité.
-Limite des patterns: ordre d'usage en situation complexe. Le patternd écrit le résultat final, la situation qui marche et son contexte, mais pas comment aboutir à cette situation, le processus à suivre.
+- Expliciter la connaissance et la rendre facilement partageable
+- Redonner vie à une culture perdue
+- Une façon de gérer la complexité.
+- un outil pour observer/lire/cartographier le monde: donne un focus
+- Limite des patterns: ordre d'usage en situation complexe. Le patternd écrit le résultat final, la situation qui marche et son contexte, mais pas comment aboutir à cette situation, le processus à suivre.
 
 
 ### Usage traditionnel des patterns
@@ -155,13 +156,13 @@ Village généré par itérations successives vs lotissement assemblé pour donn
 
 #### Structure assemblée: Mur végétalisé
 
-![Mur végétalisé à Avignon: "ordre" non naturel: assemblage artificiel de diverses espèces, conséquences: système non stable, pas d'auto-maintenance et grand cout énérgétique pour maintenir cette apparence d'ordre](https://raw.githubusercontent.com/lilianricaud/patterns/master/pattern-mur-vegetalise-avignon.jpg)
-
+![](https://raw.githubusercontent.com/lilianricaud/patterns/master/pattern-mur-vegetalise-avignon.jpg)
+Mur végétalisé à Avignon: "ordre" non naturel: assemblage artificiel de diverses espèces, conséquences: système non stable, pas d'auto-maintenance et grand cout énérgétique pour maintenir cette apparence d'ordre
 
 ### Structure générée: Ilot moussu
 
-![Lors de sa création, cette petite roche d'une cinquantaine de centimètres s'est enrichie de concrétions de calcaire et de mousse, issue de la végétation environnante, qui au fil du temps, ont donné cet immense agrégat ou choux fleur vert faisant la curiosité de ce square. L'ensemble du fond du bassin a été réalisé avec les pierres de l'ancienne poissonnerie qui se trouvait, jadis, à la place des Halles Castellane qui se situe à côté des places Jean Jaurès et des Martyrs de la résistance.](https://raw.githubusercontent.com/lilianricaud/patterns/master/pattern-Ilot_moussu-montpellier.jpg)
-
+![](https://raw.githubusercontent.com/lilianricaud/patterns/master/pattern-Ilot_moussu-montpellier.jpg)
+Lors de sa création, cette petite roche d'une cinquantaine de centimètres s'est enrichie de concrétions de calcaire et de mousse, issue de la végétation environnante, qui au fil du temps, ont donné cet immense agrégat ou choux fleur vert faisant la curiosité de ce square.
  
 
 
@@ -170,6 +171,8 @@ Village généré par itérations successives vs lotissement assemblé pour donn
 - Place de Venise
 - Embryon
 - objets itérés (cabane -> maison ...)
+
+structure détruisant la symétrie (parking carmes)
 
 ### Séquences genératives
 
