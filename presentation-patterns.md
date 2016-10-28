@@ -258,3 +258,6 @@ Les 15 transformations comme méta-patterns
 - porte fermat
 - porte jardin botanique
 - structure destroying jeanne d'arc credit agricole.
+- mediathèque place battue par les vents et le soleil
+- vue du ciel centre ville historique vs banlieu lotissement
+- irrigation en cercle pays du golfe
