@@ -1,5 +1,7 @@
 Shared Language is a prerequisite to collaboration. Without Shared Language, we can’t collaborate. It’s as simple as that. When a group tries to collaborate without having Shared Language, the group will try to create it, whether it’s aware of it or not. This creation process is often frustrating and painful, and as a result, people sometimes try to skip this step or belittle the process. This is a problem. You can’t skip this step. 
 
+Pattern Languages are all about Shared Language. Much of Christopher Alexander‘s classic, The Timeless Way of Building, is about the importance of names. 
+
 There are two myths regarding how you create Shared Language. The first is that “shared” is equivalent to “same.” They’re not. Shared Language means that you understand how others around you are using terminology. Some level of sameness is obviously useful, but when you’re dealing with something relatively complex, sameness is both impossible and undesirable. 
 
 The second myth is that creating Shared Language consists of creating a dictionary. That’s certainly one way to approach it, but it’s not the only way, and often times, it’s not the best nor the fastest way. 
