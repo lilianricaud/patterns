@@ -1,10 +1,6 @@
 # Pattern Mining areas
 
-This is part of an effort to 
-- mine refine co-creative patterns 
-- build pattern languages and generative sequences as defined by Christopher Alexander.
-
-See the ReadMe for more information
+This is part of an effort to mine refine co-creative patterns. These patterns are my (LIlian RICaud) selection.
 
 All work is licenced under CC-BY-SA unless stated otherwise.
 
