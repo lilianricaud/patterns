@@ -1,7 +1,21 @@
 # Liberating voices - Pattern Language for Communication Revolution
 
+Liberating Voices! 
+A Pattern Language for Communication Revolution
+
+We are now in the 7th year of a 12-year project to help understand, motivate and inform the worldwide movement to establish full access to information and communication — including the design and management of information and communication systems.
+
+We're working together to develop one or more "pattern languages" which can help people think about, design, develop, manage and use information and communication systems that more fully meet human needs now — and in the future.
+
+Our "pattern language" is a holistic collection of "patterns" that can be used together to address an information or communication problem. Each "pattern" in this pattern language, when complete, will represent an important insight that will help contribute to a communication revolution.
+
+The book that contains the first version of the Liberating Voices pattern language is now available from MIT Press. There are several "context" chapters in addition to the 136 patterns. The patterns are also available on this site, some in slightly different form.
+
+
 http://www.publicsphereproject.org/content/pattern-language-main-page
 
+
+## List of patterns
 
 *   [Home](/)
 *   [Pattern Languages](http://www.publicsphereproject.org/content/pattern-language-main-page)
