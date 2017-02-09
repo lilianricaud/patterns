@@ -12,4 +12,100 @@ The core of the research guidelines is a pattern language: a collection of relia
 
 - https://patterns.transitionresearchnetwork.org/
 
+<div class="search-result-list">
+
+[Academic-practitioner networks](https://patterns.transitionresearchnetwork.org/Academic_practitioner_networks.html)
+
+[Accessibility](https://patterns.transitionresearchnetwork.org/Accessibility.html)
+
+[Accountability](https://patterns.transitionresearchnetwork.org/Accountability.html)
+
+[Action Research](https://patterns.transitionresearchnetwork.org/Action_Research.html)
+
+[An agreed level of collaboration](https://patterns.transitionresearchnetwork.org/An_agreed_level_of_collaboration.html)
+
+[Appreciating Failure](https://patterns.transitionresearchnetwork.org/Appreciating_Failure.html)
+
+[Appropriate Representation](https://patterns.transitionresearchnetwork.org/Appropriate_Representation.html)
+
+[Appropriate Time Scales](https://patterns.transitionresearchnetwork.org/Appropriate_Time_Scales.html)
+
+[Being Rigorous](https://patterns.transitionresearchnetwork.org/Being_Rigorous.html)
+
+[Building Community](https://patterns.transitionresearchnetwork.org/Building_Community.html)
+
+[Building Resilience](https://patterns.transitionresearchnetwork.org/Building_Resilience.html)
+
+[Citizen Science](https://patterns.transitionresearchnetwork.org/Citizen_Science.html)
+
+[Clear Language](https://patterns.transitionresearchnetwork.org/Clear_Language.html)
+
+[Collective Active Learning](https://patterns.transitionresearchnetwork.org/Collective_Active_Learning.html)
+
+[Creating Positive Change](https://patterns.transitionresearchnetwork.org/Creating_Positive_Change.html)
+
+[Critical Thinking](https://patterns.transitionresearchnetwork.org/Critical_Thinking.html)
+
+[Designing Research Together](https://patterns.transitionresearchnetwork.org/Designing_Research_Together.html)
+
+[Detached Research](https://patterns.transitionresearchnetwork.org/Detached_Research.html)
+
+[Effort where it's needed](https://patterns.transitionresearchnetwork.org/Effort_where_it_s_needed.html)
+
+[Energy Descent](https://patterns.transitionresearchnetwork.org/Energy_Descent.html)
+
+[Evaluation](https://patterns.transitionresearchnetwork.org/Evaluation.html)
+
+[Grounded Theory](https://patterns.transitionresearchnetwork.org/Grounded_Theory.html)
+
+[Inclusion and Diversity](https://patterns.transitionresearchnetwork.org/Inclusion_and_Diversity.html)
+
+[Interpersonal relations](https://patterns.transitionresearchnetwork.org/Interpersonal_relations.html)
+
+[Making a difference](https://patterns.transitionresearchnetwork.org/Making_a_difference.html)
+
+[Memorandum of Understanding](https://patterns.transitionresearchnetwork.org/Memorandum_of_Understanding.html)
+
+[Multiple sites of dissemination](https://patterns.transitionresearchnetwork.org/Multiple_sites_of_dissemination.html)
+
+[Needs Assessment](https://patterns.transitionresearchnetwork.org/Needs_Assessment.html)
+
+[Open Source Knowledge Commons](https://patterns.transitionresearchnetwork.org/Open_Source_Knowledge_Commons.html)
+
+[Participatory Action Research](https://patterns.transitionresearchnetwork.org/Participatory_Action_Research.html)
+
+[Participatory Ethical Practices](https://patterns.transitionresearchnetwork.org/Participatory_Ethical_Practices.html)
+
+[Participatory Methods](https://patterns.transitionresearchnetwork.org/Participatory_Methods.html)
+
+[Practitioner-led Research](https://patterns.transitionresearchnetwork.org/Practitioner_led_Research.html)
+
+[Produce no waste](https://patterns.transitionresearchnetwork.org/Produce_no_waste.html)
+
+[Promoting wellbeing](https://patterns.transitionresearchnetwork.org/Promoting_wellbeing.html)
+
+[Recognition of Authorship](https://patterns.transitionresearchnetwork.org/Recognition_of_Authorship.html)
+
+[Reflecting on what we do](https://patterns.transitionresearchnetwork.org/Reflecting_on_what_we_do.html)
+
+[Research as Activism](https://patterns.transitionresearchnetwork.org/Research_as_Activism.html)
+
+[Research Marketplace](https://patterns.transitionresearchnetwork.org/Research_Marketplace.html)
+
+[Setting Clear Expectations](https://patterns.transitionresearchnetwork.org/Setting_Clear_Expectations.html)
+
+[Sharing Resources](https://patterns.transitionresearchnetwork.org/Sharing_Resources.html)
+
+[Sharing Skills](https://patterns.transitionresearchnetwork.org/Sharing_Skills.html)
+
+[Space for the unexpected](https://patterns.transitionresearchnetwork.org/Space_for_the_unexpected.html)
+
+[Transparency](https://patterns.transitionresearchnetwork.org/Transparency.html)
+
+[Working across boundaries](https://patterns.transitionresearchnetwork.org/Working_across_boundaries.html)
+
+[Working Across Scales](https://patterns.transitionresearchnetwork.org/Working_Across_Scales.html)
+
+
+
 - contact: transitionresearchnetwork@gmail.com
