@@ -115,6 +115,8 @@ Combiner savoirs actuel et traditionnels afin d'obtenir les meilleurs des deux m
 
 ## LOCAL ET GLOBAL
 
+Associer le quartier et le monde grace au numérique.
+
 
 ## VALEURS ET SENS
 
