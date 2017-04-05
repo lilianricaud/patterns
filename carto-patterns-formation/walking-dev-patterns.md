@@ -50,6 +50,12 @@ Par conséquent, plutot que de subir la novlange, mieux vaut jouer avec. Plutot 
 ## ZONE AUTONOME TEMPORAIRE
 
 
+Dans le quaotidien, la réalité a ses règles (il est interdit de faire ceci ou cela). Pourtant la plupart de ces règles sont implicites et pourraient être remises en cause. Ces règles sont pourtant trop souvent mortifères et bénéficieraient d'etre remise en cause. Mais souvent l'autorité applique avec force ces règles implictes ou explicites. Quand ce n'est pas l'autorité, c'est nous même qui nous auto-censurons ou devenons notre propre gendarme pour nous ou les autres. 
+
+Par conséquent, 
+
+créer des zones autonomes temporaires, des evenements où les règles du quotidien ne s'appliquent plus, et ou on peut en expérimenter d'autres. Dans son livre, Hakim Bey s'est « délibérément interdit de définir la TAZ », censée être « auto-explicite » et précise. Faites en ce que vous voulez.
+
 
 ## UN THEME
 
@@ -60,7 +66,7 @@ Le thème est ce qui regroupe et unit les participants autour d'un objet commun.
 peuvent être expert ou non.
 plutot sur le processus que sur le contenu.
 
-- HOTE: connait la ville, propose des lieux, amène un peu de monde
+- HOTE: connait la ville, propose des lieux, amène un peu de monde, prend en charge les frais
 - VISITEUR: amène autre point de vue, autres réseaux de participants, peut être expert ou pas, peut ne pas avoir travaillé avec l'hote précédemment, ce qui amène prototype de collaboration entre les deux.
 
 
