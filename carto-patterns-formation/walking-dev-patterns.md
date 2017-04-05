@@ -55,11 +55,19 @@ Par conséquent, plutot que de subir la nvolange, mieux vaut jouer avec. Plutot 
 
 Le thème est ce qui regroupe et unit les participants autour d'un objet commun.
 
-## DEUX ANIMATEURS
+## DEUX ANIMATEURS/ORGANISATEURS
+
+peuvent être expert ou non.
+plutot sur le processus que sur le contenu.
+
+- HOTE: connait la ville, propose des lieux, amène un peu de monde
+- VISITEUR: amène autre point de vue, autres réseaux de participants, peut être expert ou pas, peut ne pas avoir travaillé avec l'hote précédemment, ce qui amène prototype de collaboration entre les deux.
 
 
 
-## POSTURE NON SACHANT
+## POSTURE NON SACHANT / CO-APPRENTISSAGE
+
+
 
 ## UN JOUR DE PREPARATION
 
