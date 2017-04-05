@@ -155,9 +155,9 @@ Utiliser des espaces comme les cafés, restaurants, moyens de transport engendre
 
 Par conséquent,
 
-Prévoir une personne HOTE qui paiera tous les fraisde la journée et collectera les tickets pour la compta. Demander une participation globale aux frais le matin, ce qui permettra à l'HOTE) de payer les dépenses qui surviennent dans la journée et fluidifiera l'organisation. Le pool commun de dépenses permet d'accomoder les dépenses globales même si chacun prends plus ou moins de consommations.
+Prévoir une personne HOTE qui paiera tous les frais de la journée et collectera les tickets pour la compta. Demander une participation globale aux frais le matin, ce qui permettra à l'HOTE) de payer les dépenses qui surviennent dans la journée et fluidifiera l'organisation. Le pool commun de dépenses permet d'accomoder les dépenses globales même si chacun prends plus ou moins de consommations.
 
-Empiriquement, une participation de 59€ ne fait pas plus raler qu'une dépenses moindre ou plus élevée et suffit généralement a couvrir les dépenses de la journée et de l'organisation 
+Empiriquement, une participation de 59€ ne fait pas plus raler qu'une dépenses moindre ou plus élevée et suffit généralement a couvrir les frais de la journée et de l'organisation de la veille. au dela de 5-6 participants elle peut générer un peu de recettes, en dessous un cout.
 
 
 
