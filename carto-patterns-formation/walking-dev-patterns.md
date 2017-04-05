@@ -65,16 +65,23 @@ plutot sur le processus que sur le contenu.
 
 
 
-## POSTURE NON SACHANT / CO-APPRENTISSAGE
+## POSTURE NON SACHANT / CO-APPRENTISSAGE / TOUS PARTICIPANTS
 
-
+animateur ou expert, tu fais ce que tu veux, les rôles tournent.
 
 ## UN JOUR DE PREPARATION
 
-Pour l'organisation, le reperage, la facilitation ou la non facilitation, deux personnes reperent les lieux la veille et utilise le temps passé ensemble pour s'aligner sur la manière d'animer la journée.
+Pour l'organisation, le reperage, la facilitation ou la non facilitation, deux personnes reperent les lieux la veille et utilisent le temps passé ensemble pour s'aligner sur la manière d'animer la journée.
 
-## TOUS PARTICIPANTS
-animateur ou expert, tu fais ce que tu veux, les rôles tournent.
+## OUVERTURE DE LIEUX
+
+Certain lieux sont publics ou destinés au citoyens, mais implicitement fermés par des règles ou des procédés qui n'invitent pas à s'en saisir. D'autres sont semiprivés.
+
+En pratique nous n'avons accès qu'a peu de lieux, souvent parce que nous créons nous même des barrières ou que par habitudes certains barrières nous ont été imposées (voir la comédie securitaire https://fr.wikipedia.org/wiki/Com%C3%A9die_s%C3%A9curitaire).
+
+Par conséquent, 
+
+Aller ouvrir de nouveaux lieux. L'ouverture consiste a prendre ou reprendre ces lieux de manière temporaire (le temps du walking dev). Pour les lieux publics il s'agit de les détourner leur usage habituel et reprendre nosd roits dessus. Pour les lieux privés, il s'agit de prendre contact avec les usagers ou propriétaires, entamer une discussion et demander aux personnes s'il est possible d'utiliser le lieu de manière temporaire. Si l'on vient sans intention juste en tant qu'etre humain les gens réagissent assez bien et souvent quand les personnes découvrent l'idée du walking dev elles sont tres entousiastes
 
 ## REGLES DU JEU
 
