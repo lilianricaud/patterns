@@ -20,8 +20,6 @@ Utiliser une contrainte de temps pour dynamiser la journée et donner un relief.
 
 Pomodoros de 20 minutes ou deux fois 20 minutes avec 5 minutes avant ou après pour décider.
 
-
-
 ## COTE FLOTTANT
 
 Trop souvent nous mettons des règles par peur que quelque chose de d'imprévu (sous entendu mauvais) ne surviennent. Pourtant si les règles sont utles pour faire ensemble, elles peuvent être etouffantes et nous priver d'opportunités.
@@ -30,30 +28,39 @@ Par conséquent,
 
 Limitez les règles au minimum et garder un coté flottant ou chaque règle peut être remise en cause.
 
+## LIEUX VIVANTS/VITALISANTS
+
+La plupart des lieux de travail de nos jours sont mortifères, particulièrement les traditionnels bureaux. Manque de lumière naturelle, interruptions, règles explicites ou implicites, sont quelques un des symptomes. Pourtant avec le numérique la plupart des métiers créatifs peuvent être exercés de (presque) n'importe où.
+
+Par conséquent,
+
+Privilégiez des lieux vivants ou vitalisant (parcs, marché, gares). Le bruit n'est pas un problème tant qu'il s'agit d'un brouhaha ambiant (ex café), un lieu silencieux sujet a des interruptions est bcp mon
+
+## UN THEME
+
+
+
+## DEUX ANIMATEURS
+
+
+
+## POSTURE NON SACHANT
+
+## UN JOUR DE PREPARATION
+
+Pour l'organisation, le reperage, la facilitation ou la non facilitation, deux personnes reperent les lieux la veille et utilise le temps passé ensemble pour s'aligner sur la manière d'animer la journée.
+
+## TOUS PARTICIPANTS
+animateur ou expert, tu fais ce que tu veux, les rôles tournent.
+
 ## REGLES DU JEU
 
 explicites, cohérentes, applicables et facile à comprendre
 
 - Bienveillance / bien traitance (click/rewind pour revenir en arrière.
 - Focus: on est ensemble, si besoin de téléphone ou autre se mettre à l'écart, l'absence mentale étant reflétée par l'absence physique.
+- shu ha ri: si le groupe est peu autonome et souhaite etre cadré, les animateurs cadrent et transmettent, sinon le groupe est encouragé à prendre des initiatives et transcender les règles.
 
-
-## UN THEME
-
-## DEUX ANIMATEURS
-
-Pour l'organisation, le reperage, la facilitation ou la non facilitation.
-
-## POSTURE NON SACHANT
-
-## UN JOUR DE PREPARATION
-
-## TOUS PARTICIPANTS
-animateur ou expert, tu fais ce que tu veux, les rôles tournent.
-
-## OUVERTURE
-
-## CADRE
 
 
 
