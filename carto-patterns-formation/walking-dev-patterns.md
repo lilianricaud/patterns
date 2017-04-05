@@ -94,6 +94,10 @@ Les programmes cadrés à l'avance par des organisateurs sont surtout utiles pou
 Par conséquent,
 Privilégiez l'auto-organisation et la co-construction des thèmes à explorez avec les participants. Dans le cadre du THEME, utilisez un backlog (liste de souhait) co-construite avec les participants. Pour cela, demandez à chacun d'indiquer sur un post-it chaque sujet qu'ille souhaiterait voir traiter, soit comme expert, animateur ou bien comme explorateur. Listez l'ensembles des thème sur un mur afin que chacun puisse voir l'ensemble.
 
+Priorisez ensuite avec les participants les sujets à traiter (ordre, sous groupes et sessions parallèles). Pour continuer à coller à la réalité, conservez la possibilité de rajouter des éléments dans le backlog tout au long de la journée. 
+
+La PLACE DU MARCHE du FORUM OUVERT est un exemple de backlog de groupe.
+
 Afin de faciliter l'auto
 
 ## MUR DE POST IT
@@ -104,6 +108,35 @@ sur une table la config marche moins bien (source ?)
 ## MIROIR DU GROUPE
 
 Les facilitateurs ou difficultateurs, sont la pour renvoyer au groupe du feedback sur son état (temps restant, discussion s'enlisant ou hors sujet) afin que le groupe puisse choisir de continuer sur la même voie ou pas.
+
+## MODELISATION
+
+incarner les valeurs et comportement que l'on souhaite voir dans le groupe.
+
+## RESSOURCES LIBRES
+
+## ESPACE EN LIGNE
+
+inscriptions, docs, compta, pourrait être collaboratif si besoin...
+
+## RETROSPECTIVE FIN DE JOURNEE
+
+évaluer rapidemment ce qui a marché ou pas
+
+## PARTICIPATION AUX FRAIS
+
+## UNE PARTICIPATION A PRIX LIBRE
+
+certains participants n'ont pas le budget, mais il est interessant d'avoir aussi des gens avec petit moyens, mais en conciliant modèle éco de la PAF.
+
+## GROUPE VARIE/DIVERSIFIE
+
+Si le format walking dev marcherait pour des collectifs existant, le fait de se retrouver avec des inconnus est un facteur décisif, oblige avoir et accepte plusieurs point de vues, meilleur pour le CO-APPRENTISAGE.
+
+## CASSER LA ROUTINE
+
+Meme si on a des lieux qui marchent bien, il ets important our les organisateurs de chercher à modifier les lieux ou le format de manière a eux mêmes garder une fraicheur et ne pas tomber dans une routine
+
 
 ## AFTER INFORMEL
 Souvent les participants restent après la cloture officielle, mais ce n'est pas toujours le cas. Possible de prévoir le dernier lieu comme endroit sympa pour trainer.
