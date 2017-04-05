@@ -36,9 +36,24 @@ Par conséquent,
 
 Privilégiez des lieux vivants ou vitalisant (parcs, marché, gares). Le bruit n'est pas un problème tant qu'il s'agit d'un brouhaha ambiant (ex café), un lieu silencieux sujet a des interruptions est bcp moins adapté. Privilégiez des lieux dehors ou avec beaucoup de lumière naturelle. Jouez avec les espaces, une vitrine ou un mur suffisent à afficher des post it et organiser un atelier. Les tables d'un café sont souvent plus facile déplacer et réorganiser qu'une salle de formation. Par ailleurs, des lieux vivant ont leur énergie et leur communauté propres.
 
+## NOVLANGUE
+
+Les mots sont notre façon de voir le monde en tant que culture et nous sommes influencés par les mots et les histoires que nous racontons.
+
+Pourtant de nos jours le langage est torturé et dévoyé par le paradigme dominant. Démocratie participative, libéralisme, developpement durable, innovation sont quelques uns des mots qui ont déja été vidés leur substance par le marketing. Pire les mots sont souvent retournés pour signifier l'opposé de leur sens originel
+
+Il semble que la machine a propogande ne connait pas de limites dans sa capcité de récupération des nouveaux mots inventés.
+
+Par conséquent, plutot que de subir la nvolange, mieux vaut jouer avec. Plutot que d'essayer de defendre des mots contre leur appropriation, comme des places fortes que l'on protège, mieux vaut adopter une tactique de guerilla et "occuper" temporairement certains mots, puis s'en séparer pour éviter toute récupération. Dans les espaces temps créatifs, on peut changer les règles du jeu et inventer une nouvelle culture en inventant sa propre novlangue: "gamelle", "et bim!", "subir un atelier", ... chaque groupe peut détourner le langage et inventer sa propre culture éphémère.
+
+
+## ZONE AUTONOME TEMPORAIRE
+
+
+
 ## UN THEME
 
-
+Le thème est ce qui regroupe et unit les participants autour d'un objet commun.
 
 ## DEUX ANIMATEURS
 
@@ -62,7 +77,7 @@ explicites, cohérentes, applicables et facile à comprendre
 - shu ha ri: si le groupe est peu autonome et souhaite etre cadré, les animateurs cadrent et transmettent, sinon le groupe est encouragé à prendre des initiatives et transcender les règles.
 
 
-
+## SHU HA RI
 
 ## MIROIR DU GROUPE
 
