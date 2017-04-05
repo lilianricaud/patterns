@@ -122,8 +122,10 @@ incarner les valeurs et comportement que l'on souhaite voir dans le groupe.
 
 ## RESSOURCES LIBRES
 
+co creation produit parfois des contenus, privilegiez CC-BY-SA pour que touste sen bénéficient par la suite.
+
 ## ESPACE EN LIGNE
-walkingdev.fr
+walkingdev.fr, eventbrite
 inscriptions, docs, compta, pourrait être collaboratif si besoin...
 
 ## COMMUNICATION QUALITATIVE
@@ -143,10 +145,33 @@ Par conséquence,
 Ritualisez les moments d'évaluation en utlisant des retrospective. Pour les WALKING DEV, évaluer rapidemment ce qui a marché ou pas en faisant unecourte retrospective en fin de journée. Variez le format de retrospective utilisée selon le lieu, les participants et leur affinités, ...
 
 
-pour inspiration: https://plans-for-retrospectives.com/en/
+pour inspiration: 
+https://plans-for-retrospectives.com/en/
+http://agileretrospectivewiki.org/index.php?title=Retrospective_Plans
+
 ## PARTICIPATION AUX FRAIS
 
+Utiliser des espaces comme les cafés, restaurants, moyens de transport engendre des frais, à la fois pour les participants et les organisateurs. Si chacun paye sa part à chaque fois, cela prends un temps long qui coupe l'élan et la dynamique. Par ailleurs,  le sentiment de payer plusieurs fois est plus oppressant que de payer une seule fois.
 
+Par conséquent,
+
+Prévoir une personne HOTE qui paiera tous les fraisde la journée et collectera les tickets pour la compta. Demander une participation globale aux frais le matin, ce qui permettra à l'HOTE) de payer les dépenses qui surviennent dans la journée et fluidifiera l'organisation. Le pool commun de dépenses permet d'accomoder les dépenses globales même si chacun prends plus ou moins de consommations.
+
+Empiriquement, une participation de 59€ ne fait pas plus raler qu'une dépenses moindre ou plus élevée et suffit généralement a couvrir les dépenses de la journée et de l'organisation 
+
+
+
+## UNE PARTICIPATION A PRIX LIBRE
+
+certains participants n'ont pas le budget, mais il est interessant d'avoir aussi des gens avec petits moyens, mais en conciliant modèle éco de la PAF.
+
+## GROUPE VARIE/DIVERSIFIE
+
+Si le format walking dev marcherait pour des collectifs existant, le fait de se retrouver avec des inconnus est un facteur décisif, oblige avoir et accepte plusieurs point de vues, meilleur pour le CO-APPRENTISAGE.
+
+## PAS DE ROUTINE
+
+Meme si on a des lieux qui marchent bien, il est important pour les organisateurs de chercher à modifier les lieux ou le format de manière a eux mêmes garder une fraicheur et ne pas tomber dans une routine
 
 ## UNE CHOSE DIFFERENT A CHAQUE FOIS
 
@@ -155,19 +180,6 @@ Repeter quelque chose qui marche est bien, mais repeter tout le temps la même c
 Par conséquent, 
 
 Partir de quelque chose de simple ou d'une trame existante ayant fait ses preuves, puis faire évoluer en modifiant seulement une chose à chaque fois. Ainsi on peut garder le meilleur, mais ne pas s'enfermer non plus dans une routine.
-
-## UNE PARTICIPATION A PRIX LIBRE
-
-certains participants n'ont pas le budget, mais il est interessant d'avoir aussi des gens avec petit moyens, mais en conciliant modèle éco de la PAF.
-
-## GROUPE VARIE/DIVERSIFIE
-
-Si le format walking dev marcherait pour des collectifs existant, le fait de se retrouver avec des inconnus est un facteur décisif, oblige avoir et accepte plusieurs point de vues, meilleur pour le CO-APPRENTISAGE.
-
-## CASSER LA ROUTINE
-
-Meme si on a des lieux qui marchent bien, il ets important our les organisateurs de chercher à modifier les lieux ou le format de manière a eux mêmes garder une fraicheur et ne pas tomber dans une routine
-
 
 ## AFTER INFORMEL
 Souvent les participants restent après la cloture officielle, mais ce n'est pas toujours le cas. Possible de prévoir le dernier lieu comme endroit sympa pour trainer.
