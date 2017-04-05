@@ -34,7 +34,7 @@ La plupart des lieux de travail de nos jours sont mortifères, particulièrement
 
 Par conséquent,
 
-Privilégiez des lieux vivants ou vitalisant (parcs, marché, gares). Le bruit n'est pas un problème tant qu'il s'agit d'un brouhaha ambiant (ex café), un lieu silencieux sujet a des interruptions est bcp mon
+Privilégiez des lieux vivants ou vitalisant (parcs, marché, gares). Le bruit n'est pas un problème tant qu'il s'agit d'un brouhaha ambiant (ex café), un lieu silencieux sujet a des interruptions est bcp moins adapté. Privilégiez des lieux dehors ou avec beaucoup de lumière naturelle. Jouez avec les espaces, une vitrine ou un mur suffisent à afficher des post it et organiser un atelier. Les tables d'un café sont souvent plus facile déplacer et réorganiser qu'une salle de formation. Par ailleurs, des lieux vivant ont leur énergie et leur communauté propres.
 
 ## UN THEME
 
