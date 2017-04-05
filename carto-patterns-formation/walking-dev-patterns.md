@@ -81,7 +81,7 @@ Pour l'organisation, le reperage, la facilitation ou la non facilitation, deux p
 
 ## OUVERTURE DE LIEUX
 
-Certain lieux sont publics ou destinés au citoyens, mais implicitement fermés par des règles ou des procédés qui n'invitent pas à s'en saisir. D'autres sont semiprivés.
+Certain lieux sont publics ou destinés au citoyens, mais implicitement fermés par des règles ou des procédés qui n'invitent pas à s'en saisir. D'autres sont semi-privés.
 
 En pratique nous n'avons accès qu'a peu de lieux, souvent parce que nous créons nous même des barrières ou que par habitudes certains barrières nous ont été imposées (voir la comédie securitaire https://fr.wikipedia.org/wiki/Com%C3%A9die_s%C3%A9curitaire).
 
