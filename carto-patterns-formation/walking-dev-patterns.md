@@ -1,7 +1,5 @@
 # WALKING DEV
 
-Patterns clés
-
 ## ITINERANCE
 
 Au quotidien, nous avons tendance a travailler au même endroit, avec les mêmes gens et rester assis tous le temps devant l'ordinateur. Pourtant ceci n'est pas sain pour nous et les consultant américains nous disent que "Sitting is the new smoking".
@@ -32,6 +30,12 @@ Par conséquent,
 
 Limitez les règles au minimum et garder un coté flottant ou chaque règle peut être remise en cause.
 
+## REGLES DU JEU
+
+explicites, cohérentes, applicables et facile à comprendre
+
+- Bienveillance / bien traitance (click/rewind pour revenir en arrière.
+- Focus: on est ensemble, si besoin de téléphone ou autre se mettre à l'écart, l'absence mentale étant reflétée par l'absence physique.
 
 
 ## UN THEME
@@ -51,9 +55,9 @@ animateur ou expert, tu fais ce que tu veux, les rôles tournent.
 
 ## CADRE
 
-## SESSIONS COURTES LE MATIN
 
-## MIRROIR DU GROUPE
+
+## MIROIR DU GROUPE
 
 Les facilitateurs ou difficultateurs, sont la pour renvoyer au groupe du feedback sur son état (temps restant, discussion s'enlisant ou hors sujet) afin que le groupe puisse choisir de continuer sur la même voie ou pas.
 
