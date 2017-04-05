@@ -44,7 +44,7 @@ Pourtant de nos jours le langage est torturé et dévoyé par le paradigme domin
 
 Il semble que la machine a propogande ne connait pas de limites dans sa capcité de récupération des nouveaux mots inventés.
 
-Par conséquent, plutot que de subir la nvolange, mieux vaut jouer avec. Plutot que d'essayer de defendre des mots contre leur appropriation, comme des places fortes que l'on protège, mieux vaut adopter une tactique de guerilla et "occuper" temporairement certains mots, puis s'en séparer pour éviter toute récupération. Dans les espaces temps créatifs, on peut changer les règles du jeu et inventer une nouvelle culture en inventant sa propre novlangue: "gamelle", "et bim!", "subir un atelier", ... chaque groupe peut détourner le langage et inventer sa propre culture éphémère.
+Par conséquent, plutot que de subir la novlange, mieux vaut jouer avec. Plutot que d'essayer de defendre des mots contre leur appropriation, comme des places fortes que l'on protège, mieux vaut adopter une tactique de guerilla et "occuper" temporairement certains mots, puis s'en séparer pour éviter toute récupération. Dans les espaces temps créatifs, on peut changer les règles du jeu et inventer une nouvelle culture en inventant sa propre novlangue: "gamelle", "et bim!", "subir un atelier", "aggregat de joléances"... chaque groupe peut détourner le langage et inventer la propre culture éphémère de sa ZAT.
 
 
 ## ZONE AUTONOME TEMPORAIRE
@@ -86,6 +86,20 @@ explicites, cohérentes, applicables et facile à comprendre
 
 
 ## SHU HA RI
+
+## BACKLOG
+
+Les programmes cadrés à l'avance par des organisateurs sont surtout utiles pour les organisateurs, mais pas forcément adaptés surtout quand on ne connait pas le profil et les besoins des participants à l'avance. Au mieux il s'agit de prédictions. Il est plus interessant de coller à la réalité en partant des vrais besoins et questions des participants. Pourtant il est ouvent difficile voire impossible de conaitre à l'avance l'identité des participants et encore moins leurs besoins/questions.
+
+Par conséquent,
+Privilégiez l'auto-organisation et la co-construction des thèmes à explorez avec les participants. Dans le cadre du THEME, utilisez un backlog (liste de souhait) co-construite avec les participants. Pour cela, demandez à chacun d'indiquer sur un post-it chaque sujet qu'ille souhaiterait voir traiter, soit comme expert, animateur ou bien comme explorateur. Listez l'ensembles des thème sur un mur afin que chacun puisse voir l'ensemble.
+
+Afin de faciliter l'auto
+
+## MUR DE POST IT
+
+meilleure configuration pour impliquer toustes les participantes.
+sur une table la config marche moins bien (source ?)
 
 ## MIROIR DU GROUPE
 
