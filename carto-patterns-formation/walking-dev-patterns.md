@@ -123,14 +123,38 @@ incarner les valeurs et comportement que l'on souhaite voir dans le groupe.
 ## RESSOURCES LIBRES
 
 ## ESPACE EN LIGNE
-
+walkingdev.fr
 inscriptions, docs, compta, pourrait être collaboratif si besoin...
+
+## COMMUNICATION QUALITATIVE
+
+La communication de masse ne fonctionne pas, les gens sont saturés, et faire du bruit n'amène pas plus de monde ou n'amène pas les bonnes personnes.
+
+Par conséquent, 
+
+Privilégiez une communication ciblée et qualitative, que ce soit par mail ciblé ponctuel, par twitter ou par bouche à oreille. Il est plus important d'avoir les bonne personnes pour générer des conversation de qualité, que des personnes à qui on a "vendu" quelque chose.
 
 ## RETROSPECTIVE FIN DE JOURNEE
 
-évaluer rapidemment ce qui a marché ou pas
+Dans la nature la régulation se fait par des boucles de retroaction. dans nos systèmes humains nous prenons rarement le temps d'évaluer nos actions et leur conséquence.
 
+Par conséquence,
+
+Ritualisez les moments d'évaluation en utlisant des retrospective. Pour les WALKING DEV, évaluer rapidemment ce qui a marché ou pas en faisant unecourte retrospective en fin de journée. Variez le format de retrospective utilisée selon le lieu, les participants et leur affinités, ...
+
+
+pour inspiration: https://plans-for-retrospectives.com/en/
 ## PARTICIPATION AUX FRAIS
+
+
+
+## UNE CHOSE DIFFERENT A CHAQUE FOIS
+
+Repeter quelque chose qui marche est bien, mais repeter tout le temps la même chose est mortifère. Changer pour faire évoluer est bien, mais tout changer ne permet pas d'évaluer ce qui marche bien et peut abimer des choses qui marchent.
+
+Par conséquent, 
+
+Partir de quelque chose de simple ou d'une trame existante ayant fait ses preuves, puis faire évoluer en modifiant seulement une chose à chaque fois. Ainsi on peut garder le meilleur, mais ne pas s'enfermer non plus dans une routine.
 
 ## UNE PARTICIPATION A PRIX LIBRE
 
