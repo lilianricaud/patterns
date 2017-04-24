@@ -1,5 +1,18 @@
 # Patterns facilitation graphique
 
+## SQVID
+
+Dès l'avant-propos, Dan Roam présente le «SQVID», l’outil central du livre qui aide à clarifier, exprimer et représenter les idées. Le «SQVID» est un acronyme dont les lettres correspondent à 5 grandes catégories de questions à se poser pour exprimer une idée visuellement. Cette suite de questions ont pour but de nous aider à identifier les qualités (caractéristiques) des idées recherchées. À noter que ces qualités sont identifiées par des expressions courtes. Vous les trouvez inscrites ici entre les parenthèses à la suite des questions.
+
+Par exemple:
+
+- Pour la lettre S, la question est la suivante: «Voulons-nous une représentation Simple ou complexe de notre idée?» (Simple ou Élaboré)
+- Pour la lettre Q, la question est la suivante: «Voulons-nous une représentation Qualitative ou quantitative?» (Qualitatif ou Quantitatif)
+- Pour la lettre V, la question est la suivante: «Voulons-nous montrer notre Vision ou la méthode à exécuter pour y parvenir?» (Vision ou Réalisation)
+- Pour la lettre I, la question est la suivante: «Voulons-nous montrer les caractéristiques Individuelles de notre idée ou la comparer à autre chose?» (Individualités ou Comparaison)
+- Pour la lettre D, la question est la suivante: «Voulons-nous montrer le changement (Delta) ou la situation actuelle?» (Delta - changement ou Statu quo) (Roam, (p.X)
+
+Appliquer systématiquement l'ensemble des questions du SQVID s'avère très efficace pour clarifier un problème complexe, aider à l'expression visuelle d'une idée, préparer, montrer et défendre un argument de façon percutante. Nous reviendrons sur cet outil un peu plus loin dans ce texte.
 
 ## Grande Métaphore visuelle
 
