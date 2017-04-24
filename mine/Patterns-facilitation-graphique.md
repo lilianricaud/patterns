@@ -52,6 +52,8 @@ quelles sont les bonnes pratiques ? par où commencer pour nepas se retrouver co
 
 ## Carte mentale
 
+Mettre le sujet au centre, faire ressortir (par encadremenet par exemple). Ajouter branches qui partent du centre, puis sous branches. Différence entre papier et numérique.
+
 ## corps en batonnet
 
 schematiser un corps doit être le plus simple possible, battonnets pour les membres, rond ou carré pour la tete, le corps, les pieds, les mains. Dans ce cadre la, les styles peuvent changer selon le facilitateur.
