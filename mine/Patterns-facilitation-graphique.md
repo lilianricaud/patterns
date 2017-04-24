@@ -1,5 +1,7 @@
 # Patterns facilitation graphique
 
+sources: https://julieboiveau.wordpress.com/category/la-bibliotheque/les-livres-sur-la-facilitation-graphique/
+
 ## SQVID
 
 Dès l'avant-propos, Dan Roam présente le «SQVID», l’outil central du livre qui aide à clarifier, exprimer et représenter les idées. Le «SQVID» est un acronyme dont les lettres correspondent à 5 grandes catégories de questions à se poser pour exprimer une idée visuellement. Cette suite de questions ont pour but de nous aider à identifier les qualités (caractéristiques) des idées recherchées. À noter que ces qualités sont identifiées par des expressions courtes. Vous les trouvez inscrites ici entre les parenthèses à la suite des questions.
