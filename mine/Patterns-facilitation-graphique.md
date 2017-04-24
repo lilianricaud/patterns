@@ -14,8 +14,8 @@ Par exemple:
 
 Appliquer systématiquement l'ensemble des questions du SQVID s'avère très efficace pour clarifier un problème complexe, aider à l'expression visuelle d'une idée, préparer, montrer et défendre un argument de façon percutante. 
 
-http://www.creativite.net/convaincre-en-deux-coups-de-crayon-dan-roam/
-https://prezi.com/-diehedhyh81/convaincre-en-deux-coups-de-crayon/
+- http://www.creativite.net/convaincre-en-deux-coups-de-crayon-dan-roam/
+- https://prezi.com/-diehedhyh81/convaincre-en-deux-coups-de-crayon/
 
 
 ## Grande Métaphore visuelle
