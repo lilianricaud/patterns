@@ -12,7 +12,8 @@ Par exemple:
 - Pour la lettre I, la question est la suivante: «Voulons-nous montrer les caractéristiques Individuelles de notre idée ou la comparer à autre chose?» (Individualités ou Comparaison)
 - Pour la lettre D, la question est la suivante: «Voulons-nous montrer le changement (Delta) ou la situation actuelle?» (Delta - changement ou Statu quo) (Roam, (p.X)
 
-Appliquer systématiquement l'ensemble des questions du SQVID s'avère très efficace pour clarifier un problème complexe, aider à l'expression visuelle d'une idée, préparer, montrer et défendre un argument de façon percutante. Nous reviendrons sur cet outil un peu plus loin dans ce texte.
+Appliquer systématiquement l'ensemble des questions du SQVID s'avère très efficace pour clarifier un problème complexe, aider à l'expression visuelle d'une idée, préparer, montrer et défendre un argument de façon percutante. 
+http://www.creativite.net/convaincre-en-deux-coups-de-crayon-dan-roam/
 
 ## Grande Métaphore visuelle
 
