@@ -1,0 +1,3 @@
+## JEUX CO-CREATIFS
+
+Quand on travaille en groupe, il est important de bien se connaitre pour collaborer ou alors de se répartir les taches pour coopérer. Dans les deux cas Si les participants sont très différents il est difficile de travailler ensemble efficacement du fait des différence de culture qui peuvent causer des incompréhensions. Un jeu co-créatif parce qu'il contient des REGLES DU JEU COMMUNES facilite le faire ensemble. Il peut aussi être concu pour contenir/inclure de nombreux patterns riches (LUDIQUE, UNIVERS DE REFERENCE ET ARTEFACTS INFORMATIONNELS, ALLUMAGE…) qui favorisent le bon déroulement et la CO-CREATIVITE.

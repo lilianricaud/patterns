@@ -1,0 +1,3 @@
+## DIVERGENCE ET CONVERGENCE
+
+Tout comme la respiration, insuffle vie et rythme. La phase divergente vise à établir un cadre de référence, présenter le contexte et expose les thèmes qui seront détaillés. L'ouverture désigne un commencement. Il s'agit de stimuler l'imagination et la réflexion. Vous devez alors créer un environnement agréable et accueillant afin que tous les membres ouvrent leurs esprits et explorent des possibilités qu'ils n'auraient peut être jamais pu envisager auparavant. La phase de convergence vise à parvenir à une conclusion en passant de la réflexion à l'action/ Il s'agit d'effectuer des choix et de prendre des décisions.
