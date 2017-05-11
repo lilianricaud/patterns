@@ -4,7 +4,7 @@ Le langage ordinaire sert à communiquer de manière courante. Tout locuteur d'u
 
 Par conséquent, 
 
-Pour bénéficier du meilleur du langage ordinaire et de la méthode des langages de patterns, intégrez dans le langage ordinaire des MOTS-PATTERNS signalés à l'écrit par des mots ou expression en majuscule. Ces MOTS-PATTERNS sont associés à une description plus codifié que la définition d'un dictionnaire et focalisée sur la description de relations sous le format pattern (contexte, bonne pratique, et patterns associés) et visible dans un DICO DE PATTERNS
+Pour bénéficier du meilleur du langage ordinaire et de la méthode des langages de patterns, intégrez dans le langage ordinaire des MOTS-PATTERNS signalés à l'écrit par des mots ou expression en majuscule. Ces MOTS-PATTERNS sont associés à une description plus codifié que la définition d'un dictionnaire et focalisée sur la description de relations sous le format pattern (contexte, bonne pratique, et patterns associés) et visible dans un DICO DE PATTERNS. Ce qui distingue un MOT-PATTERN d'un mot ordinaire, c'est l'importance des liens avec les autres MOT-PATTERN qui est contenue dans sa définition.
 
 Comme les patterns peuvent être utilisés comme lentille pour focaliser sur n'importe quelle configuration, potentiellement n'importe quel mot peut être mis au format pattern. 
 
