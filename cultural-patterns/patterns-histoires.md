@@ -50,6 +50,9 @@ SYMBOLISME:
 **Privilégiez la LECTURE DE CONTE DE FEE. Les contes de fées, de par leur maturation via un processus itératif très long, ont acquis une structure avec de multiples niveaux de sens qui permettent à l'enfant de résoudre ses problèmes intérieurs lui même. Evitez de chercher à rendre rationnel ou trop précis le conte mais cherchez plutot une interaction riche entre le lecteur et l'auditeur.**
 
 
+
+
+
 Contrairement au mythe ancien, la sagesse ne jaillit pas d'elle même, comme le fit athéna de la tête de Zeus. Elle s'élabore petit à petit, après des débuts tres irrationnels. Trop de parents voudraient que l'esprit de leur enfant fonctionnat comme le leur, comme si notre compréhension de nous mêmes et du monde, et nos idées sur le sens de la vie n'étaient pas soumise à une lente évolution qui aboutit à la maturité adulte. Pour découvir le sens profond de la vie, il faut être capable de dépasser les limites étroites d'une existence egocentrique. Nos sentiments positifs nous dnone la force de développer notre rationnalité. Seule notre confiance en l'avenir peut nous soutenir contre les adversités que nous ne pouvons éviter de rencontrer.
 
 Or une grande partie de la littérature enfantine est incapable de stimuler et d'alimenter les ressources intérieures qui sont indispensables à l'enfant pour affronter ses difficiles problèmes. Les abécédaires et autres livres pour débutants sont étudiés pour enseigner la technique de la lecture et ne servent à rien d'autres. La masse énorme de des autres livres et publication de la "littérature enfantine" visent à amuser l'enfant ou à l'informer, ou les deux à la fois. Mais la substance des ces écrits est si pauvre qu'elle na guère de signfication profonde pour lui. L'acquisition des techniques - y compris la lecture - perd de la valeur si ce que l'enfant a appris à lire n'ajoute rien d'important à sa vie.
@@ -91,14 +94,14 @@ C'est un "cadeau d'amour" et selon Bettelheim c'est la sa principale force et le
 
 ### Sous patterns
 
-EVENEMENTS REALISTES: même si l'histoire peut etre inhabituelle ou improbable, elle reste assez proche de la ralité pour qu'on puisse se l'approprié. 
+EVENEMENTS REALISTES: même si l'histoire peut etre inhabituelle ou improbable, elle reste assez proche de la réalité pour qu'on puisse se l'approprier. 
 PERSONNAGES COMMUNS: Les personnages sont anonymes (chaperon, bucheron, ...), ou utilisent des noms communs (jeannot, margot...)
-INTEMPORALITE l'histoire se situe dans un moment hors du temps "il était une fois, 
+INTEMPORALITE: l'histoire se situe dans un moment hors du temps "il était une fois, 
 PORTEE PSYCHOLOGIQUE: le conte agit sur la psyché
 QUALITES LITTERAIRES: le conte possède de qualité artistiques qui nous donne envie de le suivre
 SIGNIFICATIONS VARIEES: le conte possède plusieurs sens et niveaux de comprehensions
 CONCLUSION HEUREUSE: le conte finit bien et sur un futur souhaitable
-
+SYMBOLISME
 
 
 ## Processus génératif dans les contes de fées
