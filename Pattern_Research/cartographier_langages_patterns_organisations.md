@@ -1,4 +1,4 @@
-## Langage de patterns d'une organisation
+## Cartographier le langage de patterns (culturels) d'une organisation
 
 Co-Creer langage de pattern dans une organisation pour visualiser la culture existante et les architectures invisibles.
 -> Confronter valeurs affichées et réalité des patterns présents
