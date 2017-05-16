@@ -1,14 +1,11 @@
 
 # HISTOIRE
 
-Au cours de son histoire l'humanité a inventé plusieurs façon de raconter des histoires. Ces différentes formes ne sont pas anodines et ont des propriétés différentes. Dans tous les cas on retrouve des points communs: des choses ou des forces intangibles/invisibles sont personnifiées (/réifiées) pour les rendre visibles et manipulables.
 
-
-## Powerful story
-**Tell a powerful story**
 
 Dans le champs de l'intelligence collective, les histoire sont plus que des scènes que les gens disent ou lisent. Les histoires, en tant que pattern, sont une manière puissante d'organiser et de partager des expériences individuelles, et d'explorer et de co-créer des réalités partagées. elle forme une structure sous-jacente de notre réalité, comprehensible et qui répond à ceux qui possèdent une intelligence narrative. Nos psychés et nos cultures sont remplis de champs narratifs d'influence ou champs d'histoires, qui façonnent la conscience et le comportement des individus et collectifs qui leur sont associés. (Tom Atlee, le pouvoir des histoires http://www.co-intelligence.org/I-powerofstory.html)
 
+Au cours de son histoire l'humanité a inventé plusieurs façon de raconter des histoires. Ces différentes formes ne sont pas anodines et ont des propriétés différentes. Dans tous les cas on retrouve des points communs: des choses ou des forces intangibles/invisibles sont personnifiées (/réifiées) pour les rendre visibles et manipulables.
 		
 
 Similar: Group Works STORY
