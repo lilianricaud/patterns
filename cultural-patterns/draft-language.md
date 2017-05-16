@@ -53,6 +53,14 @@ http://systems-thinking.org/loi/loi.htm
 
 Cultural artifacts: monuments, books, writing, language, art, knowkedge
 
+### cultural artifacts in oral cultures.
+
+NAMES, STORIES, SONGS, RITUALS, SITES (landscape), TATOOS, PAINTINGS, SCULPTURES
+
+### Cultural artifacts in writing cultures
+
+BOOKS, WORDS
+
 ### Shared vision
 
 ### Purpose
