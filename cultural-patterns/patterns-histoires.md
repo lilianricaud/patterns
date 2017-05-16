@@ -76,13 +76,19 @@ Le conte de fées, nous convainc par l'appel qu'il lance à notre imagination et
 
 Ses vertus thérapeutiques viennent de ce que l'auditeur trouve ses propres solutions en méditant ce que l'histoire donne à entendre sur lui même et sur ses conflits internes à un moment de sa vie. Il est idéal pour aider les enfants à passer d'un stade pyschologique à un autre et de devenir plus mature par eux mêmes et à leur rythme. Toute tentative de le rendre plus rationnel ou d'imposer des récits plus rationnels aux enfant pour gérer leurs émotions serait catastrophiques car ceux-ci ne sont pas capables de gérer leur émotions et de les rationnaliser avant l'adolescence. Même si des histoires rationneles peuvent leur être racontées, le conte de fées reste un outil très fin pour les aider à grandir sereinement. 
 
-Si chaque conte possède une solution à un problème psychologique ou un conflit internet précis, grace à ses différents niveaux de lecture, il peut avoir plusieurs usages à plusieurs périodes de la vie et pour plusieurs personnes. Il faut donc aussi se méfier de raisonnement type "un conte pour répondre à un problème"
+Si chaque conte possède une solution à un problème psychologique ou un conflit internet précis, grace à ses différents niveaux de lecture, il peut avoir plusieurs usages à plusieurs périodes de la vie et pour plusieurs personnes. Il faut donc aussi se méfier de raisonnement type "un conte pour répondre à un problème".
+
+Le plaisir et l'enchantement de que nous éprouvons quand nous nous laissons aller à réagir à un conte de fées, viennent non pas de de la PORTEE PSYCHOLOGIQUE, du conte (qui y est pourtant pour quelque chose), mais de ses QUALITES LITTERAIRES. Les contes sont eux mêmes des oeuvres d'art. Comme toute production artistique, le sens le plus profond du conte est different pour chaque individu, et différents pour la même personne à certaines époques de sa vie.  L'enfant saisira des SIGNIFICATIONS VARIEES du même conte selon ses interets et ses besoins du moment. Il reviendra au même conte quand il sera pret à en élargir les significatitations déja perçues ou à les remplacer par d'autres.
 
 C'est un "cadeau d'amour" et selon Bettelheim c'est la sa principale force et le critères qui le distingue des autres formes de récits.
 
 
+### Sous patterns
 
-La conclusion est heureuse.
+PORTEE PSYCHOLOGIQUE
+QUALITES LITTERAIRES
+SIGNIFICATIONS VARIEES
+CONCLUSION HEUREUSE
 
 
 ## Processus génératif dans les contes de fées
