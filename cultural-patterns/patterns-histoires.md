@@ -1,18 +1,15 @@
 
 # HISTOIRE
 
-Dans le champs de l'intelligence collective, les histoire sont plus que des scènes que les gens disent ou lisent. Les histoires, en tant que pattern, sont une manière puissante d'organiser et de partager des expériences individuelles, et d'explorer et de co-créer des réalités partagées. elle forme une structure sous-jacente de notre réalité, comprehensible et qui répond à ceux qui possèdent une intelligence narrative. Nos psychés et nos cultures sont remplis de champs narratifs d'influence ou champs d'histoires, qui façonnent la conscience et le comportement des individus et collectifs qui leur sont associés. (Tom Atlee, le pouvoir des histoires http://www.co-intelligence.org/I-powerofstory.html)
+Dans le champs de l'intelligence collective, les histoire sont plus que des scènes que les gens disent ou lisent. Les histoires, en tant que pattern, sont une manière puissante d'organiser et de partager des expériences individuelles, et d'explorer et de co-créer des réalités partagées. Elle forme une structure sous-jacente de notre réalité, comprehensible et qui répond à ceux qui possèdent une intelligence narrative. Nos psychés et nos cultures sont remplis de champs narratifs d'influence ou champs d'histoires, qui façonnent la conscience et le comportement des individus et collectifs qui leur sont associés. (Tom Atlee, le pouvoir des histoires http://www.co-intelligence.org/I-powerofstory.html)
 
 Au cours de son histoire l'humanité a inventé plusieurs façon de raconter des histoires. Ces différentes formes ne sont pas anodines et ont des propriétés différentes. Dans tous les cas on retrouve des points communs: des choses ou des forces intangibles/invisibles sont personnifiées (/réifiées) pour les rendre visibles et manipulables.
 
-Structures d'histoires
+
 
 ## STRUCTURE D'HISTOIRE
 
 Une des raisons pour laquelle les présentation sont si ennuyeuses est que l'on ne peut pas identifier de pattern d'histoire. Que ce soit pour écrire un film ou une présentation professionnelle, la façon la plus simple de décrire la structure d'une histoire est ituation, complication et résolution. Des aventures mythiques aux souvenirs partagés autour d'une table, toutes les histoires suivent ce pattern. (RELATABLE AND LIKABLE HERO, ENCOUNTERS ROADBLOCKS, EMERGES TRANSFORMED). Les grandes histoires vous présente un héros auquel vous pouvez vous raccrocher. Le héros est généralement quelqu'un d'aimable qui a un désir tres fort ou un but qui est menacé d'une façon ou d'une autre. Au fur et a mesure que l'histoire se déploie et les epreuves sont traversées de manière triomphales, on acclame le héro jusque u'à ce que l'histoire soit résolue et le héros transformé. comme l'explique l'auteur Robert McKee, il doit y avoir en jeu quelque chose qui convacin l'auditoire qu'il y a beaucoup a perdre si le héros n'atteint pas son but. S'il n'y a pas d'enjeu, alors ce n'est pas interessant.
-
-One of the reasons presentations are dull is because there are no identifiable story patterns.		Whether for writing a movie or a business presentation, the most simplistic way to describe the structure of a story is situation, complication, and resolution. From mythic adventures to recollections shared around the dinner table, all stories follow this pattern. (RELATABLE AND LIKABLE HERO, ENCOUNTERS ROADBLOCKS, EMERGES TRANSFORMED)  Great stories introduce you to a hero to whom you can relate. The hero is usually a likeable sort who has an acute desire or goal that is threatened in some way. As the story unfolds and trials are met with triumph, you cheer for the hero until the story is resolved and the hero is transformed. As author Robert McKee explains, ‚ÄúSomething must be at stake that convinces the audience that a great deal will be lost if the hero doesn't obtain his goal.‚Äù If nothing is at risk, then it's not interesting.
-		
 
 Similar: Group Works STORY
 
@@ -33,6 +30,15 @@ Le mythe est une histoire unique, jamais elle n'aurait pu arriver à quelqu'un d
 
 Is peut exprimer un conflit intérieur sous forme symbolique, mais ce n'est pas son souci principal. Il présente son thème de manière emphatique, il est riche d'une force spirituelle.
 
+### Sous-patterns
+
+EVENEMENTS PRODIGIEUX: même si l'histoire peut etre inhabituelle ou improbable, elle reste assez proche de la ralité pour qu'on puisse se l'approprié. 
+PERSONNAGES DIVINS: Les personnages sont puissant
+INTEMPORALITE l'histoire se situe dans un moment hors du temps "il était une fois, 
+PORTEE PSYCHOLOGIQUE: le conte agit sur la psyché
+QUALITES LITTERAIRES: le conte possède de qualité artistiques qui nous donne envie de le suivre
+SIGNIFICATIONS VARIEES: le conte possède plusieurs sens et niveaux de comprehensions
+CONCLUSION HEUREUSE: le conte finit bien et sur un futur souhaitable
 
 
 ## CONTE DE FEES
@@ -68,7 +74,7 @@ Plus profondement que n'importe quel matériel de lecture, les contes de fées, 
 
 Le nom de conte de fées est peu approprié car il possède rarement des fées.
 
-Il met en scène des evenements inhabituels ou improbables, mais qui pourrait arriver à n'importe qui. Les personnages sont d'ailleurs anonymes (chaperon, bucheron, ...), ou utilisent des noms communs (jeannot, margot...). Les personnages de conte de fées ne sont pas ambivalents, ils ne sont pas à la fois bon et méchants comme nous le sommes tous dans la réalité. De même qu'un polarisation domine l'esprit de l'enfant, elle domine le conte de fée. Ce contraste des personnage permet à l'enfant de comprendre facilement  leur différences, ce qu'il serait incapable de faire aussi facilement si les protagonistes, comme dans la vie réelle, se présentaient avec toute leur complexité. Pour comprendre les ambiguités, l'enfant doit attendre d'avoir solidement établi sa propre personnalité sur la base  d'identifications positives.  Il peut alors voir que les gens sont très différents les uns des autres et qu'il doit lui même decider de ce qu'il sera. Cette décision fondamentale, sur laquelle s'édifiera plus tard l'évolution de sa personnalité, est facilitée par la polarisation des contes de fées.
+Il met en scène des evenements inhabituels ou improbables, mais qui pourrait arriver à n'importe qui. Les personnages sont d'ailleurs anonymes (chaperon, bucheron, ...), ou utilisent des noms communs (jeannot, margot...) (PERSONNAGES COMMUNS). Les personnages de conte de fées ne sont pas ambivalents, ils ne sont pas à la fois bon et méchants comme nous le sommes tous dans la réalité (POLARISATION). De même qu'une polarisation domine l'esprit de l'enfant, elle domine le conte de fée. Ce contraste des personnage permet à l'enfant de comprendre facilement  leur différences, ce qu'il serait incapable de faire aussi facilement si les protagonistes, comme dans la vie réelle, se présentaient avec toute leur complexité. Pour comprendre les ambiguités, l'enfant doit attendre d'avoir solidement établi sa propre personnalité sur la base  d'identifications positives.  Il peut alors voir que les gens sont très différents les uns des autres et qu'il doit lui même decider de ce qu'il sera. Cette décision fondamentale, sur laquelle s'édifiera plus tard l'évolution de sa personnalité, est facilitée par la polarisation des contes de fées.
 
 Dans le conte de fées, il n'y a pas d'obligations, il invite à s'identifier aux personnages, avec plusieurs niveaux de lectures qui permettent à des lecteurs de tout ages de se projeter dedans. La forme est simple, familière, l'auditeur n'est pas soumis à des exigences. 
 
@@ -85,11 +91,13 @@ C'est un "cadeau d'amour" et selon Bettelheim c'est la sa principale force et le
 
 ### Sous patterns
 
-SITUATION REALISTE: même si l'histoire peut etre inhabituelle ou improbable, elle reste assez proche de la ralité pour qu'on puisse se l'approprié. En même temps elle si situes dans un mome
+EVENEMENTS REALISTES: même si l'histoire peut etre inhabituelle ou improbable, elle reste assez proche de la ralité pour qu'on puisse se l'approprié. 
+PERSONNAGES COMMUNS: Les personnages sont anonymes (chaperon, bucheron, ...), ou utilisent des noms communs (jeannot, margot...)
+INTEMPORALITE l'histoire se situe dans un moment hors du temps "il était une fois, 
 PORTEE PSYCHOLOGIQUE: le conte agit sur la psyché
 QUALITES LITTERAIRES: le conte possède de qualité artistiques qui nous donne envie de le suivre
 SIGNIFICATIONS VARIEES: le conte possède plusieurs sens et niveaux de comprehensions
-CONCLUSION HEUREUSE: le compte finit bien et sur un futur souhaitable
+CONCLUSION HEUREUSE: le conte finit bien et sur un futur souhaitable
 
 
 
