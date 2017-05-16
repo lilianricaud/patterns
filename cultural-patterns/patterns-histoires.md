@@ -25,13 +25,15 @@ Is peut exprimer un conflit intérieur sous forme symbolique, mais ce n'est pas 
 
 ## CONTE DE FEES
 
+Coeur du pattern
+
 Au cours de sa croissance, l'enfant fait face a des difficultés psychologiques et affectives qu'il est incapable de rationnaliser et ne peut surmonter seul. Or la littérature enfantine qui lui est proposée est trop ouvent a but de distraire ou informer, apprendre a lire, mais manque de sens profond qui aide l'enfant à grandir interieurement.
 
 Par conséquent,
 
 Privilégiez la LECTURE DE CONTE DE FEE. Les contes de fées de par leur maturation via un processus itératif très long ont acquis une structure avec de multiples niveaux de sens qui permettent à l'enfant de résoudre ses problèmes intérieurs lui même. Eviter de chercher a rendre rationnel ou trop précis le conte mais cherchez plutot une interaction
 
-
+Détail
 
 Contrairement au mythe ancien, la sagesse ne jaillit pas d'elle même, comme le fit athéna de la tête de Zeus. Elle s'élabore petit à petit, après des débuts tres irrationnels. Trop de parents voudraient que l'esprit de leur enfant fonctionnat comme le leur, comme si notre compréhension de nous mêmes et du monde, et nos idées sur le sens de la vie n'étaient pas soumise à une lente évolution qui aboutit à la maturité adulte. Pour découvir le sens profond de la vie, il faut être capable de dépasser les limites étroites d'une existence egocentrique. Nos sentiments positifs nous dnone la force de développer notre rationnalité. Seule notre confiance en l'avenir peut nous soutenir contre les adversités que nous ne pouvons éviter de rencontrer.
 
