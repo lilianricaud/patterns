@@ -32,18 +32,18 @@ Is peut exprimer un conflit intérieur sous forme symbolique, mais ce n'est pas 
 
 ### Sous-patterns
 
-EVENEMENTS PRODIGIEUX: même si l'histoire peut etre inhabituelle ou improbable, elle reste assez proche de la ralité pour qu'on puisse se l'approprié. 
-PERSONNAGES DIVINS: Les personnages sont puissant
-INTEMPORALITE l'histoire se situe dans un moment hors du temps "il était une fois, 
-PORTEE PSYCHOLOGIQUE: le conte agit sur la psyché
-QUALITES LITTERAIRES: le conte possède de qualité artistiques qui nous donne envie de le suivre
-SIGNIFICATIONS VARIEES: le conte possède plusieurs sens et niveaux de comprehensions
-CONCLUSION HEUREUSE: le conte finit bien et sur un futur souhaitable
+EVENEMENTS PRODIGIEUX: Le mythe est une histoire unique, jamais elle n'aurait pu arriver à quelqu'un d'autre, ni ailleurs. Le mythe met en scène des evenements prodigieux, terrifiants, pas appliqués à de simples mortels. 
+PERSONNAGES HEROIQUES: Les personnages sont puissants, mythiques
+PORTEE PSYCHOLOGIQUE: agit sur la psyché
+QUALITES LITTERAIRES:  possède de qualité artistiques qui nous donne envie de le suivre
+SIGNIFICATIONS VARIEES ?
+CONCLUSION TRAGIQUE: 
+SYMBOLISME:
 
 
 ## CONTE DE FEES
 
-**Au cours de sa croissance, l'enfant fait face à des difficultés psychologiques et affectives qu'il est incapable de rationnaliser et ne peut surmonter seul. Or la littérature enfantine qui lui est proposée est trop ouvent a but de distraire ou informer, apprendre a lire, mais manque de sens profond qui aide l'enfant à grandir interieurement.**
+**Au cours de sa croissance, l'enfant fait face à des difficultés psychologiques et affectives qu'il est incapable de rationnaliser et ne peut surmonter seul. Or la littérature enfantine qui lui est proposée a trop souvent pour but de distraire ou informer, apprendre a lire, mais manque de sens profond qui aide l'enfant à grandir interieurement.**
 
 *Par conséquent,*
 
