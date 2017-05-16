@@ -31,11 +31,11 @@ Il met en scène des evenements inhabituels ou improbables, mais qui pourrait ar
 
 Dans le conte de fées, il n'y a pas d'obligations, il invite à s'identifier aux personnages, avec plusieurs niveaux de lectures qui permettent à des lecteurs de tout ages de se projeter dedans. La forme est simple, familière, l'auditeur n'est pas soumis à des exigences. 
 
-Le conte de fées, nous convainc par l'appel qu'il lance à notre imagination et par l'enchainement séduisant des evenements qui nous sollicitent. il projette le soulagement de toutes les pressions, et sans se contenter de proposer desfaçons de résoudre le problème, il promet qu'une solution "heureuse" sera trouvée.
+Le conte de fées, nous convainc par l'appel qu'il lance à notre imagination et par l'enchainement séduisant des evenements qui nous sollicitent. il projette le soulagement de toutes les pressions, et sans se contenter de proposer desfaçons de résoudre le problème, il promet qu'une solution "heureuse" sera trouvée (CONCLUSION HEUREUSE).
 
-Ses vertus thérapeutiques viennent de ce que l'auditeur trouve ses propres solutions en méditant ce que l'histoire donne à entendre sur lui même et sur ses conflits internes à un moment de sa vie. Il est idéal pour aider les enfants à passer d'un stade pyschologique à un autre et de devenir plus mature par eux mêmes et à leur rythme. toute tentative de le rendre plus rationnel ou d'imposer des récits plus rationnels aux enfant pour gérer leurs émotions serait catastrophiques car ceux-ci ne sont pas capables de gérer leur émotions et de les rationnaliser avant l'adolescence. Même si des histoires rationneles peuvent leur être racontées, le conte de fées reste un outil très fin pour les aider à grandir sereinement. 
+Ses vertus thérapeutiques viennent de ce que l'auditeur trouve ses propres solutions en méditant ce que l'histoire donne à entendre sur lui même et sur ses conflits internes à un moment de sa vie. Il est idéal pour aider les enfants à passer d'un stade pyschologique à un autre et de devenir plus mature par eux mêmes et à leur rythme. Toute tentative de le rendre plus rationnel ou d'imposer des récits plus rationnels aux enfant pour gérer leurs émotions serait catastrophiques car ceux-ci ne sont pas capables de gérer leur émotions et de les rationnaliser avant l'adolescence. Même si des histoires rationneles peuvent leur être racontées, le conte de fées reste un outil très fin pour les aider à grandir sereinement. 
 
-Si chqaue conte possède une solution à un problème psychologique ou un conflit internet précis, grace à ses différents niveaux de lecture, il peut avoir plusieurs usages à plusieurs périodes de la vie et pour plusieurs personnes. Il faut donc aussi se méfier de raisonnement type "un conte pour répondre à un problème"
+Si chaque conte possède une solution à un problème psychologique ou un conflit internet précis, grace à ses différents niveaux de lecture, il peut avoir plusieurs usages à plusieurs périodes de la vie et pour plusieurs personnes. Il faut donc aussi se méfier de raisonnement type "un conte pour répondre à un problème"
 
 C'est un "cadeau d'amour" et selon Bettelheim c'est la sa principale force et le critères qui le distingue des autres formes de récits.
 
@@ -46,7 +46,7 @@ La conclusion est heureuse.
 
 ## Processus génératif dans les contes de fées
 
-### Le contes de fées dérivent par un processus génératif
+### Le contes de fées dérivent d'un processus génératif
 
 A force d'avoir été répétés pendant des siècles (voire des millénaires) les contes de fées se sont de plus en plus affinés et se sont chargés de signification aussi bien apparentes que cachées; ils sont arrivés à s'adresser simultanément à tous les niveaux de la personnalité humaine, en transmettant leurs message d'une façon qui touche aussi bien l'esprit inculte de l'enfant que celui perfectionné de l'adulte. En utilisant sans le savoir le modèle psychanalytique de la personnalité humaine, ils adressent des messages importants à l'esprit conscient, pré-conscient et inconscient, quelque soit le niveau atteint par chacun d'eux. Ces histoires qui abordent des problèmes humains universels et en particulier ceux des enfants s'adressent à leur moi en herbe et favorise son devellopement, tout en soulageant les pressions pré-conscientes et inconscientes. (p18).
 
@@ -58,3 +58,11 @@ Les contes de fées induisent un processus génératif de transformation psychol
 ## Question en suspens
 
 si le conte de fée sert le developpement psychologique et la maturité de l'individu, a quoi sert le pattern MYTHE ? serait il une carte des forces du monde ?
+
+
+## Powerful story
+**Tell a powerful story**
+
+In the field of co-intelligence, stories are more than dramas people tell or read. Story, as a pattern, is a powerful way of organizing and sharing individual experience and exploring and co-creating shared realites. It forms one of the underlying structures of reality, comprehensible and responsive to those who possess what we call narrative intelligence. Our psyches and cultures are filled with narrative fields of influence, or story fields, which shape the awareness and behavior of the individuals and collectives associated with them.	Tom Atlee		http://www.co-intelligence.org/I-powerofstory.html			
+
+Similar: Group Works STORY
