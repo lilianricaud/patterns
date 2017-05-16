@@ -45,7 +45,9 @@ A force d'avoir été répétés pendant des siècles (voire des millénaires) l
 
 Si on se contente d'aborder superficiellement les contes de fées, ils ont peu de choses à nous apprendre sur les conditions de vie propres à la société de masse dans laquelle nous vivons aujourd'hui; ces contes ont été crés bien avant son avenement. Mais ils ont infinimen plus de choses à nous dire sur les problèmes intérieurs de l'être humain et et sur leurs solutions que n'importe quelle hisoire à la portée de l'entendement de l'enfant. 
 
-Nom peu appropriés car il possède rarement des fées.
+Plus profondement que n'importe quel matériel de lecture, les contes de fées, débutent la où se trouve en réalité l'enfant dans son être psychologique et affectif. Ils lui parlent de ses graves pressions intérieures d'une façon qu'il enregistre inconsciemment et - sans minimiser les lutte sintimes les plus serieuses suscitées par la croissance - ils lui font comprendre par l'exemple qu'il existe des solutions momentanées ou permanentes aux difficultés psychologiques les plus pressantes.
+
+Le nom de conte de fées est peu approprié car il possède rarement des fées.
 
 Il met en scène des evenements inhabituels ou improbables, mais qui pourrait arriver à n'importe qui. Les personnages sont d'ailleurs anonymes (chaperon, bucheron, ...), ou utilisent des noms communs (jeannot, margot...). 
 
