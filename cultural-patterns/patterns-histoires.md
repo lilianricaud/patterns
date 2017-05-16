@@ -7,9 +7,9 @@ Au cours de son histoire l'humanité a inventé plusieurs façon de raconter des
 ## Powerful story
 **Tell a powerful story**
 
-D
+Dans le champs de l'intelligence collective, les histoire sont plus que des scènes que les gens disent ou lisent. Les histoires, en tant que pattern, sont une manière puissante d'organiser et de partager des expériences individuelles, et d'explorer et de co-créer des réalités partagées. elle forme une structure sous-jacente de notre réalité, comprehensible et qui répond à ceux qui possèdent une intelligence narrative. Nos psychés et nos cultures sont remplis de champs narratifs d'influence ou champs d'histoires, qui façonnent la conscience et le comportement des individus et collectifs qui leur sont associés. (Tom Atlee, le pouvoir des histoires http://www.co-intelligence.org/I-powerofstory.html)
 
-In the field of co-intelligence, stories are more than dramas people tell or read. Story, as a pattern, is a powerful way of organizing and sharing individual experience and exploring and co-creating shared realites. It forms one of the underlying structures of reality, comprehensible and responsive to those who possess what we call narrative intelligence. Our psyches and cultures are filled with narrative fields of influence, or story fields, which shape the awareness and behavior of the individuals and collectives associated with them.	Tom Atlee		http://www.co-intelligence.org/I-powerofstory.html			
+		
 
 Similar: Group Works STORY
 
