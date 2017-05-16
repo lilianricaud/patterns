@@ -37,15 +37,12 @@ Is peut exprimer un conflit intérieur sous forme symbolique, mais ce n'est pas 
 
 ## CONTE DE FEES
 
-Coeur du pattern
+**Au cours de sa croissance, l'enfant fait face à des difficultés psychologiques et affectives qu'il est incapable de rationnaliser et ne peut surmonter seul. Or la littérature enfantine qui lui est proposée est trop ouvent a but de distraire ou informer, apprendre a lire, mais manque de sens profond qui aide l'enfant à grandir interieurement.**
 
-Au cours de sa croissance, l'enfant fait face a des difficultés psychologiques et affectives qu'il est incapable de rationnaliser et ne peut surmonter seul. Or la littérature enfantine qui lui est proposée est trop ouvent a but de distraire ou informer, apprendre a lire, mais manque de sens profond qui aide l'enfant à grandir interieurement.
+*Par conséquent,*
 
-Par conséquent,
+**Privilégiez la LECTURE DE CONTE DE FEE. Les contes de fées, de par leur maturation via un processus itératif très long, ont acquis une structure avec de multiples niveaux de sens qui permettent à l'enfant de résoudre ses problèmes intérieurs lui même. Evitez de chercher à rendre rationnel ou trop précis le conte mais cherchez plutot une interaction riche entre le lecteur et l'auditeur.**
 
-Privilégiez la LECTURE DE CONTE DE FEE. Les contes de fées de par leur maturation via un processus itératif très long ont acquis une structure avec de multiples niveaux de sens qui permettent à l'enfant de résoudre ses problèmes intérieurs lui même. Eviter de chercher a rendre rationnel ou trop précis le conte mais cherchez plutot une interaction
-
-Détail
 
 Contrairement au mythe ancien, la sagesse ne jaillit pas d'elle même, comme le fit athéna de la tête de Zeus. Elle s'élabore petit à petit, après des débuts tres irrationnels. Trop de parents voudraient que l'esprit de leur enfant fonctionnat comme le leur, comme si notre compréhension de nous mêmes et du monde, et nos idées sur le sens de la vie n'étaient pas soumise à une lente évolution qui aboutit à la maturité adulte. Pour découvir le sens profond de la vie, il faut être capable de dépasser les limites étroites d'une existence egocentrique. Nos sentiments positifs nous dnone la force de développer notre rationnalité. Seule notre confiance en l'avenir peut nous soutenir contre les adversités que nous ne pouvons éviter de rencontrer.
 
@@ -67,9 +64,11 @@ Si on se contente d'aborder superficiellement les contes de fées, ils ont peu d
 
 Plus profondement que n'importe quel matériel de lecture, les contes de fées, débutent la où se trouve en réalité l'enfant dans son être psychologique et affectif. Ils lui parlent de ses graves pressions intérieures d'une façon qu'il enregistre inconsciemment et - sans minimiser les lutte sintimes les plus serieuses suscitées par la croissance - ils lui font comprendre par l'exemple qu'il existe des solutions momentanées ou permanentes aux difficultés psychologiques les plus pressantes.
 
+### Structure du conte de fée
+
 Le nom de conte de fées est peu approprié car il possède rarement des fées.
 
-Il met en scène des evenements inhabituels ou improbables, mais qui pourrait arriver à n'importe qui. Les personnages sont d'ailleurs anonymes (chaperon, bucheron, ...), ou utilisent des noms communs (jeannot, margot...). 
+Il met en scène des evenements inhabituels ou improbables, mais qui pourrait arriver à n'importe qui. Les personnages sont d'ailleurs anonymes (chaperon, bucheron, ...), ou utilisent des noms communs (jeannot, margot...). Les personnages de conte de fées ne sont pas ambivalents, ils ne sont pas à la fois bon et méchants comme nous le sommes tous dans la réalité. De même qu'un polarisation domine l'esprit de l'enfant, elle domine le conte de fée. Ce contraste des personnage permet à l'enfant de comprendre facilement  leur différences, ce qu'il serait incapable de faire aussi facilement si les protagonistes, comme dans la vie réelle, se présentaient avec toute leur complexité. Pour comprendre les ambiguités, l'enfant doit attendre d'avoir solidement établi sa propre personnalité sur la base  d'identifications positives.  Il peut alors voir que les gens sont très différents les uns des autres et qu'il doit lui même decider de ce qu'il sera. Cette décision fondamentale, sur laquelle s'édifiera plus tard l'évolution de sa personnalité, est facilitée par la polarisation des contes de fées.
 
 Dans le conte de fées, il n'y a pas d'obligations, il invite à s'identifier aux personnages, avec plusieurs niveaux de lectures qui permettent à des lecteurs de tout ages de se projeter dedans. La forme est simple, familière, l'auditeur n'est pas soumis à des exigences. 
 
