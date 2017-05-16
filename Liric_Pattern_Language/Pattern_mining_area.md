@@ -215,12 +215,7 @@ Dunbar's number is a suggested cognitive limit to the number of people with whom
 
 Similar: The Magical Number Seven, Plus or Minus Two	
 
-## Powerful story
-**Tell a powerful story**
 
-In the field of co-intelligence, stories are more than dramas people tell or read. Story, as a pattern, is a powerful way of organizing and sharing individual experience and exploring and co-creating shared realites. It forms one of the underlying structures of reality, comprehensible and responsive to those who possess what we call narrative intelligence. Our psyches and cultures are filled with narrative fields of influence, or story fields, which shape the awareness and behavior of the individuals and collectives associated with them.	Tom Atlee		http://www.co-intelligence.org/I-powerofstory.html			
-
-Similar: Group Works STORY
 
 ## Start with Why
 
@@ -233,7 +228,7 @@ Walking seems to be a great way to let ideas settle down on their own and many b
 
 ## Write what's known
 
-When dealing with a complex situation start by writing what's known  When dealing with complex systems and situations, the amount of information can be overwhelming and thoughts will either rotate endlessly or alternatively the blank page blockage might occur.  Whether to get parasitic thoughts out of your mind or to unlock a blockage, start putting down on paper the current situation, what is know and what you want to achieve. When dealing with emotional issue, write a letter to yourself or someone else, you don't have to actually send the letter, but you can keep it or burn it. The letter itself is not important, it is the process of getting your thoughts out or expressing yourself that is important. Similarly you can keep a book and record your thoughts there.  When dealing with a complex topic writing down what is known helps your mind settle down and get in the state where it can see more clearly what is important.  When trying to write an article about a complex topic, writing what's known helps you pass the blank page syndrome and jump into writing mode, and slowly you'll get into what you want to write about.	inspired by @sotmani				
+When dealing with a complex situation start by writing what's known  When dealing with complex systems and situations, the amount of information can be overwhelming and thoughts will either rotate endlessly or alternatively the blank page blockage might occur.  Whether to get parasitic thoughts out of your mind or to unlock a blockage, start putting down on paper the current situation, what is know and what you want to achieve. When dealing with emotional issue, write a letter to yourself or someone else, you don't have to actually send the letter, but you can keep it or burn it. The letter itself is not important, it is the process of getting your thoughts out or expressing yourself that is important. Similarly you can keep a book and record your thoughts there.  When dealing with a complex topic writing down what is known helps your mind settle down and get in the state where it can see more clearly what is important.  When trying to write an article about a complex topic, writing what's known helps you pass the blank page syndrome and jump into writing mode, and slowly you'll get into what you want to write about.	
 
 ## To change yourself, change your environment		
 
@@ -264,7 +259,16 @@ Each circle has the responsibility to execute, measure, and control its own proc
 
 In most societies, men tend to dominate the debate, hold the power and rule everything while women as they don't fight for power as men do are often left behind and not considered. Their salaries are often lower, while tend work as much if not more than men. In politics and governance, old men tend to conquer and retain power.  In poor countries men tend to spend money on themselves, buying alcohool, drugs, sex, gamble most of the time at the expense of their family. 		
 
-However studies have shown women manage money more fairly and distribute it in the family/community, looking equally after old people, children, and husband.  Other studies have shown the collective intelligence and performance of a group is directly correlated with the percentage of women within the group. The reason proposed by authors is women generally have more empathy and smoothen social relationships, improving the functioning of the group.  although women can have some of men's defaults and men can have some women's qualities, since men tend to dominate the groups, as a general rule strive to support women in whatever they do.  You don't need ton't tell them what to do or influence what how they do it. They generally know what they do or how to do it. Just support what they already do, even if it is only by a quiet support. 									
+However studies have shown women manage money more fairly and distribute it in the family/community, looking equally after old people, children, and husband.  Other studies have shown the collective intelligence and performance of a group is directly correlated with the percentage of women within the group. The reason proposed by authors is women generally have more empathy and smoothen social relationships, improving the functioning of the group.  although women can have some of men's defaults and men can have some women's qualities, since men tend to dominate the groups, as a general rule strive to support women in whatever they do.  You don't need ton't tell them what to do or influence what how they do it. They generally know what they do or how to do it. Just support what they already do, even if it is only by a quiet support. 			
+
+
+## Powerful story
+**Tell a powerful story**
+
+In the field of co-intelligence, stories are more than dramas people tell or read. Story, as a pattern, is a powerful way of organizing and sharing individual experience and exploring and co-creating shared realites. It forms one of the underlying structures of reality, comprehensible and responsive to those who possess what we call narrative intelligence. Our psyches and cultures are filled with narrative fields of influence, or story fields, which shape the awareness and behavior of the individuals and collectives associated with them.	Tom Atlee		http://www.co-intelligence.org/I-powerofstory.html			
+
+Similar: Group Works STORY
+						
 ##Story structure
 
 **Situation, complication, and resolution story structure	**	
