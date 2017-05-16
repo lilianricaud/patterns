@@ -52,7 +52,7 @@ A force d'avoir été répétés pendant des siècles (voire des millénaires) l
 
 ### Les contes de fées induisent un processus génératif
 
-Les contes de fées induisent un processus génératif de transformation psychologique de l'individu qui les écoutent
+Les contes de fées induisent un processus génératif de transformation psychologique de l'individu qui les écoutent. Par la fin heureuse, le caractère simple de l'histoire, à la fois irréelle, mais réaliste, les multiple sinterprétation possibles, le fait que chacun reconstruise l'histoire avec son imagination, que la solution n'est pas imposée, ils un processus qui aboutit a une transformation personnelle.
 
 
 ## Question en suspens
