@@ -13,11 +13,15 @@ Moralisatrice, elle raconte ce qu'il faut faire et ne pas faire, suscite l'angoi
 
 Elle se differencie ainsi du conte qui n'impose rien, mais donne des ingrédients pour lancer un processus génératif de transformation interne.
 
+La fable de "la cigale et la fourmi" et "les 3 petits cochons" ont le même objectif (sensibiliser au fait de repousser ses désir et travailler) mais la façon de le traiter est tres différentes (la fourmis laisse crever la cigale, tandis que les petits cochons symbolisent differentes évolution de personnalité, on ne regrette pas les cochons plus jeunes qui sont dévorés et l'histoire finit bien ave le cochon mangeant le loup).
+
 ## MYTHE
 
 Le mythe est une histoire unique, jamais elle n'aurait pu arriver à quelqu'un d'autre, ni ailleurs. Le nom du héros est précis et ont possède souvent des informations sur sa famille. Le mythe met en scène des evenements prodigieux, terrifiants, pas appliqués à de simples mortels. La conclusion est tragique.
 
 Is peut exprimer un conflit intérieur sous forme symbolique, mais ce n'est pas son souci principal. Il présente son thème de manière emphatique, il est riche d'une force spirituelle.
+
+
 
 ## CONTE DE FEES
 
@@ -31,7 +35,7 @@ Le conte de fées, nous convainc par l'appel qu'il lance à notre imagination et
 
 Ses vertus thérapeutiques viennent de ce que l'auditeur trouve ses propres solutions en méditant ce que l'histoire donne à entendre sur lui même et sur ses conflits internes à un moment de sa vie. Il est idéal pour aider les enfants à passer d'un stade pyschologique à un autre et de devenir plus mature par eux mêmes et à leur rythme. toute tentative de le rendre plus rationnel ou d'imposer des récits plus rationnels aux enfant pour gérer leurs émotions serait catastrophiques car ceux-ci ne sont pas capables de gérer leur émotions et de les rationnaliser avant l'adolescence. Même si des histoires rationneles peuvent leur être racontées, le conte de fées reste un outil très fin pour les aider à grandir sereinement. 
 
-Si chqaue conte possède une solution à un problèmes psychologique ou un conflit internet précis, grace à ses différents niveaux de lecture, il peut avoir plusieurs usages à plusieurs périodes de la vie et pour plusieurs personnes. Il faut donc aussi se méfier de raisonnemen
+Si chqaue conte possède une solution à un problème psychologique ou un conflit internet précis, grace à ses différents niveaux de lecture, il peut avoir plusieurs usages à plusieurs périodes de la vie et pour plusieurs personnes. Il faut donc aussi se méfier de raisonnement type "un conte pour répondre à un problème"
 
 C'est un "cadeau d'amour" et selon Bettelheim c'est la sa principale force et le critères qui le distingue des autres formes de récits.
 
@@ -43,3 +47,11 @@ La conclusion est heureuse.
 ## Processus génératif dans les contes de fées
 
 A force d'avoir été répétés pendant des siècles (voire des millénaires) les contes de fées se sont de plus en plus affinés et se sont chargés de signification aussi bien apparentes que cachées; ils sont arrivés à s'adresser simultanément à tous les niveaux de la personnalité humaine, en transmettant leurs message d'une façon qui touche aussi bien l'esprit inculte de l'enfant que celui perfectionné de l'adulte. En utilisant sans le savoir le modèle psychanalytique de la personnalité humaine, ils adressent des messages importants à l'esprit conscient, pré-conscient et inconscient, quelque soit le niveau atteint par chacun d'eux. Ces histoires qui abordent des problèmes humain universels et en particulier ceux des enfants s'adressent à leur moi en herbe et favorise son devellopement, tout en soulageant les pressions pré-conscientes et inconscientes. (p18).
+
+
+
+
+
+## Question en suspens
+
+si le conte de fée sert le developpement psychologique et la maturité de l'individu, a quoi sert le pattern MYTHE ? serait il une carte des forces du monde ?
