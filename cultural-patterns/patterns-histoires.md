@@ -46,10 +46,13 @@ La conclusion est heureuse.
 
 ## Processus génératif dans les contes de fées
 
-A force d'avoir été répétés pendant des siècles (voire des millénaires) les contes de fées se sont de plus en plus affinés et se sont chargés de signification aussi bien apparentes que cachées; ils sont arrivés à s'adresser simultanément à tous les niveaux de la personnalité humaine, en transmettant leurs message d'une façon qui touche aussi bien l'esprit inculte de l'enfant que celui perfectionné de l'adulte. En utilisant sans le savoir le modèle psychanalytique de la personnalité humaine, ils adressent des messages importants à l'esprit conscient, pré-conscient et inconscient, quelque soit le niveau atteint par chacun d'eux. Ces histoires qui abordent des problèmes humain universels et en particulier ceux des enfants s'adressent à leur moi en herbe et favorise son devellopement, tout en soulageant les pressions pré-conscientes et inconscientes. (p18).
+### Le contes de fées dérivent par un processus génératif
 
+A force d'avoir été répétés pendant des siècles (voire des millénaires) les contes de fées se sont de plus en plus affinés et se sont chargés de signification aussi bien apparentes que cachées; ils sont arrivés à s'adresser simultanément à tous les niveaux de la personnalité humaine, en transmettant leurs message d'une façon qui touche aussi bien l'esprit inculte de l'enfant que celui perfectionné de l'adulte. En utilisant sans le savoir le modèle psychanalytique de la personnalité humaine, ils adressent des messages importants à l'esprit conscient, pré-conscient et inconscient, quelque soit le niveau atteint par chacun d'eux. Ces histoires qui abordent des problèmes humains universels et en particulier ceux des enfants s'adressent à leur moi en herbe et favorise son devellopement, tout en soulageant les pressions pré-conscientes et inconscientes. (p18).
 
+### Les contes de fées induisent un processus génératif
 
+Les contes de fées induisent un processus génératif de transformation psychologique de l'individu qui les écoutent
 
 
 ## Question en suspens
