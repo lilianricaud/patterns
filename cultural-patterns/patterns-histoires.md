@@ -1,17 +1,29 @@
 
-# HISTOIRES
+# HISTOIRE
 
 Au cours de son histoire l'humanité a inventé plusieurs façon de raconter des histoires. Ces différentes formes ne sont pas anodines et ont des propriétés différentes. Dans tous les cas on retrouve des points communs: des choses ou des forces intangibles/invisibles sont personnifiées (/réifiées) pour les rendre visibles et manipulables.
 
 Ce texte est en grande partie inspiré par le livre de Bruno Bettelheim "psychanalyse des contes de fées";
 
-## FABLES 
+## FABLE 
 
-Moralisatrices, racontent ce qu'il faut faire et ne pas faire, suscitent l'angoisse pour empecher d'agir d'une façon décrite comme nocive, elles expriment toujours une vérité morale, n'ont pas de sens caché et rien n'est laissé à l'imaginaire.
+Moralisatrice, elle raconte ce qu'il faut faire et ne pas faire, suscite l'angoisse pour empecher d'agir d'une façon décrite comme nocive, elle exprime toujours une vérité morale, n'a pas de sens caché et rien n'est laissé à l'imaginaire.
 
-## MYTHES
+Elle se differencie ainsi du conte qui n'impose rien, mais donne des ingrédients pour lancer un processus génératif de transformation interne.
 
-Ils peuvent exprimer un conflit intérieur sous forme symbolique, mais ce n'est pas leur souci principal. Il présente son thème de manière emphatique, il est riche d'une force spirituelle.
+## MYTHE
+
+Le mythe est une histoire unique, jamais elle n'aurait pu arriver à quelqu'un d'autre, ni ailleurs. Le nom du héros est précis et ont possède souvent des informations sur sa famille. Le mythe met en scène des evenements prodigieux, terrifiants, pas appliqués à de simples mortels. La conclusion est tragique.
+
+Is peut exprimer un conflit intérieur sous forme symbolique, mais ce n'est pas son souci principal. Il présente son thème de manière emphatique, il est riche d'une force spirituelle.
+
+## CONTE DE FEES
+
+Nom peu appropriés car il possède rarement des fées.
+
+Il met en scène des evenements inhabituels ou improbables, mais qui pourrait arriver à n'importe qui. Les personnages sont d'ailleurs anonymes (chaperon, bucheron, ...), ou utilisent des noms communs (jeannot, margot...). 
+
+La conclusion est heureuse.
 
 
 ## Processus génératif dans les contes de fées
