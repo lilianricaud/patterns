@@ -29,7 +29,17 @@ Is peut exprimer un conflit intérieur sous forme symbolique, mais ce n'est pas 
 
 Contrairement au mythe ancien, la sagesse ne jaillit pas d'elle même, comme le fit athéna de la tête de Zeus. Elle s'élabore petit à petit, après des débuts tres irrationnels. Trop de parents voudraient que l'esprit de leur enfant fonctionnat comme le leur, comme si notre compréhension de nous mêmes et du monde, et nos idées sur le sens de la vie n'étaient pas soumise à une lente évolution qui aboutit à la maturité adulte. Pour découvir le sens profond de la vie, il faut être capable de dépasser les limites étroites d'une existence egocentrique. Nos sentiments positifs nous dnone la force de développer notre rationnalité. Seule notre confiance en l'avenir peut nous soutenir contre les adversités que nous ne pouvons éviter de rencontrer.
 
-Or une grande partie de la littérature enfantine est incapable de stimuler et d'alimenter les ressources intérieures qui sont indispensables à l'enfant pour affronter ses difficiles problèmes. Les abécédaires et autres livres pour débutants sont étudiés pour enseigner la technique de la lecture et ne servent à rien d'autres. La masse énorme de des autres livres et publication de la "littérature enfantine" visent à amuser l'enfant ou à l'informer, ou les deux à la fois. Mais la substance des ces écrits est si pauvre qu'elle na guère de signfication profonde pour lui.
+Or une grande partie de la littérature enfantine est incapable de stimuler et d'alimenter les ressources intérieures qui sont indispensables à l'enfant pour affronter ses difficiles problèmes. Les abécédaires et autres livres pour débutants sont étudiés pour enseigner la technique de la lecture et ne servent à rien d'autres. La masse énorme de des autres livres et publication de la "littérature enfantine" visent à amuser l'enfant ou à l'informer, ou les deux à la fois. Mais la substance des ces écrits est si pauvre qu'elle na guère de signfication profonde pour lui. L'acquisition des techniques - y compris la lecture - perd de la valeur si ce que l'enfant a appris à lire n'ajoute rien d'important à sa vie.
+
+Le principal reproche que l'on peut faire à ces livres, c'est qu'ils trompent l'enfant sur ce que la la littérature peut lui apporter: la connaissance du sens plus profond de la vie et ce qui est signficatif pour lui au niveau de développement qu'il a atteint.
+
+Pour qu'un histoire accroche vraiment l'attention de l'enfant, il faut qu'elle le divertisse et qu'elle eveille sa curiosité. Mais, pour enrichir sa vie, il faut qu'elle l'aide à developper son intelligence et à voir clair dans ses émotions; qu'elle soit accordée à ses angoisses et à ses aspirations, qu'elle lui fasse prendre conscience de ses difficultés, tout en lui suggérant des solutions aux problèmes  qui le troublent. Bref, elle doit, en un seul et même temps, se mettre en accord avec tous les aspects de sa personnlité sans amoindrir, au contraire, en la reconnaissant pleinement, la gravité de la situation de l'enfant, et en lui donnant par la même occasion, confiance en lui en son avenir.  
+
+Par conséquent, 
+
+Privilégiez la LECTURE DE CONTE DE FEE.
+
+Si on se contente d'aborder superficiellement les contes de fées, ils ont peu de choses à nous apprendre sur les conditions de vie propres à la société de masse dans laquelle nous vivons aujourd'hui; ces contes ont été crés bien avant son avenement. Mais ils ont infinimen plus de choses à nous dire sur les problèmes intérieurs de l'être humain et et sur leurs solutions que n'importe quelle his
 
 Nom peu appropriés car il possède rarement des fées.
 
