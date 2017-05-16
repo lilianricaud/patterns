@@ -25,6 +25,12 @@ Is peut exprimer un conflit intérieur sous forme symbolique, mais ce n'est pas 
 
 ## CONTE DE FEES
 
+
+
+Contrairement au mythe ancien, la sagesse ne jaillit pas d'elle même, comme le fit athéna de la tête de Zeus. Elle s'élabore petit à petit, après des débuts tres irrationnels. Trop de parents voudraient que l'esprit de leur enfant fonctionnat comme le leur, comme si notre compréhension de nous mêmes et du monde, et nos idées sur le sens de la vie n'étaient pas soumise à une lente évolution qui aboutit à la maturité adulte. Pour découvir le sens profond de la vie, il faut être capable de dépasser les limites étroites d'une existence egocentrique. Nos sentiments positifs nous dnone la force de développer notre rationnalité. Seule notre confiance en l'avenir peut nous soutenir contre les adversités que nous ne pouvons éviter de rencontrer.
+
+Or une grande partie de la littérature enfantine est incapable de stimuler et d'alimenter les ressources intérieures qui sont indispensables à l'enfant pour affronter ses difficiles problèmes. Les abécédaires et autres livres pour débutants sont étudiés pour enseigner la technique de la lecture et ne servent à rien d'autres. La masse énorme de des autres livres et publication de la "littérature enfantine" visent à amuser l'enfant ou à l'informer, ou les deux à la fois. Mais la substance des ces écrits est si pauvre qu'elle na guère de signfication profonde pour lui.
+
 Nom peu appropriés car il possède rarement des fées.
 
 Il met en scène des evenements inhabituels ou improbables, mais qui pourrait arriver à n'importe qui. Les personnages sont d'ailleurs anonymes (chaperon, bucheron, ...), ou utilisent des noms communs (jeannot, margot...). 
@@ -62,6 +68,8 @@ si le conte de fée sert le developpement psychologique et la maturité de l'ind
 
 ## Powerful story
 **Tell a powerful story**
+
+D
 
 In the field of co-intelligence, stories are more than dramas people tell or read. Story, as a pattern, is a powerful way of organizing and sharing individual experience and exploring and co-creating shared realites. It forms one of the underlying structures of reality, comprehensible and responsive to those who possess what we call narrative intelligence. Our psyches and cultures are filled with narrative fields of influence, or story fields, which shape the awareness and behavior of the individuals and collectives associated with them.	Tom Atlee		http://www.co-intelligence.org/I-powerofstory.html			
 
