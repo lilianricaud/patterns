@@ -85,10 +85,12 @@ C'est un "cadeau d'amour" et selon Bettelheim c'est la sa principale force et le
 
 ### Sous patterns
 
-PORTEE PSYCHOLOGIQUE
-QUALITES LITTERAIRES
-SIGNIFICATIONS VARIEES
-CONCLUSION HEUREUSE
+SITUATION REALISTE: même si l'histoire peut etre inhabituelle ou improbable, elle reste assez proche de la ralité pour qu'on puisse se l'approprié. En même temps elle si situes dans un mome
+PORTEE PSYCHOLOGIQUE: le conte agit sur la psyché
+QUALITES LITTERAIRES: le conte possède de qualité artistiques qui nous donne envie de le suivre
+SIGNIFICATIONS VARIEES: le conte possède plusieurs sens et niveaux de comprehensions
+CONCLUSION HEUREUSE: le compte finit bien et sur un futur souhaitable
+
 
 
 ## Processus génératif dans les contes de fées
