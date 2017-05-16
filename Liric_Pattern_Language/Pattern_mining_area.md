@@ -237,7 +237,8 @@ When dealing with a complex situation start by writing what's known  When dealin
 
 ## To change yourself, change your environment		
 
-Changing yourself doesn't work, no matter how hard you try. You might make plans and force yourself, but this kind of change will not last.		Human are sensitive being and emotional sponges. We respond to the environment around us, whether physical or psychological.  Research has shown we tend to become like people who surround us, so one of the easiest way to change is surround yourself with the kind of people you yourself would like to become.  Similarly the physical environment influence us: noise, light, speed, distance, energy make it easy or more difficult to be ourselves an can create or resolve tensions so pay attention to how your environnement, habits, and people around you make you feel whole or fragmented and change your environment as you become aware of what make you feel more alive.	inspired by @sotmani								
+Changing yourself doesn't work, no matter how hard you try. You might make plans and force yourself, but this kind of change will not last.		Human are sensitive being and emotional sponges. We respond to the environment around us, whether physical or psychological.  Research has shown we tend to become like people who surround us, so one of the easiest way to change is surround yourself with the kind of people you yourself would like to become.  Similarly the physical environment influence us: noise, light, speed, distance, energy make it easy or more difficult to be ourselves an can create or resolve tensions so pay attention to how your environnement, habits, and people around you make you feel whole or fragmented and change your environment as you become aware of what make you feel more alive.	
+			
 #Eat your own dog food				
 
 When you build a service or a product, can you use this service or product yourself.				
