@@ -4,6 +4,15 @@
 Au cours de son histoire l'humanité a inventé plusieurs façon de raconter des histoires. Ces différentes formes ne sont pas anodines et ont des propriétés différentes. Dans tous les cas on retrouve des points communs: des choses ou des forces intangibles/invisibles sont personnifiées (/réifiées) pour les rendre visibles et manipulables.
 
 
+## Powerful story
+**Tell a powerful story**
+
+D
+
+In the field of co-intelligence, stories are more than dramas people tell or read. Story, as a pattern, is a powerful way of organizing and sharing individual experience and exploring and co-creating shared realites. It forms one of the underlying structures of reality, comprehensible and responsive to those who possess what we call narrative intelligence. Our psyches and cultures are filled with narrative fields of influence, or story fields, which shape the awareness and behavior of the individuals and collectives associated with them.	Tom Atlee		http://www.co-intelligence.org/I-powerofstory.html			
+
+Similar: Group Works STORY
+
 
 Ce texte est en grande partie inspiré par le livre de Bruno Bettelheim "psychanalyse des contes de fées" (p18, p44);
 
@@ -90,11 +99,4 @@ Les contes de fées induisent un processus génératif de transformation psychol
 si le conte de fée sert le developpement psychologique et la maturité de l'individu, a quoi sert le pattern MYTHE ? serait il une carte des forces du monde ?
 
 
-## Powerful story
-**Tell a powerful story**
 
-D
-
-In the field of co-intelligence, stories are more than dramas people tell or read. Story, as a pattern, is a powerful way of organizing and sharing individual experience and exploring and co-creating shared realites. It forms one of the underlying structures of reality, comprehensible and responsive to those who possess what we call narrative intelligence. Our psyches and cultures are filled with narrative fields of influence, or story fields, which shape the awareness and behavior of the individuals and collectives associated with them.	Tom Atlee		http://www.co-intelligence.org/I-powerofstory.html			
-
-Similar: Group Works STORY
