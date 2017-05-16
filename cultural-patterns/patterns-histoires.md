@@ -35,11 +35,15 @@ Le principal reproche que l'on peut faire à ces livres, c'est qu'ils trompent l
 
 Pour qu'un histoire accroche vraiment l'attention de l'enfant, il faut qu'elle le divertisse et qu'elle eveille sa curiosité. Mais, pour enrichir sa vie, il faut qu'elle l'aide à developper son intelligence et à voir clair dans ses émotions; qu'elle soit accordée à ses angoisses et à ses aspirations, qu'elle lui fasse prendre conscience de ses difficultés, tout en lui suggérant des solutions aux problèmes  qui le troublent. Bref, elle doit, en un seul et même temps, se mettre en accord avec tous les aspects de sa personnlité sans amoindrir, au contraire, en la reconnaissant pleinement, la gravité de la situation de l'enfant, et en lui donnant par la même occasion, confiance en lui en son avenir.  
 
+L'enfant, parce que la vie lui semble souvent déroutante, a le plus grand besoin qu'on lui donne une chance de se comprendre mieux au sein du monde complexe qu'il doit affronter. Il faut donc l'aider à mettre un peu de cohérence dans le tumulte de ses sentiments . Il a besoin d'idée qui l'aident a mettre un peu d'ordre dans sa maison intérieure, et sur cette base, dans sa vie également. Il a besoin d'une éducation qui, subtilement, uniquement par sous-entendus, lui fasse voir les avantages d'un comportement conforme à la morale, non par l'intermédiaire de preceptes éthiques abstraits, mais par le spectacle des aspects tangibles du bien et du mal qui prennent alors pour lui toute leur signification.
+
 Par conséquent, 
 
 Privilégiez la LECTURE DE CONTE DE FEE.
 
-Si on se contente d'aborder superficiellement les contes de fées, ils ont peu de choses à nous apprendre sur les conditions de vie propres à la société de masse dans laquelle nous vivons aujourd'hui; ces contes ont été crés bien avant son avenement. Mais ils ont infinimen plus de choses à nous dire sur les problèmes intérieurs de l'être humain et et sur leurs solutions que n'importe quelle his
+A force d'avoir été répétés pendant des siècles (voire des millénaires) les contes de fées se sont de plus en plus affinés et se sont chargés de signification aussi bien apparentes que cachées; ils sont arrivés à s'adresser simultanément à tous les niveaux de la personnalité humaine, en transmettant leurs message d'une façon qui touche aussi bien l'esprit inculte de l'enfant que celui perfectionné de l'adulte. En utilisant sans le savoir le modèle psychanalytique de la personnalité humaine, ils adressent des messages importants à l'esprit conscient, pré-conscient et inconscient, quelque soit le niveau atteint par chacun d'eux. Ces histoires qui abordent des problèmes humains universels et en particulier ceux des enfants s'adressent à leur *moi* en herbe et favorise son devellopement, tout en soulageant les pressions pré-conscientes et inconscientes. Tandis que l'intrigue du conte évolue, les pressions du *ça* se précisent et et prennent corps, et l'enfant voir comment il peut les soulager tout en se conformant aux exigences du *moi* et du *surmoi* (p18).
+
+Si on se contente d'aborder superficiellement les contes de fées, ils ont peu de choses à nous apprendre sur les conditions de vie propres à la société de masse dans laquelle nous vivons aujourd'hui; ces contes ont été crés bien avant son avenement. Mais ils ont infinimen plus de choses à nous dire sur les problèmes intérieurs de l'être humain et et sur leurs solutions que n'importe quelle hisoire à la portée de l'entendement de l'enfant. 
 
 Nom peu appropriés car il possède rarement des fées.
 
@@ -64,7 +68,7 @@ La conclusion est heureuse.
 
 ### Le contes de fées dérivent d'un processus génératif
 
-A force d'avoir été répétés pendant des siècles (voire des millénaires) les contes de fées se sont de plus en plus affinés et se sont chargés de signification aussi bien apparentes que cachées; ils sont arrivés à s'adresser simultanément à tous les niveaux de la personnalité humaine, en transmettant leurs message d'une façon qui touche aussi bien l'esprit inculte de l'enfant que celui perfectionné de l'adulte. En utilisant sans le savoir le modèle psychanalytique de la personnalité humaine, ils adressent des messages importants à l'esprit conscient, pré-conscient et inconscient, quelque soit le niveau atteint par chacun d'eux. Ces histoires qui abordent des problèmes humains universels et en particulier ceux des enfants s'adressent à leur moi en herbe et favorise son devellopement, tout en soulageant les pressions pré-conscientes et inconscientes. (p18).
+A force d'avoir été répétés pendant des siècles (voire des millénaires) les contes de fées se sont de plus en plus affinés et se sont chargés de signification aussi bien apparentes que cachées; ils sont arrivés à s'adresser simultanément à tous les niveaux de la personnalité humaine, en transmettant leurs message d'une façon qui touche aussi bien l'esprit inculte de l'enfant que celui perfectionné de l'adulte. 
 
 ### Les contes de fées induisent un processus génératif
 
