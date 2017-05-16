@@ -1,11 +1,17 @@
 
 # HISTOIRE
 
-
-
 Dans le champs de l'intelligence collective, les histoire sont plus que des scènes que les gens disent ou lisent. Les histoires, en tant que pattern, sont une manière puissante d'organiser et de partager des expériences individuelles, et d'explorer et de co-créer des réalités partagées. elle forme une structure sous-jacente de notre réalité, comprehensible et qui répond à ceux qui possèdent une intelligence narrative. Nos psychés et nos cultures sont remplis de champs narratifs d'influence ou champs d'histoires, qui façonnent la conscience et le comportement des individus et collectifs qui leur sont associés. (Tom Atlee, le pouvoir des histoires http://www.co-intelligence.org/I-powerofstory.html)
 
 Au cours de son histoire l'humanité a inventé plusieurs façon de raconter des histoires. Ces différentes formes ne sont pas anodines et ont des propriétés différentes. Dans tous les cas on retrouve des points communs: des choses ou des forces intangibles/invisibles sont personnifiées (/réifiées) pour les rendre visibles et manipulables.
+
+Structures d'histoires
+
+## STRUCTURE D'HISTOIRE SITUATION, COMPLICATION, RESOLUTION
+
+Une des raisons pour laquelle les présentation sont si ennuyeuses est qu'il n'y pas de pattern d'histoire identifiable. Que ce soit pour écrire un film ou une présentation professionnelle, la façon la plus simple de décrire la structure d'une histoire est ituation, complication et résolution. Des aventures mythiques aux 
+
+One of the reasons presentations are dull is because there are no identifiable story patterns.		Whether for writing a movie or a business presentation, the most simplistic way to describe the structure of a story is situation, complication, and resolution. From mythic adventures to recollections shared around the dinner table, all stories follow this pattern. (RELATABLE AND LIKABLE HERO, ENCOUNTERS ROADBLOCKS, EMERGES TRANSFORMED)  Great stories introduce you to a hero to whom you can relate. The hero is usually a likeable sort who has an acute desire or goal that is threatened in some way. As the story unfolds and trials are met with triumph, you cheer for the hero until the story is resolved and the hero is transformed. As author Robert McKee explains, ‚ÄúSomething must be at stake that convinces the audience that a great deal will be lost if the hero doesn't obtain his goal.‚Äù If nothing is at risk, then it's not interesting.
 		
 
 Similar: Group Works STORY
