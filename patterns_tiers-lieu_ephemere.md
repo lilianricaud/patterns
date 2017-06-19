@@ -75,9 +75,34 @@ Pole thématiques
 
 Biens communs
 
+Coin détente, convivial, café
+
+GIVE BOX
+HACKERSPACE
+MEDIALAB
+RECYCLERIE
+
+## RÔLES
+
+     Taulier : celui ou celle qui accueille le Tiers Lieu éphémère et/ou qui est l'organisateur de l'événement
+    Concierge : celui ou celle qui organise l'accueil et qui porte une attention particulière aux interactions entre les organisateurs, les contributeurs, les participants, les partenaires et le territoire
+    Veilleuse : celui ou celle qui va à la rencontre des participants et qui récupère des informations entendues ou numériques nécessaires à la mission des concierges
+    Greffier : celui ou celle qui transforme les informations des veilleuses en données numériques brutes sur des supports numériques donnés
+    Jardinier : celui ou celle qui organise et améliore les données numériques des veilleuses et des greffiers dans un système d'information numérique donné
+    Journaliste : celui ou celle transforme les données brutes en informations qualifiées avec tous types de médias et de supports numériques
+    Facteur : celui ou celle qui rend l'information compréhensible et accessible auprès des différents profils de contributeurs et participants
+
 ## ESPACE MATERIALISÉ
 
 Comme le lieu est temporairement modifié, il est plus simple d'évoquer le sgrandes fonctions du lieu en matérilisant l'espace (au sol, par l'affichage, dessin, couleurs, éclairage...), ceci peut se faire sous forme de cercle, ...
+
+
+
+## PLAN
+
+Les plans permettent aux participants de rapidement visualiser et distinguer ces explications dès l'entrée.
+
+## AFFICHAGE
 
 
 ## Sources
