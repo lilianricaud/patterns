@@ -27,7 +27,9 @@ L’expérience dure ainsi rarement plus de 3 jours.
 
 Cette approche séduit également les décideurs locaux car elle valorise leur territoire.
 
+## Approche ‘opensource’
 
+Cette approche reprend les principes du logiciel libre (ne pas refaire ce qui existe déjà, améliorer l’existant, mettre à disposition de tous...) Dans le cas des tiers-lieux éphémères, on documente ce qu’on observe (en positif comme en négatif) pour que tous puissent bénéficier de l’expérience. Les informations sur les expériences récentes seront bientôt disponibles en ligne sur le site d’Openscop. 
 
 ## Zones / Activités
 
