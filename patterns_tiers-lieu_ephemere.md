@@ -1,25 +1,31 @@
 # Patterns Tiers lieux éphémère
 
-Contenus en cours de "patternisation".
+*Contenus en cours de "patternisation", c'est à dire qu'à partir de contenu existant serait extrait l'essence de la bonne pratique dans les format et l'esprit des langage de pattern de Christopher Alexander. Ceci se fait par des série de modifications successives sur chacunes des sections.*
 
 ## Tiers-Lieu éphémère
+
+Un "Tiers Lieux éphémère" est un Tiers Lieu à part entière que nous allons co-construire à l'occasion d'une journée ou d'un événement spécifique. Il s'agit la plus part du temps d'un lieu physique et/ou numérique que vous allez habiter un temps donné en lui donnant une âme et une dynamique d'ouverture par un processus d'animation appelé la conciergerie.
+
+Ce lieu peut être physique et/ou virtuel, grand ou petit, en intérieur et/ou en extérieur, privé et/ou public.
+
+Au-delà d'être un outil transversal pour des événements de toutes natures, il permet de faire découvrir et s'approprier le concept des Tiers Lieux en le pratiquant au lieu de l'instituer ou le décréter. 
 
 Cet evenement permet de faire comprendre et s’approprier le concept de tiers-lieu, notamment de sa composante coworking, le temps d’un événement.
 
 Ce type de dispositif permet de tester en amont l’appétence locale pour ce type de lieu, d’impliquer les citoyens et d’assurer une mobilisation locale pour un éventuel tiers-lieu permanent, voire de créer des vocations de porteurs de projet. 
 
 
-## Rattachement à un évènement local
+## RATTACHEMENT À UN ÉVÈNEMENT LOCAL
 
 Toujours se rattacher à un événement local pour bien répondre à une demande et s’assurer d’une bonne participation.
 
-Pour que le tiers lieu éphémère vive, il est plus facile de se greffer sur un évenement existant où il y a déja des personnes susceptible d'être interessée. La participation à un événement existant permet aussi de bénéficier de ses canaux de communication.
+Pour que le tiers lieu éphémère vive, il est plus facile de se greffer sur un évenement existant où il y a déja des personnes susceptibles d'être interessées. La participation à un événement existant permet aussi de bénéficier de ses canaux de communication.
 
-## Durée limitée
+## DURÉE LIMITÉE
 
 L’expérience dure ainsi rarement plus de 3 jours.
 
-## Appuie sur des structures existantes
+## APPUIE SUR DES STRUCTURES EXISTANTES
 
  Dans la mesure du possible, Openscop s’appuie sur les associations locales pour la création du tiers-lieu. Par exemple, lors des rencontres de Brest il a été fait appel à la Ressourcerie locale pour meubler le lieu éphémère. Ceci a plusieurs avantages :
 
@@ -49,7 +55,7 @@ Outre l’importance d’avoir identifié un réseau local fort, la capacité à
 
 Réponses aux besoins, possibilité d'aménagement des espace, logistique pure : remise des clés, dossiers, inscriptions, réservations, charte d'usage du lieu, signalétique, propositions d'animation, troc des connaissances, mémoire des activités du tiers-lieu, stock de papeterie et petits matériels. 
 
-## Zones / Activités
+## ZONES / ACTIVITÉS
 
 Médialab
 - Video 
@@ -69,3 +75,4 @@ Biens communs
 ## Sources
 
 - https://www.coop-connect.com/pr%C3%A9-%C3%A9tude-tiers-lieux-ruraux/analyse-de-tiers-lieux-existants/tiers-lieux-%C3%A9ph%C3%A9m%C3%A8res-1/
+- http://movilab.org/index.php?title=Tiers_Lieux_éphémère
