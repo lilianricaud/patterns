@@ -75,6 +75,10 @@ Pole thématiques
 
 Biens communs
 
+## ESPACE MATERIALISÉ
+
+Comme le lieu est temporairement modifié, il est plus simple d'évoquer le sgrandes fonctions du lieu en matérilisant l'espace (au sol, par l'affichage, dessin, couleurs, éclairage...), ceci peut se faire sous forme de cercle, ...
+
 
 ## Sources
 
