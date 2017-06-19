@@ -67,7 +67,11 @@ Conciergerie
 - lien entre ateliers/participants
 
 Faire ensemble
-- Atelier bricolage
+- Atelier bricolage / repair café
+
+Télétravail
+
+Pole thématiques
 
 Biens communs
 
