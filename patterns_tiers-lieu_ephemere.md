@@ -27,10 +27,10 @@ L’expérience dure ainsi rarement plus de 3 jours.
 
 ## APPUIE SUR DES STRUCTURES EXISTANTES
 
- Dans la mesure du possible, Openscop s’appuie sur les associations locales pour la création du tiers-lieu. Par exemple, lors des rencontres de Brest il a été fait appel à la Ressourcerie locale pour meubler le lieu éphémère. Ceci a plusieurs avantages :
+ Dans la mesure du possible, il est important de s’appuyer sur les associations locales pour la création du tiers-lieu. Ceci a plusieurs avantages :
 
-    évite de mobiliser des ressources pour déménager le mobilier,
-    coût moindre,
+- évite de mobiliser des ressources pour déménager le mobilier,
+coût moindre,
     et permet aux associations locales de se faire connaître, de toucher de nouvelles populations.
 
 Cette approche séduit également les décideurs locaux car elle valorise leur territoire.
