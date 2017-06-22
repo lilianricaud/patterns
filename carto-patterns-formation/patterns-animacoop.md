@@ -215,9 +215,19 @@ mais semblant être présent
 
 des formateurs, des organisateurs, des stagiaires, ...
 
-## Suivi stagiaire
+## MESSAGE TYPES
+
+modèle de message à envoyer aux stagiaires
+
+## SUIVI STAGIAIRES
 
 a l'heure actuelle pad anonymisé / stagiaire et accessible juste au stagiaire
+
+TRAME ENTRETIENS? GRILLE DE SUIVI
+
+## GRILLE DE SUIVI
+
+google calc
 
 ## RETROSPECTIVES
 
