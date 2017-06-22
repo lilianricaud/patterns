@@ -72,7 +72,7 @@ Pour etre formateur animacoop il faut:
 
 
 ## PETITES FORMATIONS COMPLÉMENTAIRES PRÉALABLES
-deux fois une journée (sensibilisation) pour tester, se connaitre, s'aligner entre futurs formateurs, faire ressortir les complémentarités (aider à clarifier RÔLES).
+deux fois une journée (sensibilisation) pour tester, se connaitre, s'aligner entre futurs formateurs, faire ressortir les complémentarités (aider à clarifier EQUIPE COMPLEMENTAIRE).
 
 
 
