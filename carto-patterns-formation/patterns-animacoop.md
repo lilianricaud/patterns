@@ -206,10 +206,7 @@ Les communautés amies: YesWiki, MultiBao, Moustic, Forum des Usages Coopératif
 
 L'humour, sans être obligatoire est néanmoins un prérequis qu'il serait dommageable de rejeter ex nihilo. De facto, un membre de cette communauté qui n'en saisirait pas l'impérieuse nécessité se verrait invité à se questionner quant à la pertinence de continuer à lire cette charte, voir même son implication dans le projet animacoop.
 
-# Patterns non explicités,
-mais semblant être présent
 
-## JOIE / PLAISIR MOTEUR
 
 ## EVALUTION
 
@@ -234,6 +231,11 @@ google calc
 google calc
 utilisé pour REGROUPEMENT3
 
+# Patterns non explicités,
+mais semblant être présent
+
+## JOIE / PLAISIR MOTEUR
+
 ## RETROSPECTIVES
 
 existantes ?
@@ -241,4 +243,6 @@ existantes ?
 # Patterns à ajouter
 dla37
 intra structure ? casser silos ?
+
+
 
