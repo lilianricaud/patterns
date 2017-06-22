@@ -64,6 +64,11 @@ Voici les différents rôles et taches
 
 Formateur qui a déjà assuré la responsabilité pédagogique avec brio.
 
+## FORMATEUR ANIMACOOP
+Pour etre formateur animacoop il faut:
+- avoir partagé des contenus en biens commun au préalable (PARTAGE SINCÈRE, BIENS COMMUNS)
+
+
 ## COMPLEMENTARITE TERRITORIALE 
 
 Il convient de travailler la complémentarité sur un même territoire entre formateurs Animacoop (et/ou de leur structures employeuses), un projet de formation doit échanger avec les formations les plus proches afin d’en évaluer la pertinence.
@@ -173,6 +178,14 @@ Les formateurs améliorent de façon continue les contenus et supports de format
 ## ARCHIPELISATION
 
 Non concurrence entre les difféents territoires, se renvoyer les stagiaires, ESSAIMAGE.
+
+## ESSAIMAGE / NOUVELLES FORMATIONS
+
+Doivent participer aux rencontres formateurs.
+aspect territorial
+validation du collectif avant d'autoriser nouvelles formation 
+décision interne par CONSENTEMENT, et motivée auprès des candidats.
+
 
 ## ECOSYSTÈME
 
