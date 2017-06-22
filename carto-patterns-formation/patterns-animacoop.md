@@ -222,6 +222,7 @@ modèle de message à envoyer aux stagiaires
 ## SUIVI STAGIAIRES
 
 a l'heure actuelle pad anonymisé / stagiaire et accessible juste au stagiaire
+POSTURE DE QUESTIONNEMENT plutot que d'apport de réponses.
 
 TRAME ENTRETIENS? GRILLE DE SUIVI
 
