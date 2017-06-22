@@ -71,8 +71,10 @@ Pour etre formateur animacoop il faut:
 - avoir partagé des contenus en biens commun au préalable (PARTAGE SINCÈRE, BIENS COMMUNS)
 
 
-## PETITES FORMATIONS COMPLÉMENTAIRES
-deux fois une journée (sensibilisation) pour tester, se connaitre, s'aligner, faire ressortir les complémentarités
+## PETITES FORMATIONS COMPLÉMENTAIRES PRÉALABLES
+deux fois une journée (sensibilisation) pour tester, se connaitre, s'aligner entre futurs formateurs, faire ressortir les complémentarités (aider à clarifier RÔLES).
+
+
 
 ## COMPLEMENTARITE TERRITORIALE 
 
@@ -182,12 +184,14 @@ Les formateurs améliorent de façon continue les contenus et supports de format
 
 ## ARCHIPELISATION
 
-Non concurrence entre les difféents territoires, se renvoyer les stagiaires, ESSAIMAGE.
+Non concurrence entre les différents territoires, se renvoyer les stagiaires, ESSAIMAGE.
 
 ## ESSAIMAGE / NOUVELLES FORMATIONS
 
+
+
 Doivent participer aux rencontres formateurs.
-aspect territorial
+aspect territorial: questionner le besoin et la pertinence de créer une formation proche d'une formation existante
 validation du collectif avant d'autoriser nouvelles formation 
 décision interne par CONSENTEMENT, et motivée auprès des candidats.
 - respecter esprit et loi d'animacoop
