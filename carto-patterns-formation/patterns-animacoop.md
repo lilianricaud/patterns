@@ -159,6 +159,10 @@ pour etre formateur animacoop il faut être producteur de contenus
 
 Ne pas juste avoir des contenus, mais les rendre dispos par la licence et fichier source disponibles en ligne pour faciliter la réutilisation.
 
+## PROCESSUS
+
+mettre en place une formation animacoop est un processus.
+
 
 ## AMELIORATION CONTINUE
 
