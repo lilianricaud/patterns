@@ -69,6 +69,8 @@ Pour etre formateur animacoop il faut:
 - avoir partagé des contenus en biens commun au préalable (PARTAGE SINCÈRE, BIENS COMMUNS)
 - faire une LETTRE D'INTENTION
 
+## PETITES FORMATIONS COMPLÉMENTAIRES
+deux fois une journée (sensibilisation) pour tester, se connaitre, s'aligner, faire ressortir les complémentarités
 
 ## COMPLEMENTARITE TERRITORIALE 
 
