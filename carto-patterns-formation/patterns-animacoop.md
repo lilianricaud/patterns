@@ -123,7 +123,9 @@ Des ateliers techniques en présence et à distance sont dédiés à l'appropria
 
 ## DEMARCHE PARTICIPATIVE ET DEMOCRATIQUE
 
+## DIVERSITÉ DES PARTICIPANTS
 
+pas juste un groupe issus de la même structure, mais public varié pour bénéficier de la diversité interactive et de l'intelligence collective du groupe.
 
 ## PROJET STAGIAIRE CONCRET
 
@@ -169,6 +171,10 @@ mettre en place une formation animacoop est un processus.
 Les formateurs améliorent de façon continue les contenus et supports de formation ANIMACOOP en présence et à distance.
 
 ## ARCHIPELISATION
+
+Non concurrence entre les difféents territoires, se renvoyer les stagiaires, ESSAIMAGE.
+
+## ECOSYSTÈME
 
 Les communautés amies: YesWiki, MultiBao, Moustic, Forum des Usages Coopératifs, Colibris, UDN
 
