@@ -67,6 +67,7 @@ Formateur qui a déjà assuré la responsabilité pédagogique avec brio.
 ## FORMATEUR ANIMACOOP
 Pour etre formateur animacoop il faut:
 - avoir partagé des contenus en biens commun au préalable (PARTAGE SINCÈRE, BIENS COMMUNS)
+- faire une LETTRE D'INTENTION
 
 
 ## COMPLEMENTARITE TERRITORIALE 
@@ -185,6 +186,8 @@ Doivent participer aux rencontres formateurs.
 aspect territorial
 validation du collectif avant d'autoriser nouvelles formation 
 décision interne par CONSENTEMENT, et motivée auprès des candidats.
+- respecter esprit et loi d'animacoop
+- faire une LETTRE D'INTENTION pour expliciter motivations.
 
 
 ## ECOSYSTÈME
