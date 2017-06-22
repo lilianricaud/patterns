@@ -151,8 +151,14 @@ Les contenus Animacoop sont des contenus sincèrement partagés et ont vocation 
  
 L’intégralité des contenus produits au sein du projet Animacoop ou insérés dans Animacoop sont sous licence Creative Commons By-Sa. (sauf exception et mention contraire concernant des contenus non produits par le collectif ANIMACOOP).
 
-## PRODUCTION DE CONTENUS
+## PRODUCTEUR DE CONTENUS
+
 pour etre formateur animacoop il faut être producteur de contenus
+
+## PARTAGE SINCÈRE
+
+Ne pas juste avoir des contenus, mais les rendre dispos par la licence et fichier source disponibles en ligne pour faciliter la réutilisation.
+
 
 ## AMELIORATION CONTINUE
 
