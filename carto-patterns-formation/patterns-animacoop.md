@@ -215,6 +215,10 @@ mais semblant être présent
 
 des formateurs, des organisateurs, des stagiaires, ...
 
+## Suivi stagiaire
+
+a l'heure actuelle pad anonymisé / stagiaire et accessible juste au stagiaire
+
 ## RETROSPECTIVES
 
 existantes ?
