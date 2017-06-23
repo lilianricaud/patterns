@@ -40,7 +40,7 @@ Chaque année, le collectif Animacoop se réunit pour décider de l’évolution
 intègre système de ré-ÉVALUATION, tous les 6 mois ou tous les ans.
 
 
-## COLLECTIF DE FORMATEURS
+## COLLECTIF DE FORMATEURS / COLLECTIF ANIMACOOP
 
 Conçue et animée par l’association Outils Réseaux en …. elle est depuis 2016 animée par un collectif de formateurs.
 
@@ -49,6 +49,26 @@ Pour organiser la formation Animacoop, il faut remplir les conditions suivantes 
 - avoir suivi la formation Animacoop
 - avoir intégré le collectif de formateur Animacoop et participé à ses travaux
 - avoir contribué aux contenus en biens communs de la formation Animacoop
+
+## ESSAIMAGE / NOUVELLES FORMATIONS / NOUVEAUX COLLECTIF
+
+Doivent participer aux rencontres formateurs.
+aspect territorial: questionner le besoin et la pertinence de créer une formation proche d'une formation existante
+validation du collectif avant d'autoriser nouvelles formation 
+décision interne par CONSENTEMENT, et motivée auprès des candidats.
+- respecter esprit et loi d'animacoop
+- le collectif de formateurs doit faire une LETTRE D'INTENTION pour expliciter motivations.
+
+## LETTRE D'INTENTION
+- collectif local la redige
+- expliciter la pertinence de la demande (COMPLEMENTARITÉ TERRITORIALE)
+- envoyer au COLLECTIF ANIMACOOP pour validation 
+- lien vers biens communs
+
+## COMPLEMENTARITE TERRITORIALE 
+
+Il convient de travailler la complémentarité sur un même territoire entre formateurs Animacoop (et/ou de leur structures employeuses), un projet de formation doit échanger avec les formations les plus proches afin d’en évaluer la pertinence.
+
 
 ## EQUIPE COMPLEMENTAIRE
 
@@ -69,16 +89,12 @@ Formateur qui a déjà assuré la responsabilité pédagogique avec brio.
 ## FORMATEUR ANIMACOOP
 Pour etre formateur animacoop il faut:
 - avoir partagé des contenus en biens commun au préalable (PARTAGE SINCÈRE, BIENS COMMUNS)
+- accepté la CHARTE ANIMACOOP
 
 
 ## PETITES FORMATIONS COMPLÉMENTAIRES PRÉALABLES
 deux fois une journée (sensibilisation) pour tester, se connaitre, s'aligner entre futurs formateurs, faire ressortir les complémentarités (aider à clarifier EQUIPE COMPLEMENTAIRE).
 
-
-
-## COMPLEMENTARITE TERRITORIALE 
-
-Il convient de travailler la complémentarité sur un même territoire entre formateurs Animacoop (et/ou de leur structures employeuses), un projet de formation doit échanger avec les formations les plus proches afin d’en évaluer la pertinence.
 
 ## MUTUALISATION FINANCIERES 
 
@@ -186,16 +202,6 @@ Les formateurs améliorent de façon continue les contenus et supports de format
 
 Non concurrence entre les différents territoires, se renvoyer les stagiaires, ESSAIMAGE.
 
-## ESSAIMAGE / NOUVELLES FORMATIONS
-
-
-
-Doivent participer aux rencontres formateurs.
-aspect territorial: questionner le besoin et la pertinence de créer une formation proche d'une formation existante
-validation du collectif avant d'autoriser nouvelles formation 
-décision interne par CONSENTEMENT, et motivée auprès des candidats.
-- respecter esprit et loi d'animacoop
-- faire une LETTRE D'INTENTION pour expliciter motivations.
 
 
 ## ECOSYSTÈME
