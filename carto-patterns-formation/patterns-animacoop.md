@@ -65,6 +65,9 @@ décision interne par CONSENTEMENT, et motivée auprès des candidats.
 - envoyer au COLLECTIF ANIMACOOP pour validation 
 - lien vers biens communs
 
+## COMMUN INDIVIDUELS
+Chaque formateur doit partager des contenus de formation, animation
+
 ## COMPLEMENTARITE TERRITORIALE 
 
 Il convient de travailler la complémentarité sur un même territoire entre formateurs Animacoop (et/ou de leur structures employeuses), un projet de formation doit échanger avec les formations les plus proches afin d’en évaluer la pertinence.
