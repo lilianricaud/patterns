@@ -243,13 +243,7 @@ utilisé pour REGROUPEMENT3
 ### POP
 production ouverte partagée produite en groupe de 6-7 personnes sur sujet commun entre 2eme et 3eme regroupement. critère CC-BY-SA, si possible expérimentation méthode agile. amélioration continue sur le processus. expérience de travail à distance.
 
-Sujet des pop : ne correspond pas toujours aux attentes des participants - mieux travailler les sujets en fonction des profils
-tension entre accord sur le sujet et résultat de l'expérience oopérative.
-Mais quand même mieux fonctionné que les sessions précédentes : mieux accompagnés dans la présentation des objectifs de découverte méthode agile
-tension entre accomapgnement bien cadré et liberté où ils peuvent se casser la gueule pour mieux apprendre. trouver le bon équilibre.
-Plus simple de proposer 2 sujets, laisse du temps pour bosser méthodes agiles.
-Commencer à travailler du contenu de pop dès le début. 
-Inviter groupe à réfléchir à son animation, choisir des animateurs-trices dès R2
+Sujet des pop : solliciter communautés cousines pour trouver contenus à améliorer (ex framasoft), leur specifier les conditions (temps, contexte, licence) et obtenir sujets. faire premier tri et soumettre aux stagiaires.
 
 ### ENTRETIEN COLLECTIF
 Premier atelier de temps collectif
