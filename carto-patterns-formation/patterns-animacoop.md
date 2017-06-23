@@ -231,6 +231,110 @@ google calc
 google calc
 utilisé pour REGROUPEMENT3
 
+### POP
+production ouverte partagée produite en groupe de 6-7 personnes sur sujet commun entre 2eme et 3eme regroupement. critère CC-BY-SA, si possible expérimentation méthode agile. amélioration continue sur le processus. expérience de travail à distance.
+
+Sujet des pop : ne correspond pas toujours aux attentes des participants - mieux travailler les sujets en fonction des profils
+tension entre accord sur le sujet et résultat de l'expérience oopérative.
+Mais quand même mieux fonctionné que les sessions précédentes : mieux accompagnés dans la présentation des objectifs de découverte méthode agile
+tension entre accomapgnement bien cadré et liberté où ils peuvent se casser la gueule pour mieux apprendre. trouver le bon équilibre.
+Plus simple de proposer 2 sujets, laisse du temps pour bosser méthodes agiles.
+Commencer à travailler du contenu de pop dès le début. 
+Inviter groupe à réfléchir à son animation, choisir des animateurs-trices dès R2
+
+### ENTRETIEN COLLECTIF
+Premier atelier de temps collectif
+tout le monde parle en meme temps mais tout le monde s'écoute : 
+    Début : "pour moi en tant qu'animateur ma crainte c'est .... 
+chacun reponds 3 fois à la meme questions
+3-4 questions
+divise groupe en autant de groupe de questions
+Mise en paquet - répond collectivement
+nuage de representations du groupe permet de s'appuyer sur les represenation initiales pour le reste de la formation.
+https://bimestriel.framapad.org/p/methodo-entretien-collectif
+
+### TROC
+
+### ATELIER TECHNIQUE
+Temps de 1-2h dans les regroupepement (initiations 20 min) etjournéee dédiée sur la pratique d'outils numériques pour aller plus loin (frama... carte mentales, wiki, ) méthodo décroché des ateliers technique (animation de réunion en ligne ...)
+Important de les conserver : entre 3 et 5 ateliers proposés aux participants
+Les acoller aux temps de regroupement pour permettre à ce qui viennent de loin
+Brest : ateliers techniques mis en place par la mairie, sont ouverts aux animacoopiens pas animé par les formateurs animacoop
+Paris : pas vraiment mis en place
+Gap : sont proposés - gratuits pour les animacoopiens payant pour les autres
+
+## EVALUATIONS
+
+sensible: fabriquer une oeuvre ensemble
+
+### NOMBRE DE FORMATEURS
+
+Binome + observateur qui se forme pour faire rotation
+4 personnes utile sur atelier technique
+
+### POSTURE D'ANIMATION
+1 personne sur le contenu
+1 sur température temporalité
+
+
+### AFFICHAGE
+Processus pédagogique affiché
+Programme affiché
+Cadre
+Déroulé journée avec les horaires pour informer/responsabiliser
+Attention  : garder une flexibilité dans le programme : risque de la perdre si  affiche de le programme. Noter peut etre clairement dessus " non  contractuel"
+
+### RENDEZ-VOUS INDIVIDUELS
+
+4 rdv, un avant, puis entre chaque rgroupement gros apport
+
+### REGROUPEMENTS
+
+3 regroupements de 2 jours.
+
+### MODÈLE ÉCONOMIQUE
+
+### MODULES
+
+informer sur les modules à venir, donner le programme.
+
+activation progressive et/ou tout rendre visible disponible
+
+### ACTIVATION PRGRESSIVE
+des modules, des outils des fonctions
+
+### LIEUX
+
+montée en gamme: salle classique ->, café associatif -> gite perdu dans la campagne -> bonne progressivité
+
+### REPAS COLLECTIF
+
+### PROGRAMME EVOLUTIF
+
+partie écrite mais expliciter qu'il y a despartie non contractuelle, rester en attention, expliquer pourquoi on le fait.
+
+### RESPONSABLE PÉDAGOGIQUE
+Fais partie des RÔLES
+echanger avec toustes pour que le système reste vivant
+
+### EXPÉRIMENTATION
+
+Fais partie des VALEURS
+
+### SUIVI STAGIAIRES
+
+### DISPONIBILITÉ
+
+expliciter sa disponibilité pour éviter tension liées au manque de disponibilité
+
+### PFH
+precieux facteur humain / putain de facteur humain
+
+### ECOSYSTÈME
+autres contenus, formation complémentaires.
+
+
+
 # Patterns non explicités,
 mais semblant être présent
 
@@ -239,6 +343,8 @@ mais semblant être présent
 ## RETROSPECTIVES
 
 existantes ?
+
+
 
 # Patterns à ajouter
 dla37
