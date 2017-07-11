@@ -2,33 +2,6 @@ In this document, we try to examine and rewritte permaculture principles as patt
 
  Work in progress.
 
-### NATURAL AND LANDUSE CATCHMENT 
-
-(map structure / location )
-Biome, climate, geology & landform, ecosystems, biodiversity, watersheds, landuse patterns, forestry, fisheries, agriculture, extractive resources, national parkes & nature reserves, natural hazards (fire, flood, cyclone etc) Identify information resources, authorities, professional & community groups relating to the above. Establish advantages, constraints, challenges and opportunities.
-
-### SOCIAL CATCHMENT 
-
-Identify areas & nodes based on social patterns, where & how people meet their needs- material, social cultural & economic, and settlement patterns including shopping, industry, education, recreation, entertainment, community organizations and networks, communications, demographics, history, community values, potential, challenges, conflict, opportunities. Explore interplay between social & services catchment overlays for strategic planning & community developmt.
-
-### SERVICES CATCHMENT 
-
-Identify networks, hierarchy & thresholds of utility & administrative services. Infrastructure & transport including all govt levels, industry & community-based organizations. Elements include: roads & transport networks, electricity grid, renewable energy sources, waste & recycling, communications, local government boundaries, State & fed electorates, regional governmt offices, agencies & services. Identify constraints and opportunities.
-
-### BIOREGIONAL RESOURCE AUDIT
-
-- what comes into/ is imported into area? 
-- what leaves/ is exported from area? 
-- what is the local impact resulting from the above? 
-• identify 'leaks' and priorities for action/ consolidation 
-- which imports can be locally produced? 
-- which 'leaks'/ exports can be recycled within the area?
-- which wastes accumulates (unsused resources) where could they be used ?
-
-Build on what exists – don’t duplicate or re-invent the wheel.
-Check out what other groups are doing in the same area/field for ideas & inspiration (benchmarking)
-
-DESIGN FRAMEWORK / Design principles
 
 ## MOLLISON PRINCIPLES
 
@@ -168,6 +141,35 @@ The yield of a system is theoretically unlimited The only limit on the number of
 Dispersal of Yield Over Time Principal of seven generations. We can use energy to construct these systems, providing that in their lifetime, they store or conserve more energy that we use to construct them or to maintain them.
 
 A Policy of Responsibility (to relinquish power) The role of successful design is to create a self-managed system.
+
+
+### NATURAL AND LANDUSE CATCHMENT 
+
+(map structure / location )
+Biome, climate, geology & landform, ecosystems, biodiversity, watersheds, landuse patterns, forestry, fisheries, agriculture, extractive resources, national parkes & nature reserves, natural hazards (fire, flood, cyclone etc) Identify information resources, authorities, professional & community groups relating to the above. Establish advantages, constraints, challenges and opportunities.
+
+### SOCIAL CATCHMENT 
+
+Identify areas & nodes based on social patterns, where & how people meet their needs- material, social cultural & economic, and settlement patterns including shopping, industry, education, recreation, entertainment, community organizations and networks, communications, demographics, history, community values, potential, challenges, conflict, opportunities. Explore interplay between social & services catchment overlays for strategic planning & community developmt.
+
+### SERVICES CATCHMENT 
+
+Identify networks, hierarchy & thresholds of utility & administrative services. Infrastructure & transport including all govt levels, industry & community-based organizations. Elements include: roads & transport networks, electricity grid, renewable energy sources, waste & recycling, communications, local government boundaries, State & fed electorates, regional governmt offices, agencies & services. Identify constraints and opportunities.
+
+### BIOREGIONAL RESOURCE AUDIT
+
+- what comes into/ is imported into area? 
+- what leaves/ is exported from area? 
+- what is the local impact resulting from the above? 
+• identify 'leaks' and priorities for action/ consolidation 
+- which imports can be locally produced? 
+- which 'leaks'/ exports can be recycled within the area?
+- which wastes accumulates (unsused resources) where could they be used ?
+
+Build on what exists – don’t duplicate or re-invent the wheel.
+Check out what other groups are doing in the same area/field for ideas & inspiration (benchmarking)
+
+### DESIGN FRAMEWORK / Design principles
 
 
 ### FEED THE SOIL
