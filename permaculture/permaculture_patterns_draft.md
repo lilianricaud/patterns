@@ -17,31 +17,39 @@ In this document, we try to examine and rewritte permaculture principles as patt
 10. To minimize maintenance and energy input while maximizing yield
 
 Principles – Mollison & Slay, Introduction to Permaculture (1991) These are expressed more in terms of strategies and methodologies 
-• Relative Location – pattern relationships 
-• Each element performs many functions 
+•  
+• 
 • Each important function is supported by many elements
 • Efficient energy planning (e.g. zone & sector planning) 
-• Maximize use of biological resources 
-• Energy cycling 
-• Small-scale intensive systems
-• Plant stacking 
+
+
+
+### Energy cycling 
+
+### Small-scale intensive systems
+
+### Plant stacking 
 • Accelerating succession and evolution 
-• Diversity 
-• Guilds 
-• Edge effect
+
+### Diversity 
+
+### Guilds 
+
+### Edge effect
 
 
 Principles – Mollison, Permaculture: a Designers Manual (1988) Read: Chapter 1 and 2, Permaculture-a Designers Manual, Bill Mollison
 
 
-
-
-## ADDITIONAL PERMACULTURE PRINCIPLES
-
 Additional concepts and definitions of Permaculture Principles (from http://www.thefarm.org/permaculture/)
 
-### RELATIVE LOCATION
+### ETHICS
+Often the means and the end are confused. It is ok to use evil means to reach "good" goals. Yet most often this is distastrous. Therefore, to ensure sustainability and social fairness use ETHICS. Keep it simple enough for everyone to understand, and put if before anything else 
 
+Permaculture is science based on an ethics: Care for the earth, care for the people, fairshare.
+
+### RELATIVE LOCATION
+Relative Location – pattern relationships
 Relative Location Components placed in a system are viewed relatively, not in isolation.
 
 ### FUNCTIONNAL RELATIONSHIP
@@ -49,9 +57,14 @@ Functional Relationship between components.
 Everything is connected to everything else Recognize functional relationships between elements.
 
 ### MULTIFUNCTIONNALITY
+Each element performs many functions 
 
+Every element is supported by many functions Each element we include is a system, chosen and placed so that it performs as many functions as possible (RELATIVE LOCATION).
+
+### (FUNCTIONAL) REDUNDANCY
 Every function is supported by many elements - Redundancy Good design ensures that all important functions can withstand the failure of one or more element.
-Every element is supported by many functions Each element we include is a system, chosen and placed so that it performs as many functions as possible.
+
+
 
 ### LOCAL FOCUS
 
@@ -109,7 +122,7 @@ Planting Strategy 1st-natives, 2nd-proven exotics, 3rd unproven exotics - carefu
 
 ### NATURAL CYCLES
 
-Work Within Nature Aiding the natural cycles results in higher yield and less work. A little support goes along way.
+Work Within Nature Aiding the natural cycles results in higher yield and less work. A little support goes along way. -> SUCCESSION
 
 ### APPROPRIATE TECHNOLOGY
 
