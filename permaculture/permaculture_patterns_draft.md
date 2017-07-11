@@ -75,31 +75,70 @@ Biological Resources We know living things reproduce and build up their availabi
 One Calorie In/One Calorie Out Do not consume or export more biomass than carbon fixed by the solar budget.
 Stocking Finding the balance of various elements to keep one from overpowering another over time. How much of an element needs to be
 produced in order to fulfill the need of whole system?
+
+### STACKING
+
 Stacking Multi-level functions for single element (stacking functions). Multi- level garden design, ie., trellising, forest garden, vines, groundcovers, etc.
 Succession Recognize that certain elements prepare the way for system to supports other elements in the future, i.e.: succession planting.
+
+### ONSITE RESOURCES
+
 Use Onsite Resources Determine what resources are available and entering the system on their own and maximize their use.
+
+### EDGE EFFECTS
+
 Edge Effect Ecotones are the most diverse and fertile area in a system. Two ecosystems come together to form a third which has more diversity than either of the other two, i.e.: edges of ponds, forests, meadows, currents etc.
+
+### ENERGY RECYCLING
+
 Energy Recycling Yields from system designed to supply onsite needs and/or needs of local region.
 Small Scale Intensive Systems start small and create a system that is managable and produces a high yield.
+
+### SMALLEST CHANGE
+
 Make Least Change for the Greatest Effect The less change that is generated, the less embedded energy is used to endow the system.
+
+### PLANTING STRATEGY
+
 Planting Strategy 1st-natives, 2nd-proven exotics, 3rd unproven exotics - carefully on small scale with lots of observation.
+
+
+
 Work Within Nature Aiding the natural cycles results in higher yield and less work. A little support goes along way.
+
+### APPROPRIATE TECHNOLOGY
+
 Appropriate Technology The same principles apply to cooking, lighting, transportation, heating, sewage treatment, water and other utilities.
-Law of Return Whatever we take, we must return Every object must responsibly provide for its replacement.
-Stress and Harmony Stress here may be defined as either prevention of natural function, or of forced function. Harmony may be defined as the integration of chosen and natural functions, and the easy supply of essential needs.
-The Problem is the solution We are the problem, we are the solution. Turn constraints into resources
-Mistakes are tools for learning
-The yield of a system is theoretically unlimited The only limit on the number of uses of a resource possible is the limit of information and imagination of designer.
-Dispersal of Yield Over Time Principal of seven generations. We can use energy to construct these systems, providing that in their lifetime, they store or conserve more energy that we use to construct them or to maintain them.
-A Policy of Responsibility (to relinquish power) The role of successful design is to create a self-managed system.
+
+### Law of Return 
+
+Whatever we take, we must return Every object must responsibly provide for its replacement.
+
+### Stress and Harmony / SYSTEMIC ORDER
+
+Stress here may be defined as either prevention of natural function, or of forced function. Harmony may be defined as the integration of chosen and natural functions, and the easy supply of essential needs.
+
 Principle of Disorder Order and harmony produce energy for other uses. Disorder consumes energy to no useful end. Tidiness is maintained disorder.
-Chaos Has form, but is not predictable. The amplification of small fluctuations. Entropy In complex systems disorder is an increasing result. Entropy and
-lifeforce are a stable pair that maintain the universe to infinity.
+Chaos Has form, but is not predictable. The amplification of small fluctuations. Entropy In complex systems disorder is an increasing result. Entropy and lifeforce are a stable pair that maintain the universe to infinity.
 Metastability For a complex system to remain stable, there must be small pockets of disorder.
 Entelechy Principal of genetic intelligence. i.e. The rose has thorns to protect itself.
 Observation Protracted & thoughtful observation rather than protracted and thoughtless labor.
 
-FEED THE SOIL
+
+### The Problem is the solution 
+
+We are the problem, we are the solution. Turn constraints into resources
+Mistakes are tools for learning
+
+### System's yield
+
+The yield of a system is theoretically unlimited The only limit on the number of uses of a resource possible is the limit of information and imagination of designer.
+Dispersal of Yield Over Time Principal of seven generations. We can use energy to construct these systems, providing that in their lifetime, they store or conserve more energy that we use to construct them or to maintain them.
+
+A Policy of Responsibility (to relinquish power) The role of successful design is to create a self-managed system.
+
+
+### FEED THE SOIL
 
 Some key concepts in permaculture and how do they apply in group collaboration ?
 
@@ -107,14 +146,16 @@ Can I compare water and information ?
 
 plants/organisation
 
-Money is like chemical fertilizer. When added you get a fast unnatural growth but this create a dependance and a weakness of the element that is articially stimulated.
+When add chemicals you get a fast unnatural growth but this create a dependance and a weakness of the element that is articially stimulated.
 
-In permaculture we feed the soil, not the plant. If the soil is good, the plants will grow. In social permaculture, we should focus on designing an healthy environment to allow existing individuals and structures to grow naturally at their own pace and grow their strength.
+In permaculture we feed the soil, not the plant. If the soil is good, the plants will grow. 
 
+In social permaculture, we should focus on designing an healthy environment to allow existing individuals and structures to grow naturally at their own pace and grow their strength.
+Money is like chemical fertilizer. 
 When growing a project whether research projects within the research community or local economy in crisis environment, we should focus on developping a healthy environment that can allow emergence of projects.
 
 
-SOCIAL PERMACULTURE
+### SOCIAL PERMACULTURE
 
 As human we are individually intelligent but often collectivelly stupid (exception of local tribes or village that use to or still live harmoniously with their environment).
 
