@@ -69,9 +69,14 @@ Community efficiency not self-sufficiency.
 Diversity As a general rule, as sustainable systems mature they become increasingly diverse in both space and time. What is important is the complexity of the functional relationships that exist between elements not the number of elements.
 
 ### BIOLOGICAL RESOURCES
+
 Maximize use of biological resources 
 
 Biological Resources We know living things reproduce and build up their availability over time, assisted by their interaction with other compatible elements. Use and reserve biological intelligence.
+
+### GUILDS
+
+Use STACKING to generate beneficial plant association / 
 
 ### ONE CALORIE IN / ONE CALORIE OUT
 
@@ -85,7 +90,7 @@ Stocking Finding the balance of various elements to keep one from overpowering a
 
 Stacking Multi-level functions for single element (stacking functions). Multi- level garden design, ie., trellising, forest garden, vines, groundcovers, etc.
 
-space STACKING + time STACKING
+Plant stacking/space STACKING + time STACKING
 
 ### SUCCESSION
 
