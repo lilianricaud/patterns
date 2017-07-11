@@ -23,25 +23,14 @@ Principles – Mollison & Slay, Introduction to Permaculture (1991) These are ex
 • Efficient energy planning (e.g. zone & sector planning) 
 
 
-
-### Energy cycling 
-
-### Small-scale intensive systems
-
-### Plant stacking 
-• Accelerating succession and evolution 
-
-### Diversity 
-
-### Guilds 
-
-### Edge effect
-
+## Sources
 
 Principles – Mollison, Permaculture: a Designers Manual (1988) Read: Chapter 1 and 2, Permaculture-a Designers Manual, Bill Mollison
 
 
 Additional concepts and definitions of Permaculture Principles (from http://www.thefarm.org/permaculture/)
+
+## DRAFT LANGUAGE
 
 ### ETHICS
 Often the means and the end are confused. It is ok to use evil means to reach "good" goals. Yet most often this is distastrous. Therefore, to ensure sustainability and social fairness use ETHICS. Keep it simple enough for everyone to understand, and put if before anything else 
@@ -80,6 +69,7 @@ Community efficiency not self-sufficiency.
 Diversity As a general rule, as sustainable systems mature they become increasingly diverse in both space and time. What is important is the complexity of the functional relationships that exist between elements not the number of elements.
 
 ### BIOLOGICAL RESOURCES
+Maximize use of biological resources 
 
 Biological Resources We know living things reproduce and build up their availability over time, assisted by their interaction with other compatible elements. Use and reserve biological intelligence.
 
@@ -95,9 +85,15 @@ Stocking Finding the balance of various elements to keep one from overpowering a
 
 Stacking Multi-level functions for single element (stacking functions). Multi- level garden design, ie., trellising, forest garden, vines, groundcovers, etc.
 
+space STACKING + time STACKING
+
 ### SUCCESSION
 
 Succession Recognize that certain elements prepare the way for system to supports other elements in the future, i.e.: succession planting.
+
+therefore, 
+
+Accelerate succession and evolution
 
 ### ONSITE RESOURCES
 
@@ -108,7 +104,7 @@ Use Onsite Resources Determine what resources are available and entering the sys
 Edge Effect Ecotones are the most diverse and fertile area in a system. Two ecosystems come together to form a third which has more diversity than either of the other two, i.e.: edges of ponds, forests, meadows, currents etc.
 
 ### ENERGY RECYCLING
-
+Energy cycling
 Energy Recycling Yields from system designed to supply onsite needs and/or needs of local region.
 Small Scale Intensive Systems start small and create a system that is managable and produces a high yield.
 
@@ -122,7 +118,11 @@ Planting Strategy 1st-natives, 2nd-proven exotics, 3rd unproven exotics - carefu
 
 ### NATURAL CYCLES
 
-Work Within Nature Aiding the natural cycles results in higher yield and less work. A little support goes along way. -> SUCCESSION
+Work Within Nature Aiding the natural cycles results in higher yield and less work. A little support goes along way. -> SUCCESSION, ENERGY CYCLES, TIME CYCLES
+
+### NICHES
+
+Animals and plants use certains niches both in space and in time. -> space STACKING + time STACKING
 
 ### APPROPRIATE TECHNOLOGY
 
