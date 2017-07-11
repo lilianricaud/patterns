@@ -61,7 +61,9 @@ Local Focus "Think globally - Act locally" Grow your own food, cooperate with ne
 
 ### COMMUNITY EFFICIENCY
 
-Community efficiency not self-sufficiency.
+Community efficiency not self-sufficiency. -> INVISIBLE STRUCTURES / ARCHITECTURES
+
+### INVISIBLE STRUCTURES / ARCHITECTURES
 
 
 ### INTERACTIVE DIVERSITY
