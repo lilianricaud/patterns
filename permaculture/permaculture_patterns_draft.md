@@ -1,20 +1,21 @@
+In this document, we try to examine and rewritte permaculture principles as patterns. The first step is to identify CENTERS, ie the chunks and try to write them in the pattern format, examine their relative links (SYSTEM HIERARCHY), combine, differentiate or delete some of them. Re-examine, rewritte, and iterate...
 
+ Work in progress.
 
-NATURAL AND LANDUSE CATCHMENT 
+### NATURAL AND LANDUSE CATCHMENT 
 
 (map structure / location )
 Biome, climate, geology & landform, ecosystems, biodiversity, watersheds, landuse patterns, forestry, fisheries, agriculture, extractive resources, national parkes & nature reserves, natural hazards (fire, flood, cyclone etc) Identify information resources, authorities, professional & community groups relating to the above. Establish advantages, constraints, challenges and opportunities.
 
-SOCIAL CATCHMENT 
-
+### SOCIAL CATCHMENT 
 
 Identify areas & nodes based on social patterns, where & how people meet their needs- material, social cultural & economic, and settlement patterns including shopping, industry, education, recreation, entertainment, community organizations and networks, communications, demographics, history, community values, potential, challenges, conflict, opportunities. Explore interplay between social & services catchment overlays for strategic planning & community developmt.
 
-SERVICES CATCHMENT 
+### SERVICES CATCHMENT 
 
 Identify networks, hierarchy & thresholds of utility & administrative services. Infrastructure & transport including all govt levels, industry & community-based organizations. Elements include: roads & transport networks, electricity grid, renewable energy sources, waste & recycling, communications, local government boundaries, State & fed electorates, regional governmt offices, agencies & services. Identify constraints and opportunities.
 
-BIOREGIONAL RESOURCE AUDIT
+### BIOREGIONAL RESOURCE AUDIT
 
 - what comes into/ is imported into area? 
 - what leaves/ is exported from area? 
@@ -65,20 +66,51 @@ Principles – Mollison, Permaculture: a Designers Manual (1988) Read: Chapter 1
 ## ADDITIONAL PERMACULTURE PRINCIPLES
 
 Additional concepts and definitions of Permaculture Principles (from http://www.thefarm.org/permaculture/)
-Relative Location Components placed in a system are viewed relatively, not in isolation. Functional Relationship between components.
+
+### RELATIVE LOCATION
+
+Relative Location Components placed in a system are viewed relatively, not in isolation.
+
+### FUNCTIONNAL RELATIONSHIP
+Functional Relationship between components.
 Everything is connected to everything else Recognize functional relationships between elements.
+
+### MULTIFUNCTIONNALITY
+
 Every function is supported by many elements - Redundancy Good design ensures that all important functions can withstand the failure of one or more element.
 Every element is supported by many functions Each element we include is a system, chosen and placed so that it performs as many functions as possible.
-Local Focus "Think globally - Act locally" Grow your own food, cooperate with neighbors. Community efficiency not self-sufficiency.
+
+### LOCAL FOCUS
+
+Local Focus "Think globally - Act locally" Grow your own food, cooperate with neighbors. 
+
+### COMMUNITY EFFICIENCY
+
+Community efficiency not self-sufficiency.
+
+
+### INTERACTIVE DIVERSITY
+
 Diversity As a general rule, as sustainable systems mature they become increasingly diverse in both space and time. What is important is the complexity of the functional relationships that exist between elements not the number of elements.
+
+### BIOLOGICAL RESOURCES
+
 Biological Resources We know living things reproduce and build up their availability over time, assisted by their interaction with other compatible elements. Use and reserve biological intelligence.
+
+### ONE CALORIE IN / ONE CALORIE OUT
+
 One Calorie In/One Calorie Out Do not consume or export more biomass than carbon fixed by the solar budget.
-Stocking Finding the balance of various elements to keep one from overpowering another over time. How much of an element needs to be
-produced in order to fulfill the need of whole system?
+
+### BALANCE
+
+Stocking Finding the balance of various elements to keep one from overpowering another over time. How much of an element needs to be produced in order to fulfill the need of whole system?
 
 ### STACKING
 
 Stacking Multi-level functions for single element (stacking functions). Multi- level garden design, ie., trellising, forest garden, vines, groundcovers, etc.
+
+### SUCCESSION
+
 Succession Recognize that certain elements prepare the way for system to supports other elements in the future, i.e.: succession planting.
 
 ### ONSITE RESOURCES
@@ -102,7 +134,7 @@ Make Least Change for the Greatest Effect The less change that is generated, the
 
 Planting Strategy 1st-natives, 2nd-proven exotics, 3rd unproven exotics - carefully on small scale with lots of observation.
 
-
+### NATURAL CYCLES
 
 Work Within Nature Aiding the natural cycles results in higher yield and less work. A little support goes along way.
 
