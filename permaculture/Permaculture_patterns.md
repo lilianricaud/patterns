@@ -1,15 +1,15 @@
-# Permaculture patterns
+# MOLLISON PERMACULTURE PATTERNS
 
-These are pattern described by Bill Mollison. Note that these differ slightly from other principles described by Holmgren later on. Unfortunately in the article about permaculture, Wikipedia editors onyly mention the former. 
+These are patternS described by Bill Mollison. Note that these differ slightly from other principles described by Holmgren later on. Unfortunately in the article about permaculture, Wikipedia editors only mention the former. 
 
 Source: Permaculture: A Designer's Manual, Mollison, B.
 
-## Relative location		
+## RELATIVE LOCATION		
 every element is placed in relationship to another so that they assist each other.
 
 http://deepgreenpermaculture.com/permaculture/permaculture-design-principles/1-relative-location/
 
-## Multifonctionality - Each Element Performs Many Functions
+## MULTIFUNCTIONALITY
 
 each element performs many functions
 
