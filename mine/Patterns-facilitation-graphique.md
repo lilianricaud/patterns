@@ -19,6 +19,25 @@ Appliquer systématiquement l'ensemble des questions du SQVID s'avère très eff
 - http://www.creativite.net/convaincre-en-deux-coups-de-crayon-dan-roam/
 - https://prezi.com/-diehedhyh81/convaincre-en-deux-coups-de-crayon/
 
+## Alphabet visuel
+
+Avec une douzaine de formes simples il est possible de dessiner a peu près tout. Ces formes sont les "lettres" de l'alphabet visuel
+
+Les premiers glyphes sont linéaires. Ils peuvent être liés les uns aux autres en séquence ou en chaine. ce sont des formes ouvertes qui se suivent naturellement on les appelle "flow". Leurs noms sont POINT, LIGNE, ANGLE, ARC, SPIRALE ET BOUCLE.
+
+Les six autres glyphes sont des formes fermées. Quand une ligne se referme sur elle même elle a tendance a sentir plus comme un objet solide, car les bords de la forme fermé le sépare du fond, comme un ile. 
+The next six glyphs are closed shapes. When a line closes in on itself it tends to feel more like a solid
+object, because the border of a closed shape separates it from the background, like an island. Closed
+shapes are distinct from the environment that surrounds them, which gives them the illusion of form,
+so we call these shapes forms. Their names are oval, eye, triangle, rectangle, house, and cloud. Try
+drawing them now.
+With these 12 glyphs you can draw anything. The number of possible combinations is infinite. Hard to
+believe? Let's prove this in a few steps. First, see if you can make the letters of the alphabet using just
+the 12 shapes of the visual alphabet:
+Satisfied? From 12 come 26. And now the numbers:
+Now let's try something more difficult. Look around you, wherever you happen to be at the moment.
+Pick out a few simple objects and see if you can draw them using just the shapes from the visual
+alphabet:
 
 ## Grande Métaphore visuelle
 
