@@ -31,13 +31,19 @@ Les six autres glyphes sont des formes fermées. Quand une ligne se referme sur 
 
 Les formes fermées sont distinctent de l'environnement qui les entoures, ce qui donne l'illusion d'une forme: on les appelle FORMES
 
-Leurs noms sont OVALES, OEIL, TRAIANGLE, RECTANGLE, MAISON ET NUAGE. 
+Leurs noms sont OVALES, OEIL, TRIANGLE, RECTANGLE, MAISON ET NUAGE. 
 
 ![](glypes_formes_fermees.png)
 
 Avec ces douze formes vous pouvez dessiner n'importe quoi. Le nombre de combinaison possible est infini.
 
 Par exemple vous pouvez dessiner toutes les lettre de l'alphabet en utilisant les 12 formes de l'alphabet visuel 12 formes pour dessiner 26 lettres.
+
+![](lettres_alphabet.png)
+
+![](chiffres.png)
+
+![](objets_dessines.png)
 
 
 ## Grande Métaphore visuelle
