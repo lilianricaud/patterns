@@ -1,23 +1,7 @@
 # Patterns facilitation graphique
 
-sources: https://julieboiveau.wordpress.com/category/la-bibliotheque/les-livres-sur-la-facilitation-graphique/
 
-## SQVID
 
-Dès l'avant-propos, Dan Roam présente le «SQVID», l’outil central du livre qui aide à clarifier, exprimer et représenter les idées. Le «SQVID» est un acronyme dont les lettres correspondent à 5 grandes catégories de questions à se poser pour exprimer une idée visuellement. Cette suite de questions ont pour but de nous aider à identifier les qualités (caractéristiques) des idées recherchées. À noter que ces qualités sont identifiées par des expressions courtes. Vous les trouvez inscrites ici entre les parenthèses à la suite des questions.
-
-Par exemple:
-
-- Pour la lettre S, la question est la suivante: «Voulons-nous une représentation Simple ou complexe de notre idée?» (Simple ou Élaboré)
-- Pour la lettre Q, la question est la suivante: «Voulons-nous une représentation Qualitative ou quantitative?» (Qualitatif ou Quantitatif)
-- Pour la lettre V, la question est la suivante: «Voulons-nous montrer notre Vision ou la méthode à exécuter pour y parvenir?» (Vision ou Réalisation)
-- Pour la lettre I, la question est la suivante: «Voulons-nous montrer les caractéristiques Individuelles de notre idée ou la comparer à autre chose?» (Individualités ou Comparaison)
-- Pour la lettre D, la question est la suivante: «Voulons-nous montrer le changement (Delta) ou la situation actuelle?» (Delta - changement ou Statu quo) (Roam, (p.X)
-
-Appliquer systématiquement l'ensemble des questions du SQVID s'avère très efficace pour clarifier un problème complexe, aider à l'expression visuelle d'une idée, préparer, montrer et défendre un argument de façon percutante. 
-
-- http://www.creativite.net/convaincre-en-deux-coups-de-crayon-dan-roam/
-- https://prezi.com/-diehedhyh81/convaincre-en-deux-coups-de-crayon/
 
 ## ALPHABET VISUEL
 
@@ -67,7 +51,31 @@ Associer chaque concept clé à un visuel pour ancrer celui ci.
 
 parfois la facilitation graphique donne de belles choses et on peut entrer par plusieurs chemins, mais on peut aussi être dérouté par cette profusion de contenus. il peut être utile dans certains cas de donner un sens de lecture (par des chiffres, une métaphore visuelle comme un chemin ou une roue) pour faciliter la lecture.
 
+## TITRE
 
+Indique le sujet du dessin. doit se distinguer facilement au premier coup d'oeil. Peut utiliser BANDEAU.
+
+
+## GESTION DE L'ESPACE
+
+quelles sont les bonnes pratiques ? par où commencer pour nepas se retrouver coincé ? centre ? un coté ?
+
+## CARTE MENTALE
+
+Mettre le sujet au centre, faire ressortir (par encadremenet par exemple). Ajouter branches qui partent du centre, puis sous branches. Différence entre papier et numérique.
+
+
+## BLANC/VIDE
+
+important de savoir laisser des espace vides, pas seulement pour rajouter de la matière, mais pour que les contenus soient plus visibles, distinguables.
+
+## DEGRÉ D'ECHELLE/FRACTALES
+
+Zoom in / zoom out la métaphore visuelle permet de representer simultanément plusieurs niveaux et de zoomer entre concept, avantage par rapport à coté linéaire.
+
+## CORPS EN BATONNET
+
+schematiser un corps doit être le plus simple possible, battonnets pour les membres, rond ou carré pour la tete, le corps, les pieds, les mains. Dans ce cadre la, les styles peuvent changer selon le facilitateur.
 
 ## PERSONNAGES PARLANT
 
@@ -83,10 +91,6 @@ les personnages auront souvent à exprimer des émotions, il est donc essentiel 
 pattern= yeux ouvert, bouche souriante...
 
 
-## TITRE
-
-Indique le sujet du dessin. doit se distinguer facilement au premier coup d'oeil. Peut utiliser BANDEAU.
-
 ## AUTEUR
 avec si possible contact, ainsi si l'image est diffusé, toujours possible de retrouver le contact et d'avoir promotion gratuite.
 
@@ -94,22 +98,27 @@ avec si possible contact, ainsi si l'image est diffusé, toujours possible de re
 pour être partageable
 rends diffusable le travail.
 
-## GESTION DE L'ESPACE
 
-quelles sont les bonnes pratiques ? par où commencer pour nepas se retrouver coincé ? centre ? un coté ?
 
-## CARTE MENTALE
+## SQVID
 
-Mettre le sujet au centre, faire ressortir (par encadremenet par exemple). Ajouter branches qui partent du centre, puis sous branches. Différence entre papier et numérique.
+Dès l'avant-propos, Dan Roam présente le «SQVID», l’outil central du livre qui aide à clarifier, exprimer et représenter les idées. Le «SQVID» est un acronyme dont les lettres correspondent à 5 grandes catégories de questions à se poser pour exprimer une idée visuellement. Cette suite de questions ont pour but de nous aider à identifier les qualités (caractéristiques) des idées recherchées. À noter que ces qualités sont identifiées par des expressions courtes. Vous les trouvez inscrites ici entre les parenthèses à la suite des questions.
 
-## CORPS EN BATONNET
+Par exemple:
 
-schematiser un corps doit être le plus simple possible, battonnets pour les membres, rond ou carré pour la tete, le corps, les pieds, les mains. Dans ce cadre la, les styles peuvent changer selon le facilitateur.
+- Pour la lettre S, la question est la suivante: «Voulons-nous une représentation Simple ou complexe de notre idée?» (Simple ou Élaboré)
+- Pour la lettre Q, la question est la suivante: «Voulons-nous une représentation Qualitative ou quantitative?» (Qualitatif ou Quantitatif)
+- Pour la lettre V, la question est la suivante: «Voulons-nous montrer notre Vision ou la méthode à exécuter pour y parvenir?» (Vision ou Réalisation)
+- Pour la lettre I, la question est la suivante: «Voulons-nous montrer les caractéristiques Individuelles de notre idée ou la comparer à autre chose?» (Individualités ou Comparaison)
+- Pour la lettre D, la question est la suivante: «Voulons-nous montrer le changement (Delta) ou la situation actuelle?» (Delta - changement ou Statu quo) (Roam, (p.X)
 
-## BLANC/VIDE
+Appliquer systématiquement l'ensemble des questions du SQVID s'avère très efficace pour clarifier un problème complexe, aider à l'expression visuelle d'une idée, préparer, montrer et défendre un argument de façon percutante. 
 
-important de savoir laisser des espace vides, pas seulement pour rajouter de la matière, mais pour que les contenus soient plus visibles, distinguables.
+- http://www.creativite.net/convaincre-en-deux-coups-de-crayon-dan-roam/
+- https://prezi.com/-diehedhyh81/convaincre-en-deux-coups-de-crayon/
 
-## DEGRÉ D'ECHELLE/FRACTALLES
+## Sources
 
-Zoom in / zoom out la métaphore visuelle permet de representer simultanément plusieurs niveaux et de zoomer entre concept, avantage par rapport à coté linéaire.
+sources: https://julieboiveau.wordpress.com/category/la-bibliotheque/les-livres-sur-la-facilitation-graphique/
+
+Gamestorming
