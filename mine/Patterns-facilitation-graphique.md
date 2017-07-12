@@ -33,7 +33,7 @@ Les formes fermées sont distinctent de l'environnement qui les entoures, ce qui
 
 Leurs noms sont OVALES, OEIL, TRIANGLE, RECTANGLE, MAISON ET NUAGE. 
 
-![](glypes_formes_fermees.png)
+![](glyphes_formes_fermees.png)
 
 Avec ces douze formes vous pouvez dessiner n'importe quoi. Le nombre de combinaison possible est infini.
 
