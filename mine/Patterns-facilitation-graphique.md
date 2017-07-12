@@ -59,10 +59,6 @@ Chaque concept doit être expliqué avec une métaphore qui évoque et rend mém
 
 nous avons tous une culture différente. Le mot projet par exemple ne sera pas évoqué par la même métaphore visuelle selon la culture du groupe. Interessant de développer un vocabulaire graphique qui nous appartient.
 
-## PERSONNAGES PARLANT
-
-les personnage ont des bulles et s'exprime, à la premiere personne, au pluriel, ils expriment une idée de maniere dynamique.
-
 ## TEXTE ET SYMBOLE
 
 Associer chaque concept clé à un visuel pour ancrer celui ci.
@@ -70,6 +66,13 @@ Associer chaque concept clé à un visuel pour ancrer celui ci.
 ## SENS DE LECTURE
 
 parfois la facilitation graphique donne de belles choses et on peut entrer par plusieurs chemins, mais on peut aussi être dérouté par cette profusion de contenus. il peut être utile dans certains cas de donner un sens de lecture (par des chiffres, une métaphore visuelle comme un chemin ou une roue) pour faciliter la lecture.
+
+
+
+## PERSONNAGES PARLANT
+
+les personnage ont des bulles et s'exprime, à la premiere personne, au pluriel, ils expriment une idée de maniere dynamique.
+
 
 ## VOCABULAIRE EMOTIONNEL
 
