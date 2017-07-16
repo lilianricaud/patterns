@@ -9,4 +9,4 @@
 
 ## Source 
 
-David Ing - Pattern Manual for Service Systems Thinking: http://coevolving.com/pubs/20161028_PUARL_Ing_PatternManualForServiceSystems_v1029a.pdf
+Adapted from David Ing - Pattern Manual for Service Systems Thinking: http://coevolving.com/pubs/20161028_PUARL_Ing_PatternManualForServiceSystems_v1029a.pdf
