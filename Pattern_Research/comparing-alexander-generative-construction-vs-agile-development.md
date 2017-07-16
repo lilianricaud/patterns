@@ -89,6 +89,7 @@ This book [APL] describes the detailed patterns for towns and neighbourhoods, ho
 The other book [TWB] explains the discipline which makes it possible to use these patterns to create a building or a town.  This book [APL] is the sourcebook of the timeless way; the other [TWB] is its practice and its origin (Alexander et al., 1977, p. ix).
 
 # David Ing's applied patterning
+david_ing_applied_patterning.md
 
 ## Source
 
