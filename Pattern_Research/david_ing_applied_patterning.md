@@ -1,10 +1,6 @@
-# David Ing's applied patterning
+## Comparison between Alexander and Agile methods
 
 David Ing is the one of the person with the freshest/clearer brain/view on patterns. His arguments are simple and of strong value. Keypoints are listed here
-
-
-
-## Comparison between Alexander and Agile methods
 
 He compares Alexander's generative construction method (as described in "the battle for the life and beauty of the earth") and agile méthods. The way of describing " from A to B" is a good way to show difference between traditional/cartesian/linear approaches and systemic approaches.
 
@@ -91,6 +87,8 @@ Volume 1, The Timeless Way of Building [TWB], and Volume 2, A Pattern Language [
 This book [APL] describes the detailed patterns for towns and neighbourhoods, houses, gardens and rooms. 
 
 The other book [TWB] explains the discipline which makes it possible to use these patterns to create a building or a town.  This book [APL] is the sourcebook of the timeless way; the other [TWB] is its practice and its origin (Alexander et al., 1977, p. ix).
+
+# David Ing's applied patterning
 
 ## Source
 
