@@ -4,9 +4,53 @@ David Ing is the one of the person with the freshest/clearer brain/view on patte
 
 
 
-# Comparison between Alexander and Agile methods
+## Comparison between Alexander and Agile methods
 
 He compares Alexander's generative construction method (as described in "the battle for the life and beauty of the earth") and agile méthods. The way of describing " from A to B" is a good way to show difference between traditional/cartesian/linear approaches and systemic approaches.
+
+
+## Alexandrian methods -- pattern language, budget, reality of the land
+Alexandrian methods for built environments
+
+**(i) Pattern language for the community**
+- (a) Interviewing on hopes and dreams
+- (b) Making a first sketch of a patttern languages
+- (c) Making a first draft pattern language from teachers‘ comments
+- (d) Checking seven principles for completeness of the languages
+- (e) Refining the language
+- (f) Creating pattern language as a list of key centers
+
+**(ii) Construction budget**
+- (a) Making a record of all of the spaces and areas which were defined by the pattern languages
+- (b) Trimming all space to available budget, as an average percentage reduction for all items of interior space, and then exterior space
+- (c) Asking faculty to re-allocate the spaces, keeping the same trimmed totals, conforming with  the available resources
+
+**(iii) Reality of the land** 
+- (a) Laying out the site plan on the ground
+- (b) Finding the two fundamental systems of centers, and combine them
+- (c) Visualizing the evolving site plan with marks on the land (e.g. flags)
+- (d) Fixing first hardline drawings of detailed positions on the site (position, orientation, dimension)
+- (e) Judging detailed building positions on the land (with flags)
+- (f) Recording the site plan on paper
+
+
+## Agile methods – user stories, scoping, reviewing iteratively
+Agile methods originating from software development (e.g. scrum)
+
+**(i) Writing user stories (with Behavior Driven Development)**
+- (a) Card (new capability on front side): As a [role], I want to [action/function] so that [value]
+- (b) Conversation: Details as conditions of satisfaction (represented by product owner)
+- (c) Confirmation (acceptance tests, on back side): Given [some initial context], when [an event occurs], then [ensure some outcomes]
+
+**(ii) Scoping; estimating value, costs and dates**
+- (a) Scoping projects (i.e. portfolio, solutions, releases)
+- (b) Estimating size (e.g. story points), derive duration (aggregating into themes, splitting epics)
+- (c) Identifying risks (e.g. technical, organizational, delivery)
+
+**(iii) Reviewing iteratively; tracking work item backlogs**
+- (a) Demonstrating iterations to stakeholders, conducting retrospective reviews
+- (b) Tracking sprint velocity (though kanban, backlog, burn-down)
+- (c) Coordinating daily for blockers (e.g. Scrum stand-up)
 
 
 
