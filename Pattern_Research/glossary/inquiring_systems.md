@@ -5,7 +5,7 @@
 - Second: Analytic Deductive (fact nets) - Gotfried Wilhelm Leibniz
 - Third: Multiple Realities (representations) - Immanuel Kant
 - Fourth: Dialectic (conflict) - Georg Wilhelm, Friedrich Hegel
-- Fifth: Systems Approach (progress, sweeping in) Edgar Arthur Singer, C. West Churchman
+- Fifth: Systems Approach / Dialogics (progress, sweeping in) Edgar Arthur Singer, C. West Churchman, Edgar Morin
 
 ## Source 
 
