@@ -92,5 +92,5 @@ The other book [TWB] explains the discipline which makes it possible to use thes
 david_ing_applied_patterning.md
 
 ## Source
-
+CC-BY-NC-SA
 David Ing, 2016 - Pattern Manual for Service Systems Thinking: http://coevolving.com/pubs/20161028_PUARL_Ing_PatternManualForServiceSystems_v1029a.pdf
