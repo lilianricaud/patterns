@@ -10,7 +10,7 @@
 8. Fix the dimensions of the space (in relation to building heights which will be coming).
 9. Reconfigure the buildings so as to intensify the system of spaces.
 10. Grapple with buildings entrance positions, to support the spaces and the line of movement. Locate further smaller centers (the narrow neck, the gate, the wider mouth of the small street)
-11. Make hte interior plans of the buildings, fit the profiles and plans that have been evolved to strenghten the spaces.
+11. Make the interior plans of the buildings, fit the profiles and plans that have been evolved to strenghten the spaces.
 12. Subdivide the interiors, to fit the irregular building plans.
 
 Each of these steps was a structure-preserving step which forms or strenghtens centers.
