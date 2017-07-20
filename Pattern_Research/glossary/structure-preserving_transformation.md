@@ -10,4 +10,4 @@ This approach can be be well understood by looking at how a drawing emerges when
 ![](drawing_structure-preserving_transformations.gif)
 
 
-Example of St-mark square in Venice
+-> add Example of St-mark square in Venice
