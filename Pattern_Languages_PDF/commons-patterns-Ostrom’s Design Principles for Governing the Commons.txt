@@ -1,0 +1,27 @@
+ Ostrom’s Design Principles for Governing the Commons
+or
+How to Avoid the Tragedy of the Commons within Self-Organizing Systems
+
+1. DEFINE AUTHORIZED USERS: The community of those who have the right to use the commons is clearly defined.
+
+2. DEFINE COMMONS BOUNDARIES: Common resources are clearly defined and are separate from those of the larger environment.
+
+3. MAKE COSTS PROPORTIONAL: Costs for using common resources are proportional to the benefits that users receive from the commons.
+
+4. PAY ALL COSTS: Users of the commons keep costs inside the local system as much as possible. They do not externalize costs either to neighbors or future generations.
+
+5. DECIDE INCLUSIVELY: Everyone who benefits from or is affected by the use of the commons makes choices about it. This includes decision making on resource allocation and on rules and responsibilities for the common’s use.
+
+6. ADAPT LOCALLY: Members of the community adapt the rules and culture of the commons to local needs and environmental conditions.
+
+7. SHARE KNOWLEDGE: All members are actively engaged in observing and sharing knowledge about the conditions of the system.
+
+8. MONITOR EFFECTIVELY: Monitors who are supported by and accountable to the community audit the use of resources, the behavior of users, and the conditions of the system.
+
+9. HOLD ACCOUNTABLE: Violators of the rules or culture of the commons face graduated sanctions, applied by those who have the role and accountability to assess such consequences.
+
+10. OFFER MEDIATION: The community offers inexpensive, fast and easy access to conflict resolution.
+
+11. GOVERN LOCALLY: Community self-determination is recognized by higher-level authorities.
+
+12. CONNECT TO RELATED SYSTEMS: Any external costs should be managed by the most immediate or local level of a similar and competent system operating at a different scale (aka subsidiarity).
