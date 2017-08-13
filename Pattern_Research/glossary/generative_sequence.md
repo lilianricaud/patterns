@@ -1,3 +1,5 @@
+# Generative sequence
+
 A generative sequence may be thought of as a second generation pattern language.
 
 In A Pattern Language, published in 1977, the emphasis is on the patterns
