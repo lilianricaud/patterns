@@ -91,12 +91,24 @@ les personnages auront souvent à exprimer des émotions, il est donc essentiel 
 pattern= yeux ouvert, bouche souriante...
 
 
-## AUTEUR
-avec si possible contact, ainsi si l'image est diffusé, toujours possible de retrouver le contact et d'avoir promotion gratuite.
+## AUTEUR MENTIONNÉ
+
+Trop souvent les travaux de bons auteurs sont diffusés, mais au fur et à mesure des transferts, la source du travail est souvent perdu. Si la source est mentionné dans une page annexe, quand l'image est téléchargé, cette source est de nouveau perdu.
+
+Par conséquent,
+
+Pour profiter au mieux diffusion, mentionner l'auteur dans le dessin avec, si possible le contact. Ainsi si l'image est diffusé, toujours possible de retrouver le contact et d'avoir promotion gratuite.
+
+Un bon dessin sera diffusé et transféré surtout s'il utilise explictement une LICENCE LIBRE. 
 
 ## LICENCE LIBRE
-pour être partageable
-rends diffusable le travail.
+
+Trop souvent les auteurs craignent le piratage et pourtant en même temps ils souhaitent voir leur travail diffusé et le font au cas par cas. Ceci n'empèche en rien des usages non prévus ou autorisés par l'auteur et en même temps certains usagers ne se sentent pas légitime de réutiliser ces contenus.
+
+Par conséquent,
+
+Pour rends diffusable et partageable le travail il est essentiel de mettre un licence libre qui permettra aux usagers de reprendre les contenus dans différents cadres y compris de la formation (qui est un usage commercial). Pour que la licence soit valide et utile il faut un AUTEUR MENTIONNÉ
+
 
 
 
@@ -116,6 +128,28 @@ Appliquer systématiquement l'ensemble des questions du SQVID s'avère très eff
 
 - http://www.creativite.net/convaincre-en-deux-coups-de-crayon-dan-roam/
 - https://prezi.com/-diehedhyh81/convaincre-en-deux-coups-de-crayon/
+
+## ANGLES DU CORPS
+
+La plupart d'entre nous utilisent des personnages en batonnets/ le problème est que dès que l'on passe à quelque chose de plus complexe comme des actions (manger un diner, conduire une voiture, un vélo...). 
+
+Pretez attention au angles du corps. Les angles du corps expriment toute l'attitude du personnage, interessé, interloqué, surpris, ... Pensez à une silhouette vu de loin.
+
+Lorsqu'on dessine un personnage, mieux vaut commencer au niveau du centre de gravité puis évoluer vers l'extérieur.
+
+**Séquence: Torse -> jambes -> bras/mains -> coup/tête -> visage**
+
+Commencez par dessiner un rectangle pour le corps en gardant l'angle du personnage.
+
+La deuxième partie la plus expressive ce sont les jambes. Celles ci relient le personnage au sol et ont un impact très important sur la position du corps. Tracez une ligne pour représenter le sol puis plusieurs traits pour les pieds et les jambes.
+
+Les mains constituent un troisième éléments essentiel à représenter. Essayez de dessiner les bras dans la bonne position. Deux cercles suffisent généralement à représenter les mains.
+
+L'inclinaison de l'angle du cou et de la tête est presque toujours différente par rapport au reste du corps. Essayez de dessiner la tête et de la relier au corps en un seul trait et l'angle adequat.
+
+Maintenant que le corps est tracé vous pouvez vous pencher sur le visage. Vous pouvez faire apparaitre diverse émotions, en modulant l'angle du nez, l'expression des yeux/sourcils, de la bouche, ...
+
+Adapté d'après Gamestorming, Gray, Brown, Macanufo.
 
 ## Sources
 
