@@ -72,11 +72,13 @@ Commence par un TOUR D'INCLUSION (espace de parole pour déposer quelques chose 
 
 Suivie par 
 
-REVUE DE LA CHECKLIST
+REVUE DE LA CHECKLIST (taches répétitives qu'une organisation se donne) pour voir où en est l'organisation.
 
-REVUE DES INDICATEURS
+REVUE DES INDICATEURS (balises et points de repères).
 
 NOUVELLES DE PROJETS
+
+ORDRE DU JOUR CO-CONSTRUIT lister les TENSIONS ou points positifs
 
 TRIAGE DES POINTS
 
