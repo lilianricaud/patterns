@@ -5,13 +5,21 @@
 
 Une holarchie est composée de HOLONS (grec:ολον, forme neutre de ολος, le "tout") qui sont des entités autonomes et indépendantes mais qui sont reliées à une entité supérieure dont elles font partie. Une holarchie est donc une hiérarchie d'éléments auto-régulés fonctionnant à la fois comme entités autonomes et comme parties d'un tout dont elles sont dépendantes3. Cette vision organique des organisations humaines est fréquemment comparée aux cellules d'un organisme qui sont à la fois autonomes et dépendantes de cet organisme qu'elles contribuent à édifier.
 
+l'holacratie considère chacun de ses membres comme un capteur, susceptible d'émettre des signaux. Chacun est orienté vers la production des redevabilités et par là, participe à la raison d'être de l'organisation.
+
 ## HOLONS
 
 (grec:ολον, forme neutre de ολος, le "tout") qui sont des entités autonomes et indépendantes mais qui sont reliées à une entité supérieure dont elles font partie.
 
-## RAISON D'ÊTRE
+## ORGANISATION
+
+RAISON D'ÊTRE, DOMAINES, REDEVABILITÉS
 
 Le fondement de la théorie holacratique repose sur la raison d'être de toute organisation humaine. L'holacratie distingue donc la raison d'être (superordonnante) des personnes qui vont contribuer à sa réalisation par leurs compétences, aptitudes et potentiels. Pour cela, l'organisme va se structurer en CERCLES, chacun ayant pour objectif de produire ses "REDEVABILITÉS" et lui-même dépendant de redevabilités produites par d'autres cercles.
+
+## RAISON D'ÊTRE
+
+
 
 Si cette organisation n'existait pas, qu'est ce qui manquerait sur terre ? Quelle specificité précise ?
 
@@ -57,4 +65,7 @@ pilotage dynamique de l'action en temps réel
 
 L'idéal est que la prise de décision s'accompagne du zéro objection argumentée.
 
+## ROLES
+
+emprunte la même structure que l'organisation, RAISON D'ÊTRE, DOMAINES, REDEVABILITÉS
 
