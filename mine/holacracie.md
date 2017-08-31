@@ -62,7 +62,7 @@ Cependant, chaque cercle a l'auorité de s'auto-organiser en interne pour attein
 
 Les cercles mènent leurs propres RÉUNIONS DE GOUVERNANCE, assignent des membres pour remplir les RÔLES, être responsable de mener à bien le travail qui est dans leur domaine d'autorité.
 
-Les cercle sont connectés par deux RÔLES connus sous le nom de PREMIER LIEN et "rep link", qui siègent dans  which sit in the meetings of both their circle and the broader circle to ensure alignment with the broader organization’s mission and strategy.
+Les cercle sont connectés par deux RÔLES connus sous le nom de PREMIER LIEN et "rep link", qui siègent à la fois dans leurs cercle et le cercle plus large auquels ils appartiennent pour s'assurer de l'alignement avec la mission et la stratégie de l'organisation plus large. 
 
 ## HARMONIQUE
 
@@ -90,6 +90,8 @@ REVUE DES INDICATEURS (balises et points de repères).
 NOUVELLES DE PROJETS
 
 ORDRE DU JOUR CO-CONSTRUIT lister les TENSIONS ou points positifs
+
+Les POINTS ajoutés sont ensuite repris par le FACILITATEUR pour trouver un indicateur et un prochain petit pas (ACTION)
 
 TRIAGE DES POINTS
 
