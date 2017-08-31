@@ -111,11 +111,13 @@ Si la tache est importante, le RÔLE peut de devenir un CERCLE à part entière.
 
 le FACILITATEUR questionne la personne pour déposer toute la proposition, les autres attendent, écoutent et n'interviennent pas (mieux de préparer en amont).
 
-## QUESTION DE CLARIFICATION
+QUESTION DE CLARIFICATION
 
-## TOUR DE MODIFICATION
+TOUR DE MODIFICATION
 
-## TOUR DE RÉACTION
+TOUR DE RÉACTION
+
+TOUR D'OBJECTION
 
 ## RÉUNION OPÉRATIONNELLE
 
@@ -151,6 +153,7 @@ Roles indispensables pour qu'une organisation fonctionne: FACILITATEUR, SECRÉTA
 
 ## POLITIQUE
 
+voila comment une organisation agit, entente.
 
 
 ## PROCESSUS DE GOUVERNANCE
@@ -167,11 +170,19 @@ Ce n'est pas un processus basé sur le consensus, ni même basé sur le consente
 
 L'holacracie specifie des processus pour aligner des équipes autour de besoins opérationnels, et requiers que chaque membre d'un CERCLE remplisses certain devoirs afin de travailler efficacement et effectivement ensemble.
 
-Par contraste avec le PROCESSUS DE GOUVERNANCE, 
+Par contraste avec le PROCESSUS DE GOUVERNANCE, qui est collectif et intégratif, chaque membre remplit un rôle qui a beaucoup d'autonomie et l'autorité de prendre des décisions sur le meilleur moyen d'atteindre ses objectifs.
 
-In contrast to the governance process, which is collective and integrative, each member filling a role has a lot of autonomy and authority to make decisions on how to best achieve his or her goals. Some have described the authority paradigm in Holacracy as completely opposite to the one of the traditional management hierarchy; instead of needing permission to act or innovate, Holacracy gives blanket authority to take any action needed to perform the work of the roles, unless it is restricted via policies in governance or it involves spending some assets of the organization (money, intellectual property, etc.)[14][15] Holacracy is thus highly biased toward action and innovation: it defaults to autonomy and freedom, then uses internal processes to limit that autonomy when its use in a specific way turns out to be detrimental.
+Au lieu d'avoir besoin de permission pour agir ou innover, l'holacracie, donne l'autorité de prendre n'importe quelle action nécessaire pour conduire le travail des RÔLES, à moins qu'il y ait des restrictions par des POLITIQUES  de gouvernance ou que cela implique certains atouts de l'organisation (argent, propriété intellectuelle, ...) 
 
-Holacracy specifies a tactical meeting process that every circle goes through usually on a weekly basis. This process includes different phases to report on relevant data, share updates on projects, and open discussions where any circle member can add to the agenda.[16] A particular feature of this last phase, known as "triage", is to focus discussions on the concrete next steps needed by the individual who added the agenda item to address his or her issue.[17] The intention is to avoid large, unproductive discussions dominated by the louder voices
+L'Holacracie est donc tres biaisé vers l'action et l'innovation. Par défaut c'est l'autonomie et la liberté, puis utilise des processus pour limiter cette autonomie dans les cas où elle pourrait être dommageable à l'organisation. 
+
+L'holacracie specifie un processus de réunions tactiques dans lequel chaque CERCLE passe manière généralement hebdomadaire (RÉUNIONS DE TRIAGE).
+
+Ce processus inclut différentes phase pour faire remonter les informations pertinentes, partager des mises à jours sur les projets, et des discussions ouvertes où chaque membre du cercle peut ajouter à l'ordre du jour. 
+
+Un aspect clé de cette dernière phase appellé triage, est de focaliser les discussions sur les prochains pas concrets
+
+A particular feature of this last phase, known as "triage", is to focus discussions on the concrete next steps needed by the individual who added the agenda item to address his or her issue.[17] The intention is to avoid large, unproductive discussions dominated by the louder voices
 
 
 ## GLASSFROG
