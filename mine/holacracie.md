@@ -180,9 +180,8 @@ L'holacracie specifie un processus de réunions tactiques dans lequel chaque CER
 
 Ce processus inclut différentes phase pour faire remonter les informations pertinentes, partager des mises à jours sur les projets, et des discussions ouvertes où chaque membre du cercle peut ajouter à l'ordre du jour. 
 
-Un aspect clé de cette dernière phase appellé triage, est de focaliser les discussions sur les prochains pas concrets
+Un aspect clé de cette dernière phase appellé triage, est de focaliser les discussions sur les prochains pas concrets nécessaire pour l'individu qui a jouté le point à l'ordre du jour pour prendre en compte sa TENSION. L'intention est d'éviter des discussions longues et improductives dominés par les voix les plus fortes.
 
-A particular feature of this last phase, known as "triage", is to focus discussions on the concrete next steps needed by the individual who added the agenda item to address his or her issue.[17] The intention is to avoid large, unproductive discussions dominated by the louder voices
 
 
 ## GLASSFROG
