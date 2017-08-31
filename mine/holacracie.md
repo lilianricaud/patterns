@@ -29,6 +29,9 @@ La même structure se produit à plusieurs niveau d'échelle, de l'organisation 
 
 Ainsi chacun d'eux possède RAISON D'ÊTRE, DOMAINES, REDEVABILITÉS
 
+## AUTORITÉ DISTRIBUÉE
+
+
 
 ## RAISON D'ÊTRE
 
@@ -45,13 +48,21 @@ Quels sont les champs d'actions specifiques et exclusifs à cette organisation ?
 
 De quelles actions l'organisation est elle responsable pour réaliser sa raison d'être dans ses domaines ?
 
+## 
 
 ## CERCLES DE GOUVERNANCE
 
 Chaque cercle, doté d'une large autonomie en vue d'atteindre ses objectifs, dispose également de trois outils de coordination: la RÉUNION DE GOUVERNANCE, RÉUNION OPÉRATIONNELLE, et la RÉUNION DEBOUT. L'HARMONIQUE de ces différentes réunions se crée naturellement.
 
+Holacracie recommande 10 personnes maximum par cercle.
 
-Holacracy structures the various roles in an organization in a system of self-organizing (but not self-directed) circles. Circles are organized hierarchically, and each circle is assigned a clear purpose and accountabilities by its broader circle. However, each circle has the authority to self-organize internally to best achieve its goals. Circles conduct their own governance meetings, assign members to fill roles, and take responsibility for carrying out work within their domain of authority. Circles are connected by two roles known as "lead link" and "rep link", which sit in the meetings of both their circle and the broader circle to ensure alignment with the broader organization’s mission and strategy.
+L'holacracie structures les divers rôles d'une organisation dans un système de auto-organisés (mais pas auto-dirigés) de CERCLES. Les CERCLES sont organisés de manière hierarchique, et à chaque cercle est assigné une RAISON D'ÊTRE CLAIRE et des REDEVABILITÉS par son cercle plus large.
+
+Cependant, chaque cercle a l'auorité de s'auto-organiser en interne pour atteindre au mieux ses objectifs.
+
+Les cercles mènent leurs propres RÉUNIONS DE GOUVERNANCE, assignent des membres pour remplir les RÔLES, être responsable de mener à bien le travail qui est dans leur domaine d'autorité.
+
+Les cercle sont connectés par deux RÔLES connus sous le nom de PREMIER LIEN et "rep link", qui siègent dans  which sit in the meetings of both their circle and the broader circle to ensure alignment with the broader organization’s mission and strategy.
 
 ## HARMONIQUE
 
