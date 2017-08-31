@@ -91,9 +91,7 @@ NOUVELLES DE PROJETS
 
 ORDRE DU JOUR CO-CONSTRUIT lister les TENSIONS ou points positifs
 
-Les POINTS ajoutés sont ensuite repris par le FACILITATEUR pour trouver un indicateur et un prochain petit pas (ACTION)
-
-TRIAGE DES POINTS
+TRIAGE DES POINTS: Les POINTS ajoutés sont ensuite repris par le FACILITATEUR pour trouver un indicateur et un prochain petit pas (ACTION)
 
 TOUR DE CLOTURE
 
