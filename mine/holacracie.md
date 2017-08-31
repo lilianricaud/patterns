@@ -101,6 +101,8 @@ Même format global que réunion de gouvernance.
 
 Ajout de TENSIONS à l'ORDRE DU JOUR.
 
+Une TENSION nécessite un RÔLE existant ou bien il faut ajouter un nouveau RÔLE qui est une PROPOSITION qui doit être faite par la PERSONNE qui amène la TENSION.
+
 La PERSONNE qui amène la PROPOSITION est responsable de la proposition: le sens du ROLE, la RAISON D'ETRE, ...
 
 ## RÉUNION OPÉRATIONNELLE
@@ -145,7 +147,7 @@ Chaque CERCLE utilise un processus définie de gouvernance pour créer mettre à
 
 l'Holacracie specifie un processus structuré connu sous le nom de "PROCESSUS DE DECISION INTÉGRÉ" pour proposer des changement de gouvernance et amender ou objecter les propositions.
 
-Ce n'est pas un processus basé sur le consensus, ni même basé sur le consentement, mais un 
+Ce n'est pas un processus basé sur le consensus, ni même basé sur le consentement, mais un processus qui intègre les informations entrantes de tous les cotés et s'assure 
 
 
 
