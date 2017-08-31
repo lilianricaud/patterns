@@ -3,9 +3,10 @@
 
 ## HOLACRACIE
 
+"le pouvoir au tout".
+
 L'holacratie (holacracy en anglais) est un système d'organisation de la GOUVERNANCE, fondé sur la mise en œuvre formalisée de l’intelligence collective. Opérationnellement, elle permet de disséminer les mécanismes de prise de décision au travers d'une organisation fractale d'équipes auto-organisées.
 
-Une holarchie est composée de HOLONS (grec:ολον, forme neutre de ολος, le "tout") qui sont des entités autonomes et indépendantes mais qui sont reliées à une entité supérieure dont elles font partie. Une holarchie est donc une hiérarchie d'éléments auto-régulés fonctionnant à la fois comme entités autonomes et comme parties d'un tout dont elles sont dépendantes3. Cette vision organique des organisations humaines est fréquemment comparée aux cellules d'un organisme qui sont à la fois autonomes et dépendantes de cet organisme qu'elles contribuent à édifier.
 
 l'holacratie considère chacun de ses membres comme un capteur, susceptible d'émettre des signaux. Chacun est orienté vers la production des redevabilités et par là, participe à la raison d'être de l'organisation.
 
@@ -13,14 +14,20 @@ l'holacratie considère chacun de ses membres comme un capteur, susceptible d'é
 
 (grec:ολον, forme neutre de ολος, le "tout") qui sont des entités autonomes et indépendantes mais qui sont reliées à une entité supérieure dont elles font partie.
 
-## ORGANISATION
+## HOLARCHIE
 
-RAISON D'ÊTRE, DOMAINES, REDEVABILITÉS
+Une HOLARCHIE est composée de HOLONS (grec:ολον, forme neutre de ολος, le "tout") qui sont des entités autonomes et indépendantes mais qui sont reliées à une entité supérieure dont elles font partie. Une holarchie est donc une hiérarchie d'éléments auto-régulés fonctionnant à la fois comme entités autonomes et comme parties d'un tout dont elles sont dépendantes3. Cette vision organique des organisations humaines est fréquemment comparée aux cellules d'un organisme qui sont à la fois autonomes et dépendantes de cet organisme qu'elles contribuent à édifier.
+
+
+Possède RAISON D'ÊTRE, DOMAINES, REDEVABILITÉS
 
 Le fondement de la théorie holacratique repose sur la raison d'être de toute organisation humaine. L'holacratie distingue donc la raison d'être (superordonnante) des personnes qui vont contribuer à sa réalisation par leurs compétences, aptitudes et potentiels. Pour cela, l'organisme va se structurer en CERCLES, chacun ayant pour objectif de produire ses "REDEVABILITÉS" et lui-même dépendant de redevabilités produites par d'autres cercles.
 
 ## FRACTALITÉ
 
+La même structure se produit à plusieurs niveau d'échelle, de l'organisation (HOLARCHIE), au CERCLE, l'individu, la RÉUNION.
+
+Ainsi chacun d'eux possède RAISON D'ÊTRE, DOMAINES, REDEVABILITÉS
 
 
 ## RAISON D'ÊTRE
