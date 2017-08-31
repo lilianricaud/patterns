@@ -19,6 +19,10 @@ RAISON D'ÊTRE, DOMAINES, REDEVABILITÉS
 
 Le fondement de la théorie holacratique repose sur la raison d'être de toute organisation humaine. L'holacratie distingue donc la raison d'être (superordonnante) des personnes qui vont contribuer à sa réalisation par leurs compétences, aptitudes et potentiels. Pour cela, l'organisme va se structurer en CERCLES, chacun ayant pour objectif de produire ses "REDEVABILITÉS" et lui-même dépendant de redevabilités produites par d'autres cercles.
 
+## FRACTALITÉ
+
+
+
 ## RAISON D'ÊTRE
 
 
@@ -57,6 +61,20 @@ gestion par consentement
 
 ## RÉUNION DE TRIAGE
 
+Commence par un TOUR D'INCLUSION (espace de parole pour déposer quelques chose d'important, ne pas être distrait).
+
+Suivie par 
+
+REVUE DE LA CHECKLIST
+
+REVUE DES INDICATEURS
+
+NOUVELLES DE PROJETS
+
+TRIAGE DES POINTS
+
+TOUR DE CLOTURE
+
 ## RÉUNION DE GOUVERNANCE
 
 ## RÉUNION OPÉRATIONNELLE
@@ -76,6 +94,8 @@ L'idéal est que la prise de décision s'accompagne du zéro objection argument�
 Un rôle est différent d'une personne, plusieurs personnes peuvent remplir un rôle, une personne peut avoir plusieurs rôles.
 
 Les rôles empruntent la même structure que l'organisation, RAISON D'ÊTRE, DOMAINES, REDEVABILITÉS
+
+type de roles: affectés, non affectés, structurels, incomplets
 
 Roles instead of job descriptions
 The building blocks of Holacracy's organizational structure are roles. Holacracy distinguishes between roles and the people who fill them, as one individual can hold multiple roles at any given time. A role is not a job description; its definition follows a clear format including a name, a purpose, optional "domains" to control, and accountabilities, which are ongoing activities to perform.[10] Roles are defined by each circle —or team— via a collective governance process, and are updated regularly in order to adapt to the ever-evolving needs of the organization.
