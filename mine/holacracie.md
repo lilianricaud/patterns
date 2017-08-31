@@ -48,7 +48,9 @@ Quels sont les champs d'actions specifiques et exclusifs à cette organisation ?
 
 De quelles actions l'organisation est elle responsable pour réaliser sa raison d'être dans ses domaines ?
 
-## 
+## FACILITATEUR
+
+
 
 ## CERCLES DE GOUVERNANCE
 
@@ -103,7 +105,17 @@ Ajout de TENSIONS à l'ORDRE DU JOUR.
 
 Une TENSION nécessite un RÔLE existant ou bien il faut ajouter un nouveau RÔLE qui est une PROPOSITION qui doit être faite par la PERSONNE qui amène la TENSION.
 
-La PERSONNE qui amène la PROPOSITION est responsable de la proposition: le sens du ROLE, la RAISON D'ETRE, ...
+La PERSONNE qui amène la PROPOSITION est responsable de la proposition: le sens du ROLE, la RAISON D'ETRE, DOMAINES, REDEVABILITÉS.
+
+Si la tache est importante, le RÔLE peut de devenir un CERCLE à part entière.
+
+le FACILITATEUR questionne la personne pour déposer toute la proposition, les autres attendent, écoutent et n'interviennent pas (mieux de préparer en amont).
+
+## QUESTION DE CLARIFICATION
+
+## TOUR DE MODIFICATION
+
+## TOUR DE RÉACTION
 
 ## RÉUNION OPÉRATIONNELLE
 
@@ -139,23 +151,25 @@ Roles indispensables pour qu'une organisation fonctionne: FACILITATEUR, SECRÉTA
 
 ## POLITIQUE
 
-## PROCESSUS
 
-PROCESSUS DE GOUVERNANCE
+
+## PROCESSUS DE GOUVERNANCE
 
 Chaque CERCLE utilise un processus définie de gouvernance pour créer mettre à jour régulièrement ses propres RÔLE et POLITIQUE
 
 l'Holacracie specifie un processus structuré connu sous le nom de "PROCESSUS DE DECISION INTÉGRÉ" pour proposer des changement de gouvernance et amender ou objecter les propositions.
 
-Ce n'est pas un processus basé sur le consensus, ni même basé sur le consentement, mais un processus qui intègre les informations entrantes de tous les cotés et s'assure 
+Ce n'est pas un processus basé sur le consensus, ni même basé sur le consentement, mais un processus qui intègre les informations entrantes de tous les cotés et s'assure que les changements proposés sont ancrés dans les besoins des rôles (et à travers eux, les besoins de l'organisation), plutot que les preférénces ou l'égo des gens.
 
 
+## PROCESSUS OPERATIONNEL
 
-This is not a consensus-based system, not even a consent-based system, but one that integrates relevant input from all parties and ensures that the proposed changes and objections to those changes are anchored in the roles' needs (and through them, the organization's needs), rather than people's preferences or ego.
 
-Operational process
+L'holacracie specifie des processus pour aligner des équipes autour de besoins opérationnels, et requiers que chaque membre d'un CERCLE remplisses certain devoirs afin de travailler efficacement et effectivement ensemble.
 
-Holacracy specifies processes for aligning teams around operational needs, and requires that each member of a circle fulfill certain duties in order to work efficiently and effectively together.[12][13] In contrast to the governance process, which is collective and integrative, each member filling a role has a lot of autonomy and authority to make decisions on how to best achieve his or her goals. Some have described the authority paradigm in Holacracy as completely opposite to the one of the traditional management hierarchy; instead of needing permission to act or innovate, Holacracy gives blanket authority to take any action needed to perform the work of the roles, unless it is restricted via policies in governance or it involves spending some assets of the organization (money, intellectual property, etc.)[14][15] Holacracy is thus highly biased toward action and innovation: it defaults to autonomy and freedom, then uses internal processes to limit that autonomy when its use in a specific way turns out to be detrimental.
+Par contraste avec le PROCESSUS DE GOUVERNANCE, 
+
+In contrast to the governance process, which is collective and integrative, each member filling a role has a lot of autonomy and authority to make decisions on how to best achieve his or her goals. Some have described the authority paradigm in Holacracy as completely opposite to the one of the traditional management hierarchy; instead of needing permission to act or innovate, Holacracy gives blanket authority to take any action needed to perform the work of the roles, unless it is restricted via policies in governance or it involves spending some assets of the organization (money, intellectual property, etc.)[14][15] Holacracy is thus highly biased toward action and innovation: it defaults to autonomy and freedom, then uses internal processes to limit that autonomy when its use in a specific way turns out to be detrimental.
 
 Holacracy specifies a tactical meeting process that every circle goes through usually on a weekly basis. This process includes different phases to report on relevant data, share updates on projects, and open discussions where any circle member can add to the agenda.[16] A particular feature of this last phase, known as "triage", is to focus discussions on the concrete next steps needed by the individual who added the agenda item to address his or her issue.[17] The intention is to avoid large, unproductive discussions dominated by the louder voices
 
