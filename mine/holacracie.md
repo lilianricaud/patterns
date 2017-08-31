@@ -89,9 +89,9 @@ REVUE DES INDICATEURS (balises et points de repères).
 
 NOUVELLES DE PROJETS
 
-ORDRE DU JOUR CO-CONSTRUIT lister les TENSIONS ou points positifs
+ORDRE DU JOUR CO-CONSTRUIT lister les TENSIONS (ou points positifs)
 
-TRIAGE DES POINTS: Les POINTS ajoutés sont ensuite repris par le FACILITATEUR pour trouver un indicateur et un prochain petit pas (ACTION)
+TRIAGE DES POINTS: Les POINTS ajoutés sont ensuite repris par le FACILITATEUR pour trouver un INDICATEUR et un prochain petit pas (ACTION) pour lever la TENSION.
 
 TOUR DE CLOTURE
 
@@ -111,11 +111,17 @@ L'idéal est que la prise de décision s'accompagne du zéro objection argument�
 
 ## ROLES
 
+Des rôles à la place de fiche de poste.
+
+Les blocs de base de la structure de l'organisation holacratique sont les RÔLES. L'holacracie distingue entre les rôles et les personnes qui les remplissent. 
+
 Un rôle est différent d'une personne, plusieurs personnes peuvent remplir un rôle, une personne peut avoir plusieurs rôles.
 
-Les rôles empruntent la même structure que l'organisation, RAISON D'ÊTRE, DOMAINES, REDEVABILITÉS
+
 
 type de roles: affectés, non affectés, structurels, incomplets
+
+Un rôle n'est pas une description de poste: sa définition  suit un format clair qui inclut RAISON D'ÊTRE, DOMAINES optionnel de controle, REDEVABILITÉS, les activités à mettre en oeuvre (Les rôles empruntent donc la même structure que l'organisation).
 
 Roles instead of job descriptions
 The building blocks of Holacracy's organizational structure are roles. Holacracy distinguishes between roles and the people who fill them, as one individual can hold multiple roles at any given time. A role is not a job description; its definition follows a clear format including a name, a purpose, optional "domains" to control, and accountabilities, which are ongoing activities to perform.[10] Roles are defined by each circle —or team— via a collective governance process, and are updated regularly in order to adapt to the ever-evolving needs of the organization.
