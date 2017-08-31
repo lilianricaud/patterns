@@ -97,6 +97,12 @@ TOUR DE CLOTURE
 
 ## RÉUNION DE GOUVERNANCE
 
+Même format global que réunion de gouvernance. 
+
+Ajout de TENSIONS à l'ORDRE DU JOUR.
+
+La PERSONNE qui amène la PROPOSITION est responsable de la proposition: le sens du ROLE, la RAISON D'ETRE, ...
+
 ## RÉUNION OPÉRATIONNELLE
 
 ## RÉUNION DEBOUT
@@ -111,29 +117,39 @@ L'idéal est que la prise de décision s'accompagne du zéro objection argument�
 
 ## ROLES
 
+entité specifique qui porte une énergie specifique au sein de l'ORGANISATION
+
 Des rôles à la place de fiche de poste.
 
 Les blocs de base de la structure de l'organisation holacratique sont les RÔLES. L'holacracie distingue entre les rôles et les personnes qui les remplissent. 
 
 Un rôle est différent d'une personne, plusieurs personnes peuvent remplir un rôle, une personne peut avoir plusieurs rôles.
 
-
-
-type de roles: affectés, non affectés, structurels, incomplets
-
 Un rôle n'est pas une description de poste: sa définition  suit un format clair qui inclut RAISON D'ÊTRE, DOMAINES optionnel de controle, REDEVABILITÉS, les activités à mettre en oeuvre (Les rôles empruntent donc la même structure que l'organisation).
 
-Roles instead of job descriptions
-The building blocks of Holacracy's organizational structure are roles. Holacracy distinguishes between roles and the people who fill them, as one individual can hold multiple roles at any given time. A role is not a job description; its definition follows a clear format including a name, a purpose, optional "domains" to control, and accountabilities, which are ongoing activities to perform.[10] Roles are defined by each circle —or team— via a collective governance process, and are updated regularly in order to adapt to the ever-evolving needs of the organization.
+Les rôles sont définis par chaque CERCLE via un processus de gouvernance collective, et sont mis à jour régulièrement afin de s'adapter aux besoins en changement permanent de l'organisation.
+
+type de roles: affectés, non affectés, structurels, incomplets
 
 ## RÔLES STRUCTURELS
 
 Roles indispensables pour qu'une organisation fonctionne: FACILITATEUR, SECRÉTAIRE, PREMIER LIEN (responsabilité d'avoir une vue d'ensemble sur le CERCLE)
 
+## POLITIQUE
+
 ## PROCESSUS
 
-Governance process
-Each circle uses a defined governance process to create and regularly update its own roles and policies. Holacracy specifies a structured process known as "integrative decision making" for proposing changes in governance and amending or objecting to proposals. This is not a consensus-based system, not even a consent-based system, but one that integrates relevant input from all parties and ensures that the proposed changes and objections to those changes are anchored in the roles' needs (and through them, the organization's needs), rather than people's preferences or ego.
+PROCESSUS DE GOUVERNANCE
+
+Chaque CERCLE utilise un processus définie de gouvernance pour créer mettre à jour régulièrement ses propres RÔLE et POLITIQUE
+
+l'Holacracie specifie un processus structuré connu sous le nom de "PROCESSUS DE DECISION INTÉGRÉ" pour proposer des changement de gouvernance et amender ou objecter les propositions.
+
+Ce n'est pas un processus basé sur le consensus, ni même basé sur le consentement, mais un 
+
+
+
+This is not a consensus-based system, not even a consent-based system, but one that integrates relevant input from all parties and ensures that the proposed changes and objections to those changes are anchored in the roles' needs (and through them, the organization's needs), rather than people's preferences or ego.
 
 Operational process
 
