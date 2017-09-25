@@ -45,6 +45,10 @@ Major decisions are made at a “general assembly” where anyone can put their 
 
 General Assemblies sometimes use mechanisme fo favor public expression of  women and underrepresented minority groups
 
+## COMMISSIONS
+
+Thematic workgroups.
+
 ## HAND SIGNALS
 The Occupy movement hand signals are a group of hand signals used by Occupy Wall Street protesters to negotiate a consensus. Hand signals are used instead of conventional audible signals, like applause, shouts, or booing, because they do not interrupt the speaker.
 
