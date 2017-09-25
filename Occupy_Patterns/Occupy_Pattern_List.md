@@ -122,7 +122,11 @@ The movement provides a platform for participation and prototyping.
 
 Open movements with RADICAL INCLUSION are very vulerable to provocative agents. Whether opponents or hidden police officers, anyone who want to discredit occupy movement can trigger violent events and blame the whole movement for that. Such open movements therefore have to find way to ensure security for themselves, yet they cannot use violence (NO VIOLENCE). In that context how can they ensure security ?
 
-Therefore, use creative and non violent techniques such as CLOWN BRIGADES, HUG BRIGADES, people with strong physical disabilities can also help (STRATEGIC WEAKNESS, DIVERSITY) because they are weak, violent people cannot feel under threat and injuring them would be shocking for everyone around.
+Therefore, use creative and non violent techniques such as CLOWN BRIGADES, HUG BRIGADES, people with strong physical disabilities can also help (STRATEGIC WEAKNESS, UNITY DIVERSITY) because they are weak, violent people cannot feel under threat and injuring them would be shocking for everyone around.
+
+## STRATEGIC WEAKNESS
+
+In NDLL, participants were fighting police with strategic weakness: half naked, they would crawl around police agents feet, making it very difficult  for police to fight them using violence.
 
 # Source / licence
 This document is provided under CC-BY-SA licence.
