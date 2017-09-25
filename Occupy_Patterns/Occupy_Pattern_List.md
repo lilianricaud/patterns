@@ -116,6 +116,12 @@ it's interesting to see how the various movement feed from each other and how qu
 
 The movement provides a platform for participation and prototyping.
 
+## RADICAL INCLUSION
+
+## NON-VIOLENT SECURITY
+
+Open movements with RADICAL INCLUSION are very vulerable to provocative agents. Whether opponents or hidden police officers, anyone who want to discredit occup moemebt
+
 # Source / licence
 This document is provided under CC-BY-SA licence.
 
