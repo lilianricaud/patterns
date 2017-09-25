@@ -47,6 +47,14 @@ nous avons tous une culture différente. Le mot projet par exemple ne sera pas �
 
 Associer chaque concept clé à un visuel pour ancrer celui ci.
 
+## NOMBRE DE COULEURS LIMITÉ
+
+Pour que la lecture ait du sens et que ce ne soit pas illisible, limitez le nombre de couleurs à deux ou 3.
+
+## NOIR AVANT COULEUR
+
+La plupart du temps il est plus simple de commencer par mettre le noir et ombré avec de la couleurs, mais ce n'est pas une règle absolue et parfois on peut ombrer une couleur avec du noir.
+
 ## SENS DE LECTURE
 
 parfois la facilitation graphique donne de belles choses et on peut entrer par plusieurs chemins, mais on peut aussi être dérouté par cette profusion de contenus. il peut être utile dans certains cas de donner un sens de lecture (par des chiffres, une métaphore visuelle comme un chemin ou une roue) pour faciliter la lecture.
