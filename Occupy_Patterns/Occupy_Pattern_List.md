@@ -120,7 +120,9 @@ The movement provides a platform for participation and prototyping.
 
 ## NON-VIOLENT SECURITY
 
-Open movements with RADICAL INCLUSION are very vulerable to provocative agents. Whether opponents or hidden police officers, anyone who want to discredit occup moemebt
+Open movements with RADICAL INCLUSION are very vulerable to provocative agents. Whether opponents or hidden police officers, anyone who want to discredit occupy movement can trigger violent events and blame the whole movement for that. Such open movements therefore have to find way to ensure security for themselves, yet they cannot use violence (NO VIOLENCE). In that context how can they ensure security ?
+
+Therefore, use creative and non violent techniques such as CLOWN BRIGADES, HUG BRIGADES, people with strong physical disabilities can also help (STRATEGIC WEAKNESS, DIVERSITY) because they are weak, violent people cannot feel under threat and injuring them would be shocking for everyone around.
 
 # Source / licence
 This document is provided under CC-BY-SA licence.
