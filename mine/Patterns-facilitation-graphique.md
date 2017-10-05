@@ -164,3 +164,9 @@ Adapté d'après Gamestorming, Gray, Brown, Macanufo.
 sources: https://julieboiveau.wordpress.com/category/la-bibliotheque/les-livres-sur-la-facilitation-graphique/
 
 Gamestorming
+
+## Livres pour aller plus loin
+
+
+Mapping Inner Space: Learning and Teaching Visual Mapping 2nd Edition
+by Nancy Margulies 
