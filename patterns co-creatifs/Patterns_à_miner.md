@@ -58,6 +58,13 @@ Question **ouvrante** ou Question **Puissante** ??
 ### DON
 ### TOUT LE MONDE SAIT
 
+### LIMINALITY
+
+create a liminal experience: take the group through a process that transform them and create communitas
+
+### SHARED INTENSE EXPERIENCES
+
+shared intense experiences (pleasure, pains) seems to be catalyst
 
 ## List of co-creative patterns
 
