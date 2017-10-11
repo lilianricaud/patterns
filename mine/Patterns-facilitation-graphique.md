@@ -159,6 +159,10 @@ Maintenant que le corps est tracé vous pouvez vous pencher sur le visage. Vous 
 
 Adapté d'après Gamestorming, Gray, Brown, Macanufo.
 
+## Exemples
+
+![](dreamhost_core_values.png)
+
 ## Sources
 
 sources: https://julieboiveau.wordpress.com/category/la-bibliotheque/les-livres-sur-la-facilitation-graphique/
