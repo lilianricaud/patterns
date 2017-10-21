@@ -163,3 +163,9 @@ trying to integrate blogs or Wikis into a community’s practice, the best way t
 
 For example, many good project leaders are good at doing meeting summaries. Instead of having them email a small subset of individuals, have them email a public, archived mailing list. Better yet, have them blog their summaries and email links to the blog. You’re not significantly changing individual behavior in these situations, but you are significantly improving your chances for large-scale collaboration.
 
+# HASHTAG COMMUNITIES
+
+Ephemeral communities that gather around a common social object: example social or natural crisis (Ushahidi), business interest (#BeTech)
+
+Create a separate Twitter account that retweets all related hastags and allow people to follow up easily.
+
