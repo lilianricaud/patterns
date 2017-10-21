@@ -123,6 +123,31 @@ Illich
 
 ---
 
+# PROMENADES
+
+The words passegiata and paseo translate into English as promenade—and the idea translates too,
+according to Christopher Alexander, a former Berkeley Architecture professor who has devoted his life
+to scientifically studying what makes places work. In his classic book A Pattern Language, he asks, “Is
+the promenade in fact a purely Latin institution? Our experiments suggest that it is not...It seems that people, of all cultures, may have a general need for this kind of human mixing which the promenade
+makes possible.”
+
+Alexander lays out the two principles that enhance the experience and sociability of a promenade:
+– The route should be approximately 1500 feet, which can easily be walked in 10 minutes at a leisurely
+pace. People may opt for many times around—especially teenagers on the lookout for excitement or
+romance—but you don’t want to make the course too long for little kids or elderly people.
+
+— It’s important that there are things to see and do along the route, with no empty or dead zones of
+more than 150 feet. While the primary purpose of these strolls is social, people also like to have some
+destination: a sidewalk café, playground, bookstore, ice cream shop, etc.
+Think about what routes in your neighborhood show the most promise for strolling and what
+improvements could be made to get people out to meet their neighbors.
+
+Walking up and down Main Street or any lively commercial district is probably the most common
+North American version of the promenade, although a route along a waterfront or interesting residential
+blocks could work just as well. Public art, welcoming businesses, benches, flowerbeds, even a vending cart could all help solidify this area as the place to see and be seen.
+
+---
+
 ## Source of inspiration to convert into patterns
 
 ### How to Design Our World for Happiness
