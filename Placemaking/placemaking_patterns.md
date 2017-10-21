@@ -91,10 +91,66 @@ Too often, people think about how they will use a space only after it is built. 
 A lack of money is often used as an excuse for doing nothing. Funds for pure public space improvements often are scarce, so it is important to remember the value of the public space itself to potential partners and search for creative solutions. The location, level of activity, and visibility of
 public spaces—combined with a willingness to work closely with local partners—can elicit resources from those involved to activate and enhance these spaces.
 
+---
+
+# HANGOUTS
+
+Give people a place to hangout
+
+---
+
+# VIEW
+
+
+
+---
+
+# SITTING PLACE
+
+Give people a place to sit down
+
+# SOCIAL SPACES
+
+---
+
+# SAFETY
+
+---
+
+# CONVIALITY
+
+Illich
+
+---
 
 ## Source of inspiration to convert into patterns
 
-11 principles of placemaking
+### How to Design Our World for Happiness
+placemaking, public space, and enjoying a convivial life
+
+Jay Walljasper 
+The commons guide to &On the commons
+
+1. Give people a place to hangout
+2. Give people something to see
+3. Give people something to do
+4. Give people a place to sit down
+5. Give people a safe, comfortable place to walk
+6. Give people a safe, comfortable place to bike
+7. Give people reliable, comfortable public transportation
+8. Make the streets safe
+9. Make sure the streets are safe—not just from crime but from traffic
+10. Remember the streets belong to everyone—not just motorists
+11. Don’t forget about the needs of older neighbors
+12. Don’t forget about the needs of kids
+13. Let your community go to the dogs
+14. Reclaim front yards as social spaces
+15. Remember the best neighborhoods, even in big cities, feel like villages
+16. Plan for winter weather as well as sunny, warm days
+17. Don’t fear density—people enjoy being around other people
+
+
+### 11 principles of placemaking
 PPS has developed 11 principles that can be used to evolve public spaces into "community places." Although similar words, "spaces" and "places" have very different meanings. A space is a physical description of a piece of land, whereas a "place" connotes an emotional attachment to the piece of land.
 
 1. The community is the expert.
