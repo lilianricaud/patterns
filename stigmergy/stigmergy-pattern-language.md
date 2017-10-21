@@ -90,7 +90,7 @@ Use  *a posteriori* control mechanisms to ensure the quality of the work, partic
 
 ---
 
-# CRITICAL TASKS
+# CRITICAL TASKS MANAGEMENT
 
 Use mechanisms to make sure critical tasks are taken care of.
 
@@ -123,6 +123,14 @@ https://en.wikipedia.org/wiki/Superordinate_goals
 # ENVIRONMENT
 
 Environment describe the space where interaction between AGENTS occurs. It can be physical or virtual (some authors say MEDIUM).
+
+---
+
+# INTEROPERABILTY
+
+---
+
+# STANDARDS
 
 ---
 
@@ -162,6 +170,10 @@ Leave A Trail and other principles are helpful in designing community spaces. Fo
 trying to integrate blogs or Wikis into a community’s practice, the best way to do that is to apply the tool in such a way that it scratches an individual’s itch while also leaving a trail. 
 
 For example, many good project leaders are good at doing meeting summaries. Instead of having them email a small subset of individuals, have them email a public, archived mailing list. Better yet, have them blog their summaries and email links to the blog. You’re not significantly changing individual behavior in these situations, but you are significantly improving your chances for large-scale collaboration.
+
+# EMERGENCE
+
+Eemerging order comes from repetead cycles (ITERATIONS)
 
 # HASHTAG COMMUNITIES
 
