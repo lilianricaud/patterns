@@ -49,6 +49,21 @@ You can see a lot just by observing. People will often go to extraordinary lengt
 
 ---
 
+# TRIANGULATION
+
+The concept of triangulation relates to locating elements next to each other in a way that fosters activity. For example, a bench, trash receptacle, and coffee kiosk placed near a bus stop create synergy because they are more convenient for waiting bus passengers and pedestrians than if they
+were isolated from each other.
+
+# OPEN-ENDED PROCESS
+
+You are never finished. About 80 percent of the success of any public space can be attributed to its MANAGEMENT. This is because the use of good places changes daily, weekly and seasonally, which makes management critical. Given the certainty of change and fluid nature of the use of a place at different times, the challenge is to develop the ability to respond effectively. 
+
+# MANAGEMENT
+
+A good management structure will provide flexibility that allow to responds effectivelly to change.
+
+---
+
 
 ## Source of inspiration to convert into patterns
 
@@ -75,25 +90,26 @@ People will often go to extraordinary lengths to adapt a place to suit their nee
 A vision for a public space addresses its character, activities, uses, and meaning in the community. This vision should be defined by the people who live or work in or near the space.
 
 7. Form supports function.
-Too often, people think about how they will use a space only after it is built. Keeping in mind active uses when designing or rehabilitating a space
-can lower costs by discouraging unnecessary and expensive landscaping and monuments, as well as potentially eliminating the need to retrofit a
-poorly used public space.
+Too often, people think about how they will use a space only after it is built. Keeping in mind active uses when designing or rehabilitating a space can lower costs by discouraging unnecessary and expensive landscaping and monuments, as well as potentially eliminating the need to retrofit a poorly used public space.
+
 8. Triangulate.
-The concept of triangulation relates to locating elements next to each other in a way that fosters activity. For example, a bench, trash receptacle,
-and coffee kiosk placed near a bus stop create synergy because they are more convenient for waiting bus passengers and pedestrians than if they
+The concept of triangulation relates to locating elements next to each other in a way that fosters activity. For example, a bench, trash receptacle, and coffee kiosk placed near a bus stop create synergy because they are more convenient for waiting bus passengers and pedestrians than if they
 were isolated from each other.
+
 9. Start with the petunias.
-Simple, short­term actions such as planting flowers can be a way of testing ideas and encouraging people their ideas matter. These actions provide
-flexibility to expand the space by experimenting, evaluating and incorporating results into the next steps and longrange planning.
+Simple, short­term actions such as planting flowers can be a way of testing ideas and encouraging people their ideas matter. These actions provide flexibility to expand the space by experimenting, evaluating and incorporating results into the next steps and longrange planning.
+
 10. Money is not the issue.
-www.placemakingchicago.com/about/principles.asp
-1/26/18/13
-11 principles of placemaking - Placemaking Chicago
+
 A lack of money is often used as an excuse for doing nothing. Funds for pure public space improvements often are scarce, so it is important to
 remember the value of the public space itself to potential partners and search for creative solutions. The location, level of activity, and visibility of
 public spaces—combined with a willingness to work closely with local partners—can elicit resources from those involved to activate and enhance
 these spaces.
+
 11. You are never finished.
-About 80 percent of the success of any public space can be attributed to its management. This is because the use of good places changes daily,
-weekly and seasonally, which makes management critical. Given the certainty of change and fluid nature of the use of a place at different times,
+About 80 percent of the success of any public space can be attributed to its management. This is because the use of good places changes daily, weekly and seasonally, which makes management critical. Given the certainty of change and fluid nature of the use of a place at different times,
 the challenge is to develop the ability to respond effectively. A good management structure will provide that flexibility.
+
+## Source
+11 principles of placemaking - Placemaking Chicago
+www.placemakingchicago.com/about/principles.asp
