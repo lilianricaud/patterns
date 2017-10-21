@@ -134,3 +134,32 @@ Nodes can break into different BRANCHES/FORKS to go deeper into one TASK or perf
 
 Enfin les noeuds sont les groupes de travail regroupant un nombre plus ou moins grand d’agents autour d’une tache. Un noeud peut se cliver en différentes branches qui, bien que travaillant sur la même tache, utilisent deux approches différentes en parallèle.
 
+---
+
+# LEAVE A TRAIL 
+
+Eugene Kim: "I’ve called this pattern THINK OUT LOUD and Visible Pulse in the past, but I like “Leave A Trail” better, because of its association with stigmergy".
+
+The idea is simple. When you work, leave an artifact somewhere where others can find it. An artifact
+doesn’t have to be comprehensive; in fact, it’s often better when it isn’t. A brief meeting summary is
+usually more useful than a full transcript. A brief summary with links to specific instances in the
+transcript is even more useful. 
+
+When you Leave A Trail, you’re communicating to whomever wants to listen, which may effect how you express yourself. This can be disconcerting to some. People often point to the lack of response as a sign that tools like online forums, blogs, or Wikis aren’t working. That’s not necessarily the case.
+ 
+There may be a whole slew of lurkers who are reacting to the signs that you are leaving. (That said, Immediate Feedback is also an important pattern in Online Communities.)
+
+This can also be difficult when determining what kind of trail to leave. Because you don’t know who
+will be reacting to your signs, you can’t target them. The solution is to Scratch Your Own Itch.
+
+Emergence can’t happen without Leave A Trail. However, Leave A Trail is just one of many conditions
+for emergence. You can’t dictate whether emergence will happen, and when it does, you can’t control
+what actually emerges. 
+
+The best you can do is create conditions for emergence and hope that good things happen. This is disconcerting to many, and folks often react by trying to assert more control, which makes things worse.
+
+Leave A Trail and other principles are helpful in designing community spaces. For example, if you are
+trying to integrate blogs or Wikis into a community’s practice, the best way to do that is to apply the tool in such a way that it scratches an individual’s itch while also leaving a trail. 
+
+For example, many good project leaders are good at doing meeting summaries. Instead of having them email a small subset of individuals, have them email a public, archived mailing list. Better yet, have them blog their summaries and email links to the blog. You’re not significantly changing individual behavior in these situations, but you are significantly improving your chances for large-scale collaboration.
+
