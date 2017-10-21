@@ -6,6 +6,7 @@ The art of evolving public spaces into "COMMUNITY PLACES."
 ---
 
 # COMMUNITY PLACES
+"you're creating a place, not a design".
 
 Although similar words, "spaces" and "places" have very different meanings. A space is a physical description of a piece of land, whereas a "place" connotes an emotional attachment to the piece of land.
 
@@ -13,7 +14,7 @@ Although similar words, "spaces" and "places" have very different meanings. A sp
 
 # COMMUNITY EXPERTISE
 
-The community is the expert. People who use a public space regularly provide the most valuable perspective and insights into how the area functions. They also can help identify issues that are important to consider in improving the space. Uncovering and incorporating their ideas and talents is essential to creating a successful and vital community place.
+"The community is the expert". People who use a public space regularly provide the most valuable perspective and insights into how the area functions. They also can help identify issues that are important to consider in improving the space. Uncovering and incorporating their ideas and talents is essential to creating a successful and vital community place.
 
 ---
 
@@ -39,6 +40,7 @@ Develop a vision. A vision for a public space addresses its character, activitie
 
 # PARTNERS
 
+"You can't do it alone."
 A good public space requires partners who contribute innovative ideas, financial or political support, and help plan activities. Partners also can also broaden the impact of a civic space by coordinating schedules for programming and improvement projects.
 
 ---
@@ -54,15 +56,40 @@ You can see a lot just by observing. People will often go to extraordinary lengt
 The concept of triangulation relates to locating elements next to each other in a way that fosters activity. For example, a bench, trash receptacle, and coffee kiosk placed near a bus stop create synergy because they are more convenient for waiting bus passengers and pedestrians than if they
 were isolated from each other.
 
+---
+
 # OPEN-ENDED PROCESS
 
-You are never finished. About 80 percent of the success of any public space can be attributed to its MANAGEMENT. This is because the use of good places changes daily, weekly and seasonally, which makes management critical. Given the certainty of change and fluid nature of the use of a place at different times, the challenge is to develop the ability to respond effectively. 
+"You are never finished". About 80 percent of the success of any public space can be attributed to its MANAGEMENT. This is because the use of good places changes daily, weekly and seasonally, which makes management critical. Given the certainty of change and fluid nature of the use of a place at different times, the challenge is to develop the ability to respond effectively. 
+
+---
 
 # MANAGEMENT
 
 A good management structure will provide flexibility that allow to responds effectivelly to change.
 
+
 ---
+
+# FUNCTIONNAL FORMS
+
+"Form supports function".
+Too often, people think about how they will use a space only after it is built. Keeping in mind active uses when designing or rehabilitating a space can lower costs by discouraging unnecessary and expensive landscaping and monuments, as well as potentially eliminating the need to retrofit a poorly used public space.
+
+---
+
+# SMALL AND BEAUTIFULL ACTIONS
+
+"Start with the petunias". Simple, short­term actions such as planting flowers can be a way of testing ideas and encouraging people their ideas matter. These actions provide flexibility to expand the space by experimenting, evaluating and incorporating results into the next steps and longrange planning.
+
+---
+
+# SMALL BUDGETS
+
+"Money is not the issue".
+
+A lack of money is often used as an excuse for doing nothing. Funds for pure public space improvements often are scarce, so it is important to remember the value of the public space itself to potential partners and search for creative solutions. The location, level of activity, and visibility of
+public spaces—combined with a willingness to work closely with local partners—can elicit resources from those involved to activate and enhance these spaces.
 
 
 ## Source of inspiration to convert into patterns
@@ -101,10 +128,8 @@ Simple, short­term actions such as planting flowers can be a way of testing ide
 
 10. Money is not the issue.
 
-A lack of money is often used as an excuse for doing nothing. Funds for pure public space improvements often are scarce, so it is important to
-remember the value of the public space itself to potential partners and search for creative solutions. The location, level of activity, and visibility of
-public spaces—combined with a willingness to work closely with local partners—can elicit resources from those involved to activate and enhance
-these spaces.
+A lack of money is often used as an excuse for doing nothing. Funds for pure public space improvements often are scarce, so it is important to remember the value of the public space itself to potential partners and search for creative solutions. The location, level of activity, and visibility of
+public spaces—combined with a willingness to work closely with local partners—can elicit resources from those involved to activate and enhance these spaces.
 
 11. You are never finished.
 About 80 percent of the success of any public space can be attributed to its management. This is because the use of good places changes daily, weekly and seasonally, which makes management critical. Given the certainty of change and fluid nature of the use of a place at different times,
