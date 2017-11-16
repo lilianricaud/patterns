@@ -2,6 +2,8 @@
 
 La fonction publique a besoin de changer et vivre avec son temps, mais est prise dans un carcan de ses propres règles et il peut être difficile pour un consultant ou formateur extérieur de travailler avec cette culture. Voici un ensemble de bonnes pratiques pour travailler avec la fonction publique.
 
+Ce document est en amélioration permanente et certains patterns seront amenés à apparaitre, fusionner ou disparaitre au cours du travail.
+
 ## TARIF HAUT
 
 dès qu'il s'agit de monter quelque chose avec les institutions c'est tout de suite chronophage - pénibilité, risque de revirement, d'annulation, délais de paiement extremement longs
