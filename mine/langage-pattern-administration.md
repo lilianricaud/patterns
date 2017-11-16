@@ -86,7 +86,7 @@ Il existe deja des solutions et des astuces que chacun des PIONNIERS utilise pou
 Par conséquent, faire remonter les petites solutions existantes par l'échange PAIR A PAIR, ceci peut se faire par la mise en oeuvre de formation ou evenement qui sont des ESPACE-TEMPS D'ECHANGES ET DE RESEAU.
 
 
-## SOUTIEN N+1/2
+## SOUTIEN N+x
 
 tout supérieur hiérarchique a le pouvoir de bloquer une initiative.
 
@@ -116,8 +116,23 @@ Par conséquent, argumenter du fait que l'argent public qui a servi à financer 
 
 ## MÉCANISME DE "PACIFICATION" SYMBOLIQUE
 
-Dans les services de l'état existe une forte culture hierarchique qui classe les agents en catégorie A, B, C. si cette classification a eu un interet à une époque et était au service des agents (ref pascal romain), aujourd'hui cette classification est obsoloète et créer de silos forts, des castes ou les catégories inférieures dans la hierarchie sont ou se sentent en dessous des autres et méprisées. il s'exerce donc une violence symbolique forte qui fait que même lorsque l'on sollicite les agents pour des processus de co-construction avec une intention sincère, la plupatr refusent 
+Dans les services de l'état existe une forte culture hierarchique qui classe les agents en catégorie A, B, C. si cette classification a eu un interet à une époque et était au service des agents (ref pascal romain), aujourd'hui cette classification est obsoloète et créer de silos forts, des castes ou les catégories inférieures dans la hierarchie sont ou se sentent en dessous des autres et méprisées. il s'exerce donc une violence symbolique forte qui fait que même lorsque l'on sollicite les agents pour des processus de co-construction avec une intention sincère, la plupatr refusent de participer, par peur d'etre traités comme des secrétaires ou de devenir des boucs-émissaire en cas d'échec.
+
+Par conséquent, il est important de prévoir des mécanismes pour contrer cette violence symbolique, et permettre aux agents de toutes catégories de se sentir à l'aise pour impliquer dans ces processus.
+
+par exemple FICHE DE POSTE PIONNIERS qui spécifie bien un PÉRIMÈTRE D'ACTION EXPLICITE
+
+## INITIATIVES INNOVANTES
 
 
-INITIATIVES INNOVANTES
+## FICHE DE POSTE PIONNIERS
+
+La fiche de poste est le document de référence qui specifie les taches et roles de chaque agents. Les PIONNIERS même s'ils sont volontaires et confiant ont besoin de sentir qu'ils sont légitimes et travaille dans un cadre qui est respecté par leur N+x.
+
+Par conséquent, 
+
+Utiliser les fiches de postes pour spécifier PÉRIMÈTRE D'ACTION EXPLICITE. Pour cela, il est possible de faire un AVENANT AUX MISSIONS, cela a nottament été fait dans le cadre d'expériences de télétravail.
+
+## PÉRIMÈTRE D'ACTION EXPLICITE
+
 
