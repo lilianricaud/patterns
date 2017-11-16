@@ -34,6 +34,19 @@ Afin de tester le sérieux de l'approche, il peut être interessant pour chaque 
 
 co-créer tous le plus en amont possible, avec les acteurs-commanditaires le plus haut possible (N+1/2 Minimum)
 
+## CO-ANIMATION
+
+Au dela de 10 personnes mieux vaut être aux moins deux intervenants pour co-animer
+
+## PROTOTYPER
+
+Essayer de changer beaucoup de choses d'un seul coup est couteux et risqué. Couteux en temps et argent pour le client et couteux en temps et energie pour le prestataire. En outre il est impossible d'arriver avec des solution toutes faites car ce qui marche ailleurs ne marchera porbablement pas pour l'administration et qu'il faudra adapter ou invernter des solutions.
+
+Par conséquent, 
+
+Prototyper la collaboration et le changement, faites d'abord un petit essai peu couteux pour les deux parties, puis évaluer les apports, ajuster par des cycles reflexions-expérimentation-évaluation. En effectuant ainsi plusieurs cycles, il est plus facile et réaliste d'obtenir un résultat effectif.
+
+# CHANGEMENT SYSTÉMIQUE
 
 ## AVENIR DESIRABLE
 
@@ -53,10 +66,14 @@ Les pionniers peuvent être des agents isolés, des structures (PFRH, SGMAP) ou 
 
 Inversement refuser s'il n'y a pas de pionniers et que la demande est seulement une façade.
 
-- identifier pionniers
+- identifier pionniers et leur proposer de s'impliquer sous forme de VOLONTARIAT
 - leur donner du pouvoir négocié via CONTRAT n+X
 - les relier entre eux (via ESPACE-TEMPS D'ECHANGES ET DE RESEAU) pour créer reconnaisance entre pairs.
 - 
+
+## VOLONTARIAT
+
+Tout travail demandé aux PIONNIERS doit pouvoir se faire sous la forme de volontariat ou les agents peuvent se retirer à tout moment.
 
 ## PROTECTION DES PIONNIERS
 
@@ -66,24 +83,19 @@ Par conséquent,
 
 il est important de prévoir dès le début un processus de protection des pionniers, de poser avec eux des limites sur leur engagement et de prévoir une sortie, que ce soit sur comment il vont rebondir pour eux mêmes sur un autre sujet ou comment ils prévoient dès le début un moyen de transmettre le flambeau en interne et de se rendre redondants (REDONDANCE).
 
-## ANIMATEUR-FACILITATEUR
+## AGENTS ANIMATEURS-FACILITATEURS
 
 role d'observation/attention du fonctionnnement d'un groupe. compétence de PRODUCT-OWNER ou rôle complémentaire ?
 
 
-## PROTOTYPER
 
-Essayer de changer beaucoup de choses d'un seul coup est couteux et risqué. Couteux en temps et argent pour le client et couteux en temps et energie pour le prestataire. En outre il est impossible d'arriver avec des solution toutes faites car ce qui marche ailleurs ne marchera porbablement pas pour l'administration et qu'il faudra adapter ou invernter des solutions.
-
-Par conséquent, 
-
-Prototyper la collaboration et le changement, faites d'abord un petit essai peu couteux pour les deux parties, puis évaluer les apports, ajuster par des cycles reflexions-expérimentation-évaluation. En effectuant ainsi plusieurs cycles, il est plus facile et réaliste d'obtenir un résultat effectif.
 
 ## CONDITIONS FAVORABLES
 
-- sécuriser
-- FUTUR DÉSIRABLES
+- CADRE SÉCURISÉ
+- FUTUR DÉSIRABLE
 - PÉRIMÈTRE D'ACTION EXPLICITE
+- HIERARCHIE ENGAGÉE
 
 ## ESPACE-TEMPS D'ECHANGES ET DE RESEAU
 
@@ -92,6 +104,18 @@ Dans la plupart des formations, le formateur monopolise le temps de parole et la
 Par conséquent, 
 
 Organiser les formations et evenements destinés à des agents de la fonction publique en y intégrant de nombreux espaces temps d'échange et de réseau entre les agents.
+
+## HIERARCHIE ENGAGÉE
+
+la hierarchie doit être non seulement motivée, mais aussi engagée (différence entre poule impliquée quand elle pond un oeuf et boeuf qui est engagée quand il donne de la viande).
+
+ceci doit etre formalisé via un CONTRAT N+X
+
+## CADRE SÉCURISÉ
+
+- VOLONTARIAT
+- PERIMÈTRE D'ACTION EXPLICITE
+- CONTRAT N+X
 
 ## PETITES SOLUTIONS
 
@@ -113,16 +137,14 @@ Pour cela, il pourrait etre interessant de définir avec eux un CONTRAT.
 
 Faire vivre des expérience de formation ou de travail où le pair à pair est de mise, la qualité du travail doit démontrer de manière nette l'avanatge de tels formats par rapport à format en silo.
 
-## USAGERS
+## USAGERS IMPLIQUÉS
 
 ## DELESTEURS EMOTIONNELS
 
 Pour soi et pour les agents, identifier ce qui permet de se faire du bien, vider les émotions négatives accumulées.
 
 
-## CO-ANIMATION
 
-Au dela de 10 personnes mieux vaut co-animer
 
 ## SYNDICATS IMPLIQUÉS
 
