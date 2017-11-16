@@ -105,5 +105,19 @@ Pour soi et pour les agents, identifier ce qui permet de se faire du bien, vider
 
 Au dela de 10 personnes mieux vaut co-animer
 
+## SYNDICATS IMPLIQUÉS
 
+## DOCUMENTATION OPEN SOURCE
+
+Les administrations publiques innovent chacune de leur coté, que ce soit à l'aide de PIONNIERS ou des PARTENAIRES EXTÉRIEURS et il existe de nombreuses INITIATIVES INNOVANTES qui réussissent au moins partiellement. 
+Pour autant si l'argent public sert à financer ces différentes initatives, chaque administration à généralement peu de CULTURE DU PARTAGE. si le manque de temps et l'urgence permanent n'aide pas, il y a aussi une culture implicite qui consiste à garder pour soi son travail et a ne pas le partager.
+
+Par conséquent, argumenter du fait que l'argent public qui a servi à financer un travail d'intéret général doit être partagé sous LICENCE LIBRE pour être réutilisé par d'autre services publics, privés, ou citoyens.
+
+## MÉCANISME DE "PACIFICATION" SYMBOLIQUE
+
+Dans les services de l'état existe une forte culture hierarchique qui classe les agents en catégorie A, B, C. si cette classification a eu un interet à une époque et était au service des agents (ref pascal romain), aujourd'hui cette classification est obsoloète et créer de silos forts, des castes ou les catégories inférieures dans la hierarchie sont ou se sentent en dessous des autres et méprisées. il s'exerce donc une violence symbolique forte qui fait que même lorsque l'on sollicite les agents pour des processus de co-construction avec une intention sincère, la plupatr refusent 
+
+
+INITIATIVES INNOVANTES
 
