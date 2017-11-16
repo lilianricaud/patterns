@@ -116,7 +116,7 @@ Par conséquent, argumenter du fait que l'argent public qui a servi à financer 
 
 ## MÉCANISME DE "PACIFICATION" SYMBOLIQUE
 
-Dans les services de l'état existe une forte culture hierarchique qui classe les agents en catégorie A, B, C. si cette classification a eu un interet à une époque et était au service des agents (ref pascal romain), aujourd'hui cette classification est obsoloète et créer de silos forts, des castes ou les catégories inférieures dans la hierarchie sont ou se sentent en dessous des autres et méprisées. il s'exerce donc une violence symbolique forte qui fait que même lorsque l'on sollicite les agents pour des processus de co-construction avec une intention sincère, la plupatr refusent de participer, par peur d'etre traités comme des secrétaires ou de devenir des boucs-émissaire en cas d'échec.
+Dans les services de l'état existe une forte culture hierarchique qui classe les agents en catégorie A, B, C. si cette classification a eu un interet à une époque et était au service des agents (ref pascal romain), aujourd'hui cette classification est obsoloète et créer de silos forts, des castes ou les catégories inférieures dans la hierarchie sont ou se sentent en dessous des autres et méprisées. il s'exerce donc une violence symbolique forte qui fait que même lorsque l'on sollicite les agents pour des processus de co-construction avec une intention sincère, la plupart refusent de participer, par peur d'etre traités comme des secrétaires ou de devenir des boucs-émissaire en cas d'échec.
 
 Par conséquent, il est important de prévoir des mécanismes pour contrer cette violence symbolique, et permettre aux agents de toutes catégories de se sentir à l'aise pour impliquer dans ces processus.
 
@@ -142,6 +142,13 @@ Dans tout processus de CHANGEMENT SYSTÉMIQUE, il est impossible de tout planifi
 
 Par conséquent,
 
-Utiser des retrospectives, qui sont des temps dédiés où un groupe vient auto-évaluer sa progression et ce qu'il convient d'ajuster, par la mise en place de nouvelles actions ou au contraire d'actions à supprimer. Plusieurs formats de retrospective ont été utilisé avec succès dans différents services de la fonction publique
- 
-OPEN SPACE AGILITY
+Utiser des retrospectives, qui sont des temps dédiés où un groupe vient auto-évaluer sa progression et ce qu'il convient d'ajuster, par la mise en place de nouvelles actions ou au contraire d'actions à supprimer. Plusieurs formats de retrospective ont été utilisé avec succès dans différents services de la fonction publique (POST-MOTOROLA, OPEN SPACE AGILITY). Il peut etre utile de commencer un nouveau projet par une retrospective (expérience de claude aubry)
+
+## POST-MOTOROLA
+
+## OPEN SPACE AGILITY
+
+## PRÉTEXTE À DISCUSSION
+
+Thomas Wolf utilise des sujets de fonction publique comme prétexte pour amener d'autres sujets non
+
