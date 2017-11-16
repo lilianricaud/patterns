@@ -55,8 +55,8 @@ Inversement refuser s'il n'y a pas de pionniers et que la demande est seulement 
 
 - identifier pionniers
 - leur donner du pouvoir négocié via CONTRAT n+X
-- les relier entre eux (via ESPACE-TEMPS D'ECHANGES ET DE RESEAU)
- 
+- les relier entre eux (via ESPACE-TEMPS D'ECHANGES ET DE RESEAU) pour créer reconnaisance entre pairs.
+- 
 
 ## PROTECTION DES PIONNIERS
 
@@ -65,6 +65,10 @@ Les pionniers sont particulièrement exposés à plusieurs niveaux. Ils se heurt
 Par conséquent, 
 
 il est important de prévoir dès le début un processus de protection des pionniers, de poser avec eux des limites sur leur engagement et de prévoir une sortie, que ce soit sur comment il vont rebondir pour eux mêmes sur un autre sujet ou comment ils prévoient dès le début un moyen de transmettre le flambeau en interne et de se rendre redondants (REDONDANCE).
+
+## ANIMATEUR-FACILITATEUR
+
+role d'observation/attention du fonctionnnement d'un groupe. compétence de PRODUCT-OWNER ou rôle complémentaire ?
 
 
 ## PROTOTYPER
@@ -79,6 +83,7 @@ Prototyper la collaboration et le changement, faites d'abord un petit essai peu 
 
 - sécuriser
 - FUTUR DÉSIRABLES
+- PÉRIMÈTRE D'ACTION EXPLICITE
 
 ## ESPACE-TEMPS D'ECHANGES ET DE RESEAU
 
@@ -149,6 +154,11 @@ Utiliser les fiches de postes pour spécifier PÉRIMÈTRE D'ACTION EXPLICITE. Po
 
 ## PÉRIMÈTRE D'ACTION EXPLICITE
 
+Si un périmètre d'action trop fermé est bloquant, à linverse, un perimètre d'actiontrop ouvert peut être tout aussi bloquant particulièrement au démarrage. Quand la liberté d'action n'est pas clairement défini, les agents particullièrement de catégories B et C peuvent avoir peur de prendre cette liberté.
+
+Par conséquent, 
+
+Expliciter le perimètre d'action des AGENTS, PIONNIERS, PARTENAIRES EXTÉRIEURS, pour cela clarifier auprès des N+X le périmètre de liberté d'action des pionniers et des agents, l'expliciter dans la FICHE DE POSTE PIONNIERS et dans le CONTRAT N+X
 
 ## RETROSPECTIVES
 
