@@ -21,6 +21,14 @@ Les pionniers peuvent être des agents isolés, des structures (PFRH, SGMAP) ou 
 
 Inversement refuser s'il n'y a pas de pionniers et que la demande est seulement une façade.
 
+## PROTECTION DES PIONNIERS
+
+Les pionniers sont particulièrement exposés à plusieurs niveaux. Ils se heurtent à de nombreux blocages, consomment beaucoup d'énergie pour arriver à ouvrir des choses et porter des initiatives. Plus grave quand on les aide en leur montrant que d'autres façons de faire sont possibles, cela devient d'autant plus dur de revenir dans des fonctionnement fermés classiques et peut aboutir à une véritable souffrance. Leur combat pour quelque chose qui a du sens peut les amener à un burnout. Une seule personne même bien entourée, ne peut porter le changement seule dans un systèmes complexe aussi pesant qu'une administration et tôt ou tard la plupart des pionniers devront passer à autre choses pour rester sain.
+
+Par conséquent, 
+
+il est important de prévoir dès le début un processus de protection des pionniers, de poser avec eux des limites sur leur engagement et de prévoir une sortie, que ce soit sur comment il vont rebondir pour eux mêmes sur un autre sujet ou comment ils prévoient dès le début un moyen de transmettre le flambeau en interne et de se rendre redondants (REDONDANCE).
+
 ## TARIF HAUT
 
 dès qu'il s'agit de monter quelque chose avec les institutions c'est tout de suite chronophage - pénibilité, risque de revirement, d'annulation, délais de paiement extremement longs
