@@ -136,3 +136,12 @@ Utiliser les fiches de postes pour spécifier PÉRIMÈTRE D'ACTION EXPLICITE. Po
 ## PÉRIMÈTRE D'ACTION EXPLICITE
 
 
+## RETROSPECTIVES
+
+Dans tout processus de CHANGEMENT SYSTÉMIQUE, il est impossible de tout planifier. Il est plus important de conduire de mettre en oeuvre des PETITES SOLUTIONS  et de corriger la trajectroire au fur et à mesure. Pour cela il est essentielle d'avoir des temps ritualisé dédiés à cela.
+
+Par conséquent,
+
+Utiser des retrospectives, qui sont des temps dédiés où un groupe vient auto-évaluer sa progression et ce qu'il convient d'ajuster, par la mise en place de nouvelles actions ou au contraire d'actions à supprimer. Plusieurs formats de retrospective ont été utilisé avec succès dans différents services de la fonction publique
+ 
+OPEN SPACE AGILITY
