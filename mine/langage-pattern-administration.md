@@ -150,7 +150,7 @@ Pour soi et pour les agents, identifier ce qui permet de se faire du bien, vider
 
 ## SYNDICATS IMPLIQUÉS
 
-organisations non basés sur la hierarchie para-orag
+organisations non basés sur la hierarchie para-organisations, transversalles
 
 ## DOCUMENTATION OPEN SOURCE
 
