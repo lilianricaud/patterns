@@ -150,6 +150,8 @@ Pour soi et pour les agents, identifier ce qui permet de se faire du bien, vider
 
 ## SYNDICATS IMPLIQUÉS
 
+organisations non basés sur la hierarchie para-orag
+
 ## DOCUMENTATION OPEN SOURCE
 
 Les administrations publiques innovent chacune de leur coté, que ce soit à l'aide de PIONNIERS ou des PARTENAIRES EXTÉRIEURS et il existe de nombreuses INITIATIVES INNOVANTES qui réussissent au moins partiellement. 
