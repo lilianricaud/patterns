@@ -1,29 +1,13 @@
+# Scrum Plop patterns
 
-Tables Generator
+Patterns for program development based on scrum.
 
-    LaTeX Tables
-    HTML Tables
-    Text Tables
-    Markdown Tables
-    MediaWiki Tables
-    Contact
+## Source: 
 
-Markdown Tables Generator
+- https://sites.google.com/a/scrumplop.org/published-patterns/
+- https://docs.google.com/spreadsheets/d/1ZIHNAFpqxRopcf9Hdb5JlEUAt5RwxleC26ILLGt-0Vc/edit?hl=en&hl=en#gid=0
 
-293
-
-    File
-    Edit
-    Table
-    Column
-    Row
-    Help
-    Show Example
-
-Put tabs between columns
-Compact mode
-Result (click "Generate" to refresh)
-Copy to clipboard
+## Published patterns
 
 |                                                                                 | Pattern Name                        |                                             |                             | Patlet                                                                                                                                                                                                                                                                                                                                                                                                                                          | Author                                      | Date       |                      | 1     |
 |---------------------------------------------------------------------------------|-------------------------------------|---------------------------------------------|-----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|------------|----------------------|-------|
@@ -273,36 +257,3 @@ Copy to clipboard
 |                                                                                 | System Level Definition of Done     |                                             |                             | You want uniform quality across teams with regard to certain quality criteria. Therefore: define a system-wide definition of Done that applies to all teams. - Dropped                                                                                                                                                                                                                                                                          | Ville Reijonen                              | 3/2/2012   | Value Stream         | 232   |
 |                                                                                 | 360° Feedback                       |                                             |                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Cesário Ramos                               | 3/10/2013  | Misc.                | 233   |
 |                                                                                 | All                                 |                                             |                             | Pictures                                                                                                                                                                                                                                                                                                                                                                                                                                        | Esther Vervloed                             | 11/15/2016 | Misc.                | 234   |
-
-You can now import Markdown table code directly using File/Paste table data... dialog.
-How to use it?
-
-    Using the Table menu set the desired size of the table.
-    Enter the table data into the table:
-        select and copy (Ctrl+C) a table from the spreadsheet (e.g. Google Docs, LibreOffice Calc, webpage) and paste it into our editor -- click a cell and press Ctrl+V
-        or just double click any cell to start editing it's contents -- Tab and Arrow keys can be used to navigate table cells
-    Adjust text alignment and table borders using the options from the menu and using the toolbar buttons -- formatting is applied to all the selected cells.
-    Click "Generate" button to see the generated table -- select it and copy to your document.
-
-Markdown tables support
-
-As the official Markdown documentation states, Markdown does not provide any special syntax for tables. Instead it uses HTML <table> syntax. But there exist Markdown syntax extensions which provide additional syntax for creating simple tables.
-
-One of the most popular is Markdown Here — an extension for popular browsers which allows you to easily prepare good-looking e-mails using Markdown syntax.
-
-Similar table syntax is used in the Github Flavored Markdown, in short GFM tables.
-Example
-
-GFM Markdown table syntax is quite simple. It does not allow row or cell spanning as well as putting multi-line text in a cell. The first row is always the header followed by an extra line with dashes "-" and optional colons ":" for forcing column alignment.
-
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
-    
-
-© TablesGenerator.com
-About
-Changelog
-
