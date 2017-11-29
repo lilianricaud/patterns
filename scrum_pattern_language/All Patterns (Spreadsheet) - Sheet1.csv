@@ -1,0 +1,273 @@
+,Pattern Name,,,Patlet,Author,Date,,1
+Value Stream Pattern Language,,,,,,,Value Stream,2
+,Spirit of the Game,,,"Rules create loopholes. Therefore: Use the rules as a guide, but be driven by The Spirit Of the Game in cases where the rules' applicability is ambiguos or contentious.",Jens Østergaard & Lachlan Heasman,2012-05-08,Value Stream,3
+,Sprint Planning,,,Sprint Planning is the transition along the value stream between the Product Backlog and the Development Team's work plan,Neil Harrison,2012-05-08,Value Stream,4
+,Daily Clean Code,,,"Every night when you go to bed, the code should at least build cleanly and ideally should be shippable.",Neil Harrison,5/1/2010,Value Stream,5
+,Small Items,,,Big items are hard to estimate; Therefore: Break down items so they are small enough to estimate with confidence,James O. Coplien,2010-05-01,Value Stream,6
+,Whack the Mole,,,"A separate bug-tracking system leaves an increasing bug inventory; Therefore: Fix bugs when they arise, relegating bugs that will require a large amount of work to the Product Backlog. Maybe needs clarification against Daily Clean Code.",James O. Coplien,5/1/2010,Value Stream,7
+,Estimation Points,,,"You need up-to-date estimates, yet it's much work to re-estimate everything as the velocity improves. Therefore: use unitless relative estimation against a baseline",James O. Coplien,2010-05-01,Value Stream,8
+,,Accountable Estimates,,The Product Backlog must be estimated by the people who commit to the estimates. Therefore: have the Team develop cost estimates and the Product Owners develop Business Value estimates.,James O. Coplien,12/22/2010,Value Stream,9
+,,Pigs Estimate,,Estimates should be grounded in reality rather than wishful thinking; Therefore: Let those who are going to do the work do the estimation,Gertrud Bjørnvig,5/1/2010,Value Stream,10
+,,Yesterday's Weather,,People tend to set increasingly high goals for themselves to the point of not being able to achieve them; Therefore: Use the previous Sprint's velocity as the best indicator of the next Sprint's velocity,Joe Bergin,5/1/2010,Value Stream,11
+,,Updated Velocity,,"You want the velocity to reflect the team's current abilities, yet it takes time to know whether process improvements actually worked; Therefore: Update the velocity only if a new level is sustained for the past three sprints.",James O. Coplien,5/1/2010,Value Stream,12
+,,Teams that Finish Early Accelerate Faster,,If you fail too many Sprints it's discouraging: failure comes from taking too many points into the Sprint. Therefore: use Yesterday's Weather to get about the right number of points; use Scrumming the Scrum to lubricate the acceleration; and realize the acceleration by taking on more work if you do finish early.,Jeff Sutherland,7/10/2012,Value Stream,13
+,,Kaizen Pulse also belong here?,,,,,,14
+,,Regular Product Increment,,"In a complex environment, it is difficult to assess progress and meet business goals. Therefore: Develop a regular product increment both to keep on track and to meet market needs",Lachlan Heasman,11/19/2011,Value Stream,15
+,Information Radiator,,,"Kaizen is the core of Scrum, and improvement depends on transparency and visibility. Therefore: Create artifacts and roles that keep information visible to all stakeholders, and create ceremonies where information is exchanged and disseminated.",Swarm,,Value Stream,15
+,Product Backlog,,,Everyone needs to agree to what should be delivered and when. Therefore: Create a visible Product Backlog of Product Backlog Items,James O. Coplien,2010-05-01,Value Stream,16
+,,Aggregate Velocity,,Velocity is a property of a product backlog and not of a team; Therefore: have all Scrum teams for a single product backlog estimate together using a common baseline and range,James O. Coplien,6/16/2012,Value Stream,17
+,,Spike,,"Sometime you need (perhaps arbitrarily time-boxed) activities whereby the Development Team helps the Product Owner clarify requirements.
+
+Dropped — doesn't make sense in Scrum.",Ville & team,5/1/2010,Value Stream,18
+,,Set-Based Design,,"Sometimes it's hard to know which of several alternatives to pursue, yet the difference is crucial. Therefore: Pre-build each of several options as an exercise to mitigate risk.",Evan Leonard,1/4/2017,Value Stream,19
+,,Change for Free,,"Some PBIs are so context-free that they can easily be exchanged for others; Therefore: Allow the customer to add a PBI if the remove one of equal cost, thereby achieving higher value for the customer",James O. Coplien,5/1/2010,Value Stream,19
+,,Enabling Specification,,Unexplored requirements cause unpleasant surprises; Therefore: The product owner should deliver enabling specifications that show that important questions have been raised and adressed,James O. Coplien,5/1/2010,Value Stream,20
+,,Estimation Range,,"Estimation isn't just about accuracy, but also about precision; Therefore: Handle estimates as ranges. I think that Release Range is a better pattern — this one looks too much like amplified guesswork. It's also kind of a microamangement thing and something more related to an old-style Project Management approach where individual items mattered more than delivering the Sprint",James O. Coplien,5/1/2010,Value Stream,21
+,,Granularity Gradient,,"Small items are easy to estimate, but it's a lot of work to break down big items into small items; Therefore: Break down just the items that you depend on in the near future",James O. Coplien,5/1/2010,Value Stream,22
+,,Refined Product Backlog,,Alias for Definition of Ready,Neil Harrison,1/6/2015,Value Stream,23
+,,High Value First,,"PBIs have different values and costs; Therefore: To manage value in a rapidly changing environment, deliver the highest value PBIs first",James O. Coplien,5/1/2010,Value Stream,24
+,,Money for Nothing,,You don't want to spend time building product that costs more than its long-term value; Therefore: Stop working when you have worked down the backlog to this point,James O. Coplien,5/1/2010,Value Stream,25
+,,Product Backlog Items,,You want to organize work to optimize ROI; Therefore: Create PBIs to describe concrete product increments that increase value for stakeholders,James O. Coplien,5/1/2010,Value Stream,26
+,,Project Management,,"Scrum handles one product  at a time, but you may have several revenue streams; Therefore: Handle several projects on a single product backlog",James O. Coplien,5/1/2010,Value Stream,27
+,,RechunkedPBIs,,It's tedious to have too many fine-granularity PBIs deep in the Product Backlog; Therefore: Re-factor them back together into larger items,Ville Mäkinen,2010-05-01,Value Stream,228
+,,ROI,,You need to order the items in the backlog; Therefore: order them such that you achieve the highest long-term ROI if delivered in the order of the Product Backlog,James O. Coplien,2010-05-01,Value Stream,29
+,,Specialized Velocities,,It's hard to do Aggregate Velocity if you have too many teams; Therefore: Specialize teams (not individuals) and let each one estimate and build PBIs matched to their specialization,James O. Coplien,2010-05-01,Value Stream,30
+,,Running Average Velocities,,"You want the velocity to reflect the team’s current abilities, but it takes time to know whether process improvements actually worked. Therefore, set a running average of the most recent Sprints to calculate the velocity of the next Sprint.",Neil Harrison,2012-05-06,Value Stream,31
+,,Vacation PBI,,"If you are going to take time off from ""real work,"" track the time and value of the Team Member's absence as a PBI on the Product Backlog.",James O. Coplien,3/23/2013,Value Stream,32
+,,Fixed-Date PBI,,"Some PBIs aren't scheduled by the PO, but reflect external dependencies or personal events such as vacation, or scheduled courses, conferences or vacations.",James O. Coplien,3/23/2013,Value Stream,33
+,,Definition of Ready,,"If work items are not precisely understood, development effort (and time) tend to balloon, which in turn cause the Sprint to fail. Therefore, deefine criteria which items must meet before they can be put on the Sprint backlog.",Neil Harrison,1/6/2015,Value Stream,34
+,Down Time,,,You need both to support the long-term vision and give the whole team a sense of buy-in. Therefore: Fund periodic time for the team to innovate. (Superceded by Team Sprint and Set-Based Design),James O. Coplien,3/20/2011,Value Stream,35
+,Greatest Value,,,"You want to reward good behavior at each level, yet you want the greatest value. Therefore: Let the vision drive to the value with the greatest scope.",Jeff Sutherland,6/20/2011,Value Stream,36
+,Regular Product Increment,,,"A backlog needs a vision, a view of the future that the team will help create",Lachlan Heasman,4/16/2011,Value Stream,37
+,Sprint Pulse,,,Alias for Regular Product Increment.,Ville Reijonen,2012-03-02,Team,38
+,Team Pulse,,,Alias for Regular Product Increment.,Ville Reijonen,2012-03-02,Team,39
+,Daily Clean Code,,,"Little housekeeping items don't make it as big schedule items; therefore: take care of them daily by insisting on continuous clean code. Maybe needs some clarification against Whack the Mole: ""aiming"" to have a result isn't a pattern, but a KPI.",Neil Harrison,4/17/2012,Value Stream,40
+,Respsonsive Deployment,,,"Working in rhythm is good, but so is smoothing out flow, and reducing the inventory of items ready to ship to the market. Therefore: Release products to the market as they become Done and are approved by the Product Owner in the middle of the Sprint.",Jim Coplien,,Value Stream,41
+,Value Stream Fork,,,"If a product gets too big, the Value Stream can't really work as intended (to provide feedback, team autonomy, and customer absorbtion of features).Therefore: when a product gets large, split it into multiple autonomous products that form an ecosystem.",Jim Coplien,,Value Stream,41
+,Release Plan,,,"The product owner can use the Product Backlog, together with teams' velocities, to make a release plan [Look at whether this is related to a Product Roadmap as part of the Value Stream pattern language. Maybe make it a little more explicitly Mike Cohn-ish. Maybe it's close, but it needs attention, particularly with respect to its relationship to a Roadmap]",Veli-Pekka Eloranta,9/1/2017,Value Stream,44
+,,Product Roadmap,,"A Product Backlog is a path, at any given time, through a roadmap whose business alternative decisions have been bound. Roadmaps are still a good idea and their relationship to the Product Backlog is instructive.",James O. Coplien,2013-03-20,Value Stream,45
+,,Release Range,,"Do not estimate releases as an absolute date, but as a range",Veli-Pekka Eloranta,8/22/2011,Value Stream,46
+,,Release Staging Layers,,"Release every Sprint, but don't release all Sprints to the full market. Create layers of release robustness to manage risk",James O. Coplien,3/20/2013,Value Stream,47
+,Sprint,,,Both the time thing and the space thing (very very close to the Sprint backlog),James O. Coplien,2012-05-08,Value Stream,48
+,,Emergency Procedure,,"Sometimes unexpected work arises during the Sprint, and there are regular rhythms in how to address them; Therefore: Define levels of escalation that resolve emergencies in the least disruptive form of escalation possible ",Jeff Sutherland,5/13/2012,Value Stream,49
+,,Stop the LIne,,Really really stop the line,Jens Østergaard and Neil Harrison,3/28/2013,Value Stream,50
+,,Daily Scrum,,"Because we have emergent requirements and uncertainty, the Development Team replans dailly to raise the chances of meeting their forecast. [This lives here because it's a ceremony to refine the value stream — it's Sprint Planning]","Neil Harrison, Lachlan Heasman, Jim Coplien",2014-10-15,Value Stream,51
+,,,Daily Ritual,People skip or are late to Daily Scrums; Therefore: make it attendance part of the culture by establishing a ritual of the same time and actions every day.,Neil Harrison,2013-03-09,Team,52
+,,,Pigs Talk,,,,Team,53
+,,,Incremental Replan,"Even at the beginning of a Sprint, there are so many unknowns that it is impossible to create a perfect plan; Therefore: each day use the Daily Scrum to incrementally replan (dup of Daily Scrum itself? — probably not quite.) (I recommend folding this into Daily Scrum. We should audit whether we've done that — joc)",Neil Harrison,2013-03-09,Team,54
+,,,Round-Robin Status,"It is easy to focus what you are working on, and neglect the rest of the team; Therefore: Each person in turn gives status.",Neil Harrison,2013-03-09,Team,55
+,,,Daily Open Kimono,"The Product Owner needs to know what is going on, but status summaries often omit important details; Therefore: the Product Owner attends the Daily Scrum (alias for Pigs Talk) (破)",Neil Harrison,2013-03-09,Team,56
+,,,Silent Product Owner,The Product Owner may try to manage the team during the Daily Scrum; Therefore: the Product Owner does not speak at the Daily Scrum.,Neil Harrison,2013-03-09,Team,67
+,,,ScrumMaster Incognito,"Problem : Team member look at SM during Daily Scrum Solution : SM goes away from the inner circle and become a chicken. Replaces pattern formerly named, ""ScrumMaster turns into a chicken.""",Jens Østergaard and Dina Friis,2014-10-15,Team,68
+,,,Beatles at the Daily Scrum,Daily Scrum is a must in any Scrum implementation. To create an extra interest for the meeting add a little bit of fun. This can be done for,Jens Østergaard,12/11/2011,Team,69
+,,,Substitute in Daily Scrum,Individual developers are sometimes absent from the Daily Scrum but it is important that the team know the status of their ongoing work. Therefore: Have another team member report on behalf of the absentee.,Ville Reijonen,2012-03-02,Team,60
+,,Sprint Retrospective,,,Neil Harrison and Mike Beedle,2013-07-02,Sprint,61
+,Sprint Backlog,,,The team needs a list to guide production work; Therefore: Make a Sprint Backlog that lists all work in a Sprint,Mike Beedle and Ademar Aguiar,11/11/2010,Value Stream,62
+,,Sprint Backlog Item,,"The above patterns talk about the ordering of the work plan, being free on an SBI level and chuncked at a PBI level. Within PBIs developers can create or delete tasks at will",Dina Friis & Jens Østergaard,2013-03-28,Value Stream,63
+,,Dependencies First,,Dependencies suck. Therefore: Handle them in the first half of the Sprint and abort the Sprint if you can't.,James O. Coplien,2012-06-16,Value Stream,64
+,,Swarming: One-Piece Continuous Flow,,Development Team has the final say over the ordering of Sprint backlog items. One-piece continuous flow should be split out of this.,Jeff Sutherland,2013-03-13,Value Stream,65
+,,Developer-Ordered Work Plan,,"People want direction, but task lists decrease self-organization; Therefore: Work from an unordered sprint backlog",James O. Coplien,2010-05-01,Value Stream,66
+,,,First Things First,Pattern on working the top of the backlog (破),Jeff Sutherland,2013-03-13,Value Stream,67
+,,,Work the Top of the Backlog,Pattern on working the top of the backlog (破),Jeff Sutherland,2013-03-13,Value Stream,68
+,,Burndown Chart,,The obvious,Alan O'Callaghan,2015-01-05,Value Stream,69
+,,Track DONE,,It's easy to misinterpret the burn-down chart overly optimistically with respect to business value; Therefore: Track business value progress separately and in additional to incremental task completion — REMOVED and factored into Sprint Burdown,James O. Coplien,2010-05-01,Value Stream,70
+,Definition of Done,,,You cannot achieve quality if everyone has a different definition of quality. Therefore: the team defines criteria of all work to be completed on usual work items.,Ville Reijonen,9/18/2015,Value Stream,71
+,,Automated Code Checks,,"Definition of DONE does not mean ""Ready to Ship""
+Solution : Work on automating checks of the code",Jens Østergaard,5/1/2010,Misc,72
+,,Definition of Done as Workflow,,"Team members must adhere to ""Done"" but also have to get their work done. Therefore: Integrate ""Done"" with the process, so the process tends to create results that adhere to the definition.",Ville Reijonen,3/2/2012,Team,43
+,Value Areas,,,"Too many people on one product dilutes focus, yet it's good to grow the business. Therefore: split the product when it grows to a certain point.",Cesário Ramos,4/10/2016,Value Stream,71
+,Sprint Review,,,"The dialog between the business and development is set aside during actual production but production and the business need to be kept in sync; therefore, provide the Product Owner and other stakeholders the opportunity to create feedback about what the Development Team has produced",Neil Harrison,2013-05-03,Value Stream,73
+,Sprint Goal,,,"A Sprint, by itself, is simply a time box for development that only coincidentally actually delivers something useful. Running development on coincidences is not a recipe for success; Therefore: Create a short statement of the value that the team intends to create during the Sprint.",Neil Harrison and Jeff Sutherland,5/9/2012,Value Stream,74
+,Vision,,,"A backlog needs a vision, a view of the future that the team will help create",Lachlan Heasman,9/21/2011,Value Stream,75
+,Visible Status,,,"Create status reports that show daily status (within the sprint) and larger project status, and post them where all development team members can see them..",Neil Harrison,6/14/2012,Value Stream,76
+,Fixed Work,,,"Some work must be done on the team, but is difficult to estimate a closed work item. Therefore: Compartmentalize both recurring work and occasional spikes of work, particularly those that support the Product Owner process instead of directly building potentially shippable product",James O. Coplien,2010-05-13,Value Stream,77
+,,Domino Effect,,"One task can become ""un-completed"" if later work surfaces an emergent requirement; Therefore: Adjust all burn-down charts appropriately. [Can't remember why this pattern was interesting or special, and until we can remember that, we throw this out.]",James O. Coplien,2010-05-01,Value Stream,78
+,,Product Backlog Refinement Meeting,,"Replaced by ""Refined Product Backlog""",James O. Coplien,3/20/2011,Value Stream,79
+,Product Wake,,,All good things must come to an end,James O. Coplien,2016-07-01,Value Stream,79
+,Work Flows Inward,,,Value Stream,Jim Coplien and Neil Harrison,2004-06-06,Value Stream,80
+Process Improvement,,,,,,,Process Improvement,81
+,Sauna Sprint Review,,,"People need motivation; therefore, celebrate success with an extended sauna and champagne
+
+Folded into Sprint Review.",Jukka Järvelä,2010-05-11,Process Improvement,82
+,Fair Memory,,,"People tend to focus on recent events, but the whole sprint is important. Therefore: Keep a log of sprint events",Dina Friis,2010-05-01,Process Improvement,83
+,Sprint Retrospective,,,,Neil Harrison and Mike Beedle,2013-07-02,Sprint,84
+,Scrumming the Scrum,,,Process improvement is a primary goal of Scrum; Therefore: Use Scrum itself to manage and give visibility to Kaizen initiatives,Jeff Sutherland,2011-05-05,Process Improvement,85
+,Impediment List,,,,Gabrielle Benefield,2011-05-01,Process Improvement,86
+,Historical Retrospective,,,Projects too often re-invent the wheel; Therefore: Start each new project with a retrospective over similar historic projects,James O. Coplien,5/14/2011,Process Improvement,87
+,Learning Register,,,"Aggregate retrospective results into a collection of foundational, long-term learnings (from PRINCE2)",James O. Coplien,5/23/2011,Process Improvement,88
+,One Step at a Time,,,"If you change multiple things at once, it's hard to know which one led to an improvement. Therefore: make one process improvement at a time",Neil B. Harrison,6/29/2012,Process Improvement,89
+,Happiness Metric,,,Retrospectives are not effective; Therefore: focus on the improvement that will increase the team's happiness the most.,Neil B. Harrison and Jeff Sutherland,3/8/2013,Process Improvement,90
+,Testable Improvements,,,You don't know if your improvement efforts are effective; Therefore: create self-improvement actions that can be measured whether they are being done or not.,Neil B. Harrison,3/8/2013,Process Improvement,91
+,Create Knowledge,,,"As the number of teams using Scrum grows they will face impediments and create valuable knowledge on solving them in their specific setting. Therefore: Form optimization teams consisting of people from the various Scrum Teams to capture the created knowledge so that the teams and organization can learn from it.
+
+Deprecated per mail from Cesário 23 March 2017 21:58.",Cesário Ramos,2013-05-25,Process Improvement,92
+,,,,,,,Process Improvement,93
+Product Organization Pattern Language,,,,,,,Product Organization,94
+,Community of Trust,,,Where it all begins. Link to Spirit of the Game,Jim Coplien and Neil Harrison,2004-06-06,Product Organization,95
+,Conway's Law,,,"Self-organisation is good but any group of human beings needs some basic, static organisation that reflects knowledge, change, and expediency. Therefore: Create an organisation whose primary structure localises the primary arenas of decision-making.",Jim Coplien,2014-10-22,Product Organization,95
+,Birds of a Feather,,,"Product development is one dimension of organizational structure; core competencies are another, but have no home in the basic Scrum structure, Therefore: create cross-cutting structures for competency growth.",Jim Coplien,2017-01-04,Product Organization,95
+,Product Pride,,,,Gabrielle Benefield et al., ,Product Organization,96
+,Radio Product Owner,,,"meeting (telling on funny joke, play a song, etc), during the meeting (eating cake, drawing emotions), after the meeting (again a funny joke, etc.)  Being folded in to Information Radiator.",Lachlan Heasman,2010-05-01,Product Organization,97
+,Scrum of Scrums,,,"When more then one Development Team needs to work together to create a potentially releasable product Increment, inter-team coordination warrants explicit attention.",Cesario Ramos,2016-04-08,Product Organization,98
+,Organizational Sprint Pulse,,,An organization's organs can get out of step. Therefore: Synchronize sprints with the same dates at least once a month.,"Dina Friis, Gertrud Bjørnvig",2010-05-01,Product Organization,99
+,New Team Bootstrap,,,Teams need help getting off the ground. Therefore: align each new team with an experienced Scrum coach to help them succeed.,Ville Reijonen,2012-03-02,Team,100
+,Team By the Side,,,"The first team would have been well trained and well funded, the second and later teams would usually not get the same level of support. Therefore: Place a new team by the side of the existing Scrum team. [This seems to take the collective reflection of kaizen away from the startup team, and seems like it could lead to a cargo-cult team mimicking the first team. Let's revisit this one later.]",Kiro Harada,2012-03-02,Team,101
+,Scrum Adapter,,,Isolated Scrum teams have an uphill battle in front of them. Therefore: Leaders of the groups adopting Scrum should join together to create an organizational entity that wraps the Scrum Teams with an interface to the rest of the organization. Instead of being a pattern in its own right this might fit into a chapter on the patterns process.,Evan Leonard,2015-01-19,Team,102
+,Surrogate Product Owner,,,"If the product being developed does not have a Product Owner, then the responsibility rolls all the way back to the team.
+
+Dropped.",Jens Østergaard,2010-05-01,Product Organization,103
+,Product Owner,,,"You need a single, ordered product backlog. Therefore: Get a Product Owner with deep business experience and domain knowledge to create the backlog.",Jeff Sutherland,2010-05-17,Product Organization,104
+,Single Mediator,,,"If the team talks directly with customers, then it is hard to keep focus on priorities, but if there are too many connections between the team and the customer, there is too much noise. Therefore: The customer, Product Owner, and team form 1 - 2 - 3 chain links.",Veli-Pekka Eloranta,2010-11-11,Product Organization,105
+,Product Owner Team,,,Sometimes a single Product Owner can't handle all the work to manage the Product Backlog. Therefore: Have a Product Owner Team.,Jeff Sutherland,2010-05-29,Product Organization,106
+,Development Partnership,,,"If a development effort is split across enterprises, break down the traditional boundaries between sides.",Jim Coplien,2016-04-16,Product Organization,106
+,Chief Product Owner,,,"If you have a Product Owner Team, responsibility can become diffuse. Therefore: Have a single Chief Product Owne who is responsible for the work of the Product Owner Team.
+
+Folded into Product Owner Team.",Jeff Sutherland,2010-05-17,Product Organization,107
+,Illegitimus Non Interruptus,,,"There are always emergent requirements, and Scrum accommodates these in its velocity, yet some need business attention. Therefore: give the Product Owner discretion over some fraction of the team's velocity to accommodate market changes.",Jeff Sutherland,2011-05-05,Team,108
+,Question Hour,,,,Veli-Pekka Eloranta,2011-05-05,Team,109
+,Rotating Guru,,,,Monica Yap,2010-05-01,Distributed Scrum,110
+,The Mist,,,"Organizations do not spring spontaneously from the Earth: they self-organize around a vision, or around a person (such as a Product Owner) with a vision. While it would be nice if all organizations were born as Scrum organizations, most innovative organizations spring forth from tabla rasa or or born into a culture foreign to Scrum.
+",Jim Coplien,2016-07-01,Product Organization,111
+,Out of the Mist,,,People learn to organise around shared visions. No longer needed because Vision now dovetails the resulting Context.,Jim Coplien,2016-07-01,Product Organization,111
+,Development Team,,,The pigs.,Jim Coplien,2012-05-11,Product Organization,111
+,,Cross-Functional Team,,It's costly to coordinate work across specialized organizations; Therefore: Colocate the specialties within a team so it has all necessary talent to deliver outcomes.,"Dina Friis, Gertrud Bjørnvig, Jim Coplien",2012-02-23,Product Organization,112
+,,Stable Teams,,You need predictability; Therefore: Keep teams stable over time,"Gertrud Bjørnvig, Lachlan Heasman",2010-05-01,Team,113
+,,Remove the Shade,,We value heroes but can also become overly dependent on them; Therefore: Displace the hero figure from the team to give the rest of the team room to grow,"Dina Friis, Gertrud Bjørnvig",2012-10-28,Team,114
+,,Autonomous Team,,Teams need to be able to work without outside interference (Self-Managing Team),Neil B. Harrison,2013-03-25,Team,115
+,,Self-Organizing Team,,You need to be autonomous before you self-organize.,Neil B. Harrison,2013-03-25,Team,116
+,,Developer-Ordered Work Plan,,The team should have the final say over the ordering of sprint backlog items,James Coplien,2011-04-04,Team,117
+,,Collocated Team,,How do you maximise communication in a team and support the seemingly random nature of it?  Locate the entire team within talking distance,Lachlan Heasman,2013-05-16,Team,118
+,,Small Team,,A large group of people working together will usually splinter into subgroups decreasing the overall group effectiveness. Therefore: Use small teams of people working closely together.,Lachlan Heasman,2013-05-16,Team,119
+,,Daily Scrum,,"Because we have emergent requirements and uncertainty, the Development Team replans dailly to raise the chances of meeting their forecast. [Link only — this is now in the Value Stream pattern language because of its role in re-building the Work Plan every day.]","Neil Harrison, Lachlan Heasman, Jim Coplien",2013-05-16,Team,120
+,,Team Sprint,,The Product Owner is sometimes too externally focused; Therefore: let team members occasionally take control of the PBIs that they want to do,Veli-Pekka Eloranta,2011-08-22,Team,121
+,,Swarming: One-Piece Continuous Flow,,Handoffs lead to poor feedback loops; Therefore: Have the team all work together on one item at a time,Jeff Sutherland,2013-05-21,Team,122
+,,Oyatsu Jinja,,"The company cafeteria is often on a different floor and disrupts the team efforts. Therefore: Create a Oyatsu Jinja (""snacks shrine""). ",Kiro Harada,2012-03-02,Team,123
+,,Snack Shrine,,Alias for Oyatsu Jinja,Kiro Harada,2012-03-02,Team,124
+,,Kaizen Pulse,,"Continuous improvement is never continuous: therefore, go between plateaus",James O. Coplien,2013-03-27,Team,125
+,,Follow the Moon,,Scrum cycles should be attendant to natural rhythms (破),Gertrud Bjørnvig,2013-03-18,Team,126
+,,Beyond the Happy Bubble,,Teams become victims of groupthink; Therefore: Have a catalyst who actively keeps the team a bit uncomfortable,Gabrielle Benefield,5/1/2011,Misc,127
+,,Scrumming the Scrum,,Use Scrum and its Product Backlog to keep improving every Sprint,Jeff Sutherland,2013-03-08,Team,128
+,,Producer Roles,,"There are way too many roles, yet all the roles seem important. It looks like there is no way to reduce the bureaucracy. Identify each role as a producer, supporter, or roles that add no value to the project (deadbeats), and eliminate the deadbeats",Jim Coplien and Neil Harrison,2004-06-06,Team,129
+,,Norms of Conduct,,"A team is unable to discuss issue; things are unsaid, questions are unanswered, and solutions are not explored; Therefore: create norms of conduct to promote constructive conflict and discussions.",Cesario Ramos,2013-03-08,Team,130
+,,Circle Of Trust,,Depending on others for your success fosters micromanagement; Therefore: develop a virtuous cycle of trust and accomplishment,Neil Harrison,2013-03-08,Team,131
+,,Distribute Work Evenly,,"Counterbalance to Domain Expertise in Roles, to make sure there's no starvation or blocking",James Coplien,2014-07-15,Team,131
+,Domain Expertise in Roles,,,"People like to focus and excel: Therefore, encourage specialization at the framework level and don't discourage it at the development team level",James Coplien,2014-07-15,Team,131
+,Small Red Phone,,,Critical personnel should never be out-of-reach; Therefore: Give each one a cell phone as an ever-ready hotline to be used in emergencies,James Coplien,2011-04-30,Team,132
+,ScrumMaster,,,Even self-organizing teams need leadership. Therefore: hire a ScrumMaster to challenge and lead the Team,Neil Harrison,2012-04-18,Team,133
+,,Coach,,Teams may know their level of performance but not now how to improve; therefore: have a ScrumMaster to help chart a path to improvement,Neil Harrison,2012-04-18,Team,134
+,,Product Owner Trainer,,New Product Owners often lack the context and skills for doing their job in a Scrum way; therefore: Have the ScrumMaster support the Product Owner through advice and education,Neil Harrison,2012-04-18,Team,135
+,,Firewall,,"There are always those who want to ""help,"" though such ""help"" is a distraction; therefore: the ScrumMaster insulates the team from unwanted distractions",Neil Harrison,2012-04-18,Team,136
+,,Catalyst,,"Scrum depends on collaboration for success; therefore: Create an environment in which team members WANT to come together to communicate and collaborate, as well as provide opportunities for them to come together.",Neil Harrison — removed,2012-04-18,Team,137
+,,Cheerleader,,,Neil Harrison,2012-04-18,Team,138
+,,Knight of the Mirrors,,,Neil Harrison,2012-04-18,Team,139
+,,DoneMaster,,,Neil Harrison,2012-04-18,Team,140
+,,Sheepdog,,,Neil Harrison,2012-04-18,Team,141
+,,Scrum (Master) Coach,,,Lachlan Heasman,2014-10-17,Team,142
+,,Change Agent,,"Referenced in ScrumMaster pattern. I don't think it's a separately introducible pattern and I think it's already covered by ScrumMaster and  by Catalyst. We should decide whether to keep it and, if not, remove the references to it.",Neil Harrison,2015-04-22,Team,142.5
+,Scrumming the Scrum,,,Process improvement is a primary goal of Scrum; Therefore: Use Scrum itself to manage and give visibility to Kaizen initiatives,Jeff Sutherland,2011-05-05,Process Improvement,143
+,Boot Camp,,,Multi-site teams have difficulty interfacing person-to-person; Therefore: bond organizational members by working together in an intensive Boot Camp,Monica Yap,2010-05-01,Distributed Scrum,144
+,Meta Scrum,,,Run the enteprise as a Scrum,Sutherland & Evan,2016-05-26,Product Organization,145
+,Quantum Entanglement,,,"A pattern for distributed teams. Kickoff together, stabilise then move apart. Bring back together at key points and if velocity drops to stabilize. 
+
+Dropped.",Gabrielle Benefield,2010-05-17,Distributed Scrum,145
+,Developing in Pairs,,,Two sombreros are better than one,Jim Coplien and Neil Harrison,2004-06-06,Team,146
+,The Water Cooler,,,Provide a place for interaction. Link to Snack Shrine!,Jim Coplien and Neil Harrison,2004-06-06,Team,147
+,Self-Selecting Team,,,How teams form. Alternative to Stable Teams.,Jim Coplien and Neil Harrison,2004-06-06,Team,148
+,Thought Leader,,,"Direct management intervention stimies self-organization; Therefore: let managers convince a leader on the team, who takes the issue to the team. (Creatively subverts the ability of a team to manage itself?)",Gabrielle Benefield,2010-05-16,Team,149
+,Return and Report,,,"Open-ended assignments create uncertainty and stress, and undermine trust; Therefore: establish a future point at which status will be reported. [Removed]",Neil Harrison,2013-03-08,Team,150
+,Improvement Community,,,"You have a vision for change about how other teams do their work, to better cooperate with your own team or to improve overall system performance, but its not clear how to go about it. Therefore: Two or more Teams agree to work through system level problems together; each Team elects a member to represent them in an Improvement Community and consents to follow the agreements made by the community.
+
+Folded into Birds of a Feather.",Evan Leonard,2013-05-16,Team,151
+,Impediment Removal Team,,,"Large impediments require large effort to remove. Who should do this work? Therefore, create a Scrum team whose work it is to remove impediments. Instead of being a pattern in itself, fit into Scrum of Scrums.",Evan Leonard,2015-02-19,Team,152
+,Norms of Conduct,,,"A team is unable to discuss issue; things are unsaid, questions are unanswered, and solutions are not explored; Therefore: create norms of conduct to promote constructive conflict and discussions.",Cesario Ramos,2013-03-08,Team,153
+,Follow the Leader,,,"When it comes to Scrum issues, the Development Team should follow the ScrumMaster — Dropped",Jens Østergaard,2013-03-08,Team,154
+,,,,,,,,155
+Scaling Scrum Pattern Language - FIXME: Make sure all of these have a new home!,,,,,,,Scaling Scrum,156
+,Scrum of Scrums,,,"When more then one Development Team needs to work together to create a potentially releasable product Increment, inter-team coordination warrants explicit attention.",Cesário Ramos,2016-04-08,Scaling Scrum,157
+,Aggregate Velocity,,,Velocity is a property of a product backlog and not of a team; Therefore: have all Scrum teams for a single product backlog estimate together using a common baseline and range,James O. Coplien,2010-05-01,Scaling Scrum,158
+,Specialized Velocities,,,It's hard to do Aggregate Velocity if you have too many teams; Therefore: Specialize teams (not individuals) and let each one estimate and build PBIs matched to their specialization,James O. Coplien,2010-05-01,Scaling Scrum,159
+,Project Ready Criteria,,,"Unclear requirements are a common problem. Therefore: have ""Ready"" criteria that must be met before development starts.",Dan Greening,2012-03-03,Product Organization,160
+,Portfolio Management,,,,Dan Greening,2012-03-03,Scaling Scrum,161
+,,Limited Duration Projects,,"You can't release every Sprint, so limit the amount of time for a project.",Dan Greening,2012-03-03,Scaling Scrum,162
+,,Portfolio Backlog,,"20% of the work generates 80% of the revenue. Therefore: focus on the big winners at the portfolio level, and create a priority list of projects.",Dan Greening,2012-03-03,Scaling Scrum,163
+,,Portfolio Standup,,"Large enterprises manage many projects, but the market and the world for those projects changes. Therefore: have weekly standups to refine the portfolio backlog.",Dan Greening,2012-03-03,Scaling Scrum,164
+,,Project Ready Criteria,,"Unclear requirements are a common problem. Therefore: have ""Ready"" criteria that must be met before development starts.",Dan Greening,2012-03-03,Product Organization,165
+,,Project Management,,"Scrum handles one product  at a time, but you may have several revenue streams; Therefore: Handle several projects on a single product backlog",James O. Coplien,2010-05-01,Scaling Scrum,166
+,,,,,,,Scaling Scrum,167
+Scrum Core Pattern Language,,,,,,,Scrum Core,168
+,Daily Scrum,,,,"Neil Harrison, Lachlan Heasman, Jim Coplien",2010-11-11,Scrum Core,169
+,Release Burndown,,,No longer part of Scrum?,Mike Beedle,2010-11-11,Scrum Core,170
+,Release Planning Meeting,,,No longer part of Scrum?,Mike Beedle,2010-11-11,Scrum Core,171
+,ScrumMaster,,,,Neil Harrison,2012-04-18,Scrum Core,172
+,DoneMaster,,,,Neil Harrison,2012-04-17,Scrum Core,173
+,Catalyst,,,,Neil Harrison,2012-04-17,Scrum Core,174
+,Scrum Team,,,,Mike Beedle,2010-11-11,Scrum Core,175
+,Pulse,,,"Uncertainty about the duration of a work episode prevents the work from being done effectively, so work in time units of uniform length",Neil Harrison,2013-05-04,Scrum Core,176
+,Sprint,,,"The Value Stream needs expression as series of release units over time; therefore, divide up the release stream both timewise and product-increment-wise into fixed-length time units called Sprints",Jim Coplien,2010-11-11,Scrum Core,177
+,,Uniform Window,,,Neil Harrison,2013-03-09,Scrum Core,178
+,Sacred Schedule,,,"If you don't end on time, you don't know where you are; Therefore: Don't put off sprint termination, even for a day.",Joe Bergin,5/1/2010,Scrum Core,179
+,Sprint Backlog,,,,Mike Beedle,2010-11-11,Scrum Core,180
+,Sprint Burndown,,,,Alan O'Callaghan,2010-11-11,Scrum Core,181
+,Sprint Planning Meeting,,,"There is a discontinuity between ""what"" and ""how"" in the Value Stream; therefore: create a ceremony to manage that transition",Mike Beedle and Ademar Aguiar,2010-11-11,Scrum Core,182
+,Sprint Retrospective,,,"You need a focal point for process improvement, because true continuous improvement is inefficient. Therefore: Convene a periodic ceremony to focus on process improvement",Neil Harrison and Mike Beedle,2013-07-02,Sprint,183
+,Scrum Board,,,What is this?,Alan O'Callaghan,2014-01-05,Scrum Core,184
+,Product Owner,,,"You need a single, ordered product backlog. Therefore: Get a Product Owner with deep business experience and domain knowledge to create the backlog.",Jeff Sutherland,2010-05-17,Value Stream,185
+,Product Backlog,,,"Early in the value stream, you need to share the vision and create a foundation to start delivering. Therefore: Create a visible ordered list that articulates an ordered delivery of Product Increments that realize the Product Owner's vision",James O. Coplien,2010-05-01,Value Stream,186
+,Change Management,,,,Evan Leonard,,Misc,187
+,,Electric Field,,,,,,188
+,,Are We There Yet?,,"It's hard to know if you're doing what you say you're doing. Therefore, create a “scorecard” for Scrum Teams to periodically fill out that checks to see how Teams are using the agreed on Roles and Policies.",Evan Leonard,2/15/2012,Misc,189
+,,No More Rationalizations,,"Teams rationalize their impediments, which can impede progress. Therefore: Have each team work rationalized impediments with the Product Owner.",Evan Leonard,2/15/2012,Misc,190
+,,Consilience Team,,You need a single point of focus to take things forward; therefore: Create a Scrum Team,Evan Leonard,2/15/2012,Misc,191
+,,Working Agreements,,"The Team often has a hard time making its work visible; therefore: Make it visible, as on a Wiki. (This is old and superceded by Norms of Conduct)",Evan Leonard,2/15/2012,Misc,192
+,,Coherent Theory,,Analysis paralysis can kill you; therefore: Keep going only until the value of additional theory-building outweighs the value of taking it forward,Evan Leonard,2/15/2012,Misc,193
+,,Enduring Change,,"Teams left to themselves fall away from Scrum. Therefore: by putting upper and middle management support in place and empowering the teams to define impediments, the organization becomes self-sustaining.",Evan Leonard,2/15/2012,Misc,194
+,,Prepared Environment,,"While executive management may push Scrum, they're too far removed from the troops to support them. Therefore: form a middle management team whose job it is explicitly to support the Scrum transition at the grassroots level.",Evan Leonard,2/15/2012,Misc,195
+,,Fire Keeper,,"Teams need to surface and deal with tacit fear, but raising fear can breed fear. Therefore: create a role, like the ScrumMaster, to hold team fears and hold them in an objective light.",Evan Leonard,2/15/2012,Misc,196
+,,Bumper Bowling,,It's tempting to do Scrum in a way that doesn't work. Therefore: have a deeply experienced ScrumMaster encourage a bounded direction for team evolution and growth.,Evan Leonard,2/15/2012,Misc,197
+,,North Star,,It's easy to get lost in details and local optimizations during development-level Kaizen. Therefore: have the Product Owner establish the vision of the big picture to rally the team to a concerted direction.,Evan Leonard,2/15/2012,Misc,198
+,,Tension Backlog,,Discussions about problems and direction can go on forever. Therefore: create an Impediment List to structure the team's discussion.,Evan Leonard,2/15/2012,Misc,199
+,,"Documentation, by the people for the people",,"Documentation is difficult to make useful to those who need it, and difficult to get from those who write it. Therefore: let those who need the documentation write it.","Gabrielle Benefield, Neil Harrison",3/2/2012,Misc,200
+Unlinked Patterns,,,,,,,Misc,201
+,Crossing the Busy Street,,,Problem: It easy for a person or a team to fall into a state of mind where everything is good enough. This leads to a lack of interest in improving. Solution: Make inspection part of the process.	,"Dina Friis, Jens Ostergaard",3/31/2012,Misc,202
+,Dream Team,,,"Problem: People step outside the boundaries of there role, or do not fulfill the role. Solution: Create a job description that specifies the expected work and attitude.","Dina Friis, Jens Ostergaard",3/31/2012,Misc,203
+,Couch Coach,,,"Problem: Scrum Master lets the organization overrule Scrum guidelines. Solution: Make sure the Scrum Master fulfills her, or his, role.","Dina Friis, Jens Ostergaard",3/31/2012,Misc,204
+,Sacred Schedule,,,"If you don't end on time, you don't know where you are; Therefore: Don't put off sprint termination, even for a day. (Duplicate)",Joe Bergin,5/1/2010,Misc,205
+,Bake-off,,,"You have to face emergent requirements, but it's costly to terminate a whole line of inquiry before starting another; Therefore: Do set-based design, exploring several alternatives in parallel
+Renamed from Bake-Off to Set-Based Design (separate entry above)",Evan Leonard,8/1/2016,Misc,206
+,Checklists,,,"You can't remember everything, and details are sometimes important; Therefore: Use checklists for frequent, repetitive tasks.",James O. Coplien,5/1/2010,Misc,207
+,Overcommitment,,,"Something happened in the sprint and the team is not going to make the sprint goal; Therefore: Execute emergency procedure
+(Replaced by Emergency Procedure)",Jens Østergaard,5/1/2010,Misc,208
+,Groupthink [DRAFT],,,"Problem: Team is not interested in retrospective 
+Solution : Find out if team is in groupthink. (Replaced by Pop the Happy Bubble)",Jens Østergaard,5/1/2010,Misc,209
+,Patron-Supported Understanding,,,"Problem: Scrum does not have buy-in from management
+Solution : Educate, get a patron and show result",Jens Østergaard,5/1/2010,Misc,210
+,Expose Sneak Paths,,,"People outside team add work to the team
+Solution : Make it transparent",Jens Østergaard,5/1/2010,Misc,211
+,Expose Resource Leaks,,,"Problem: People outside team steal resources
+Solution : Make it transparent",Jens Østergaard,5/1/2010,Misc,212
+,Can't Serve Two Masters,,,"Problem: Team look at ScrumMaster (who is also team member) as an authority
+Solution : Person drops one of the role",Jens Østergaard,5/1/2010,Misc,213
+,External Feature Owner,,,"Problem  : Team is dependent an an external resource in the sprint and is unsure of how it is going
+Solution : Make a team member responsible for the external resource, being proactive",Jens Østergaard,5/1/2010,Misc,214
+,ScrumMaster Gets Fired,,,"ProductOwner tells team that these PBIs have priority one, and the rest is priority two; Not only does the Product Backlog have to prioritized, PBIs also have to be sequenced.
+
+Dropped 4/2/2017.",Jens Østergaard,5/1/2010,Misc,215
+,Promising All The Gold in the World,,,,Jens Østergaard,5/17/2010,Misc,216
+,Continuous Integration,,,"Scrum depends on early and frequent feedback, particularly about product quality; Therefore: Check in code when an increment is done, and immediately build the system against the changes.",Jeff Sutherland,5/18/2010,Misc,217
+,Bad News First,,,,Gabrielle Benefield,5/1/2011,Misc.,218
+,Break Eye Contact,,,The ScrumMaster is drawn into the Daily Scrum too much; Therefore: The ScrumMaster should break eye contact to telegraph that Team members should be talking with each other,Gabrielle Benefield,4/26/2011,Misc.,219
+,Build Less,,,"The problem is to get to launch quickly.  Therefore: Focus on what is important, and build less.",Gabrielle Benefield,5/1/2011,Misc.,220
+,Constant Crisis,,,,Gabrielle Benefield,4/26/2011,Misc.,221
+,Four Minute Mile,,,The team has become complacent and may not be improving at all; Therefore: Give the team a Herculean challenge that helps them question their assumptions,Gabrielle Benefield,5/2/2011,Misc.,222
+,Hackathon,,,"Problem: Organisations become fixated on building to the business model and not allowing enough time for freedom of creativity.  Solution: 24 hour hackathons quarterly, both internal to the organisation and external.",Gabrielle Benefield,5/1/2011,Misc.,223
+,Hack Sprint,,,"Problem: Teams can burn out and don't have time to step back and be creative or work on something they feel is important.  Solution: Hack Sprints.  One sprint every quarter for the Scrum team to create their own PB. This finally made it in as ""Team Sprint.""",Gabrielle Benefield,5/1/2011,Misc,224
+,Involve The Managers,,,"If people feel a need to help, give them something harmless to do",Gabrielle Benefield & Neil Harrison,5/1/2011,Misc.,225
+,Helpers in Pairs,,,"Instead offering part-time assignment of a team member,  offer full-time assignment of two team members who understand Scrum well.",Kiro Harada,2012-03-02,Team,226
+,Prove It Don't Plead It,,,,Gabrielle Benefield,5/1/2011,Misc.,227
+,Risk Backlog,,,,Gabrielle Benefield,4/26/2011,Misc.,228
+,Shark's Fin,,,Inexpert changes introduce bugs; Therefore: Introduce bugs to placate those who feel they need to contribute improvements.,Gabrielle Benefield,5/1/2011,Misc.,229
+,Systemic Over Symptomatic,,,,Gabrielle Benefield,5/1/2011,Misc.,230
+,Definition of Done Baseline,,,"It's common to set the bar too high or too low for the definition of Done. Therefore: Set the definition of ""Done"" according to how most team members do their work. Dropped, because it sets the bar low at status quo, rather than challenging the team to consider value and a minimal standard that comes from the business instead of current engineering practice.",Ville Reijonen,3/2/2012,Value Stream,231
+,System Level Definition of Done,,,You want uniform quality across teams with regard to certain quality criteria. Therefore: define a system-wide definition of Done that applies to all teams. - Dropped,Ville Reijonen,3/2/2012,Value Stream,232
+,360° Feedback,,,,Cesário Ramos,3/10/2013,Misc.,233
+,All,,,Pictures,Esther Vervloed,11/15/2016,Misc.,234
