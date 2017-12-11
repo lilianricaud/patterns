@@ -49,6 +49,8 @@ One thing I didn’t ask Dave was how long he would have had in an ideal world, 
 
 Resolve the basic patterns and large-scale issues first.
 
+For Dave the concept design is kind of the first glimmer that arises of a high-level whole-site pattern or layout. 
+
 ### Schematic design
 ### Detailed / patch design
 
