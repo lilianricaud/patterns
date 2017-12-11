@@ -45,6 +45,10 @@ One thing I didn’t ask Dave was how long he would have had in an ideal world, 
 
 ## Design proper
 
+Design is fundamentally messy. We learn useful things when we take it apart and put order to it, but we also risk fooling ourselves into thinking that the process is clean, linear, and organized.
+
+Living design process : assume we are wrong and taking steps to reduce the wrongness before moving on is one critical key step toward such.
+
 ### CONCEPT DESIGN
 
 Resolve the basic patterns and large-scale issues first.
@@ -55,6 +59,12 @@ For Dave the concept design is kind of the first glimmer that arises of a high-l
 
 SCHEMATIC DESIGN expands the seed of the CONCEPT DESIGN to see how it manifests in somewhat greater detail… (Edible Forest Gardens, VII, p. 233)
 
+in addition to refining the points of distinction between the main areas in the concept design (camping, nut grove, clearing, edible forest garden/s) we started tuning into a couple of critical high-level decisions/distinctions as to the way that the future driveway will wrap through the space, and the location of the planned future teaching building.
+
+DO not lock anything in prematurely
+
+the worst design mistakes are ALWAYS made at the schematic level.  Getting the rough relationships right there is critical.  This is the stage where Type 1 errors are made, and no amount of fiddling at the detailed level will fix them.  Particularly in the short time I had, I wanted to make sure the patterns were good.  The details would evolve a lot over time anyway.
+
 
 ### Detailed / patch design
 
@@ -63,3 +73,6 @@ SCHEMATIC DESIGN expands the seed of the CONCEPT DESIGN to see how it manifests 
 clarifying relations. For instance sometimes one goal is high level and implies or includes others.
 
 ## BOUNDARIES
+
+
+## Limiting Factors
