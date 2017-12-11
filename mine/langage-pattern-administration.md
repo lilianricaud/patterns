@@ -202,3 +202,20 @@ Utiser des retrospectives, qui sont des temps dédiés où un groupe vient auto-
 
 Thomas Wolf utilise des sujets de fonction publique comme prétexte pour ouvrir sur d'autres sujets inspirants
 
+# COMMUNS
+
+## POLITIQUE DE CONTRIBUTION OPEN SOURCE INTERMINISTERIELLE
+
+Politique de contribution open-source interministérielle
+https://github.com/DISIC/politique-de-contribution-open-source
+
+## ETAT-CONTRIBUTEUR AUX COMMUNS
+ 
+Etat-contributeur aux Communs numériques
+
+Politique de contribution aux logiciels libres de l'Etat
+
+## AGENT PUBLIC-CONTRIBUTEUR
+
+agent public - contributeur
+
