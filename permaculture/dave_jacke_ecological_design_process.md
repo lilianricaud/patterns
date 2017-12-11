@@ -46,6 +46,9 @@ One thing I didn’t ask Dave was how long he would have had in an ideal world, 
 ## Design proper
 
 ### Concept design
+
+Resolve the basic patterns and large-scale issues first.
+
 ### Schematic design
 ### Detailed / patch design
 
