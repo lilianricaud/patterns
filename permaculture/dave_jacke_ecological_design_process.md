@@ -37,7 +37,7 @@ Which as you can see move from the general to the specific.
 
 this meaning of articulate is equally integral to his sense of goals articulation, where part of what you are doing is not just tapping into the whole body-mind (what do the clients really want, deep down), but working with what comes out to refine and clarify its structure and organisation. Not just running with what comes out on the first pass but probing it, removing redundancy, sorting the wheat from the chaff (or the apples from the coddling moth larvae, as the case may be).
 
-## Site analysis & assessment
+## SITE ANALYSIS & ASSESSMENT
 
 themed and rigorous site analysis and assessment (again carefully chosen language from Dave here – analysing and assessing are different but complementary)
 
@@ -45,13 +45,17 @@ One thing I didn’t ask Dave was how long he would have had in an ideal world, 
 
 ## Design proper
 
-### Concept design
+### CONCEPT DESIGN
 
 Resolve the basic patterns and large-scale issues first.
 
 For Dave the concept design is kind of the first glimmer that arises of a high-level whole-site pattern or layout. 
 
-### Schematic design
+### SCHEMATIC DESIGN
+
+SCHEMATIC DESIGN expands the seed of the CONCEPT DESIGN to see how it manifests in somewhat greater detail… (Edible Forest Gardens, VII, p. 233)
+
+
 ### Detailed / patch design
 
 ### CLARIFIED RELATIONSHIPS
