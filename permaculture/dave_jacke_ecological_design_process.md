@@ -18,6 +18,8 @@ One aspect of what Dave did that I noticed, in addition to making a few notes an
 
 As my currently favourite design writer, Christopher Alexander, has put it, the intellect is too crude of a net to catch the whole.
 
+use whole body-mind as a way of finding inconsistencies or conflicts
+
 ## Goals articulation
 
 Design your forest garden in the context of clear self-understanding concerning what you seek to create…
@@ -37,12 +39,18 @@ this meaning of articulate is equally integral to his sense of goals articulatio
 
 ## Site analysis & assessment
 
+themed and rigorous site analysis and assessment (again carefully chosen language from Dave here – analysing and assessing are different but complementary)
+
+One thing I didn’t ask Dave was how long he would have had in an ideal world, but I reckon it would have been at least a few days or a week just for site analysis and assessment.
+
 ## Design proper
 
 ### Concept design
 ### Schematic design
 ### Detailed / patch design
 
+### CLARIFIED RELATIONSHIPS
 
+clarifying relations. For instance sometimes one goal is high level and implies or includes others.
 
 ## BOUNDARIES
