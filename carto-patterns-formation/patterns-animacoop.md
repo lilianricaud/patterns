@@ -166,7 +166,7 @@ les stagiaires travaillent sur un projet concret de leur choix et ce ci sert de 
 
 ## ESPACE D'APPRENTISSAGE EN LIGNE
 
-un lieu pour interagir entre stagiaires et accéder à es contenus, avant, pendant et après la formation.
+un lieu pour interagir entre stagiaires et accéder à des contenus, avant, pendant et après la formation.
 
 ## YESWIKI
 
