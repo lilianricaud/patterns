@@ -1,12 +1,16 @@
 # Dave Jacke’s Ecologicial Design Process
 
+http://makingpermaculturestronger.net/2017/12/09/dave-jacke-design-day/
+
+# LIVING DESIGN PROCESS
+
 Like the forest, the design process is complex and multilayered, yet both have structure. Certain principles and “archetypal” activities undergird every effective design process, yet each trip through it is unique.3
 
-Now it was time for Dave to enter his design process proper, which in his terminology goes a little something like this:
 
 
 
-## First impressions
+
+## FIRST IMPRESSIONS
 
 When doing professional design, it is good to observe undirectedly first thing, before you know much about a client’s site or goals. You can have such valuable first impressions only once!
 
@@ -20,7 +24,7 @@ As my currently favourite design writer, Christopher Alexander, has put it, the 
 
 use whole body-mind as a way of finding inconsistencies or conflicts
 
-## Goals articulation
+## GOALS ARTICULATION
 
 Design your forest garden in the context of clear self-understanding concerning what you seek to create…
 
@@ -37,13 +41,24 @@ Which as you can see move from the general to the specific.
 
 this meaning of articulate is equally integral to his sense of goals articulation, where part of what you are doing is not just tapping into the whole body-mind (what do the clients really want, deep down), but working with what comes out to refine and clarify its structure and organisation. Not just running with what comes out on the first pass but probing it, removing redundancy, sorting the wheat from the chaff (or the apples from the coddling moth larvae, as the case may be).
 
+### CLARIFIED RELATIONSHIPS
+
+clarifying relations. For instance sometimes one goal is high level and implies or includes others.
+
+
+## LIMITING FACTORS
+
+from experience that every client-site ensemble has one or three primary limiting factors that each step of the design process has to take into consideration. So I was really happy to find Dave spending plenty of time and focus on things like wind, frost, & maintenance.
+
+## BOUNDARIES
+
 ## SITE ANALYSIS & ASSESSMENT
 
 themed and rigorous site analysis and assessment (again carefully chosen language from Dave here – analysing and assessing are different but complementary)
 
 One thing I didn’t ask Dave was how long he would have had in an ideal world, but I reckon it would have been at least a few days or a week just for site analysis and assessment.
 
-## Design proper
+## DESIGN PROPER
 
 Design is fundamentally messy. We learn useful things when we take it apart and put order to it, but we also risk fooling ourselves into thinking that the process is clean, linear, and organized.
 
@@ -66,13 +81,6 @@ DO not lock anything in prematurely
 the worst design mistakes are ALWAYS made at the schematic level.  Getting the rough relationships right there is critical.  This is the stage where Type 1 errors are made, and no amount of fiddling at the detailed level will fix them.  Particularly in the short time I had, I wanted to make sure the patterns were good.  The details would evolve a lot over time anyway.
 
 
-### Detailed / patch design
-
-### CLARIFIED RELATIONSHIPS
-
-clarifying relations. For instance sometimes one goal is high level and implies or includes others.
-
-## BOUNDARIES
+### DETAILLED / PATCH DESIGN
 
 
-## Limiting Factors
