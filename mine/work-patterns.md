@@ -30,7 +30,13 @@ Limiter la consultation des mails au strict nécessaire. Si besoin séparez emai
 
 Dans tous les cas fixez vous une limite de consultation et mettez des mécanismes en place pour la respecter (pas de notifications, séparation mails perso/pro, aller dans des lieux sans connexion, ...)
 
+## Pomodoro
 
+Il est facile de perdre du temps à procrastiner, ou pire tourner en rond et travailler pour rien quand on n'a plus le degré d'attention nécessaire. L'organisme a besoin de pause, particulièrement lorsque l'on travaille sur l'ordinateur et dans des métiers créatifs.
+
+Par conséquent,
+
+Travailler en mode pomodoro avec des cycles de 25 min de travail suivi de 5 min de pause. 
 
 ## Minimum de voiture
 
