@@ -15,39 +15,48 @@ each element performs many functions
 
 http://deepgreenpermaculture.com/permaculture/permaculture-design-principles/2-each-element-performs-many-functions/
 
-## Redundancy - Each Important Function is Supported by Many Elements
+## FUNCTIONAL REDUNDANCY 
+
 
 each important  function is supported by many elements
 
 http://deepgreenpermaculture.com/permaculture/permaculture-design-principles/3-each-important-function-is-supported-by-many-elements/
 
-## Zones and Sectors – Efficient energy planning
+## ZONES 
+
+Efficient energy planning
 zone planning, sector planning, use of slope and naturally occuring energies, movements, behaviors
 
 http://deepgreenpermaculture.com/permaculture/permaculture-design-principles/4-zones-and-sectors-efficient-energy-planning/
 
-## Use biological ressources
+## SECTORS
+
+## BIOLOGICAL RESSOURCES
 machine breaks, require energy & materials to build and maintain,		emphasis on the use of biological ressources over fossil fuel ressources or machines.
 
 http://deepgreenpermaculture.com/permaculture/permaculture-design-principles/5-using-biological-resources/
 
-## Energy Cycling
+## ENERGY CYCLING
 energy recycling on site (both fuel and human)
 
 http://deepgreenpermaculture.com/permaculture/permaculture-design-principles/6-energy-cycling/
 
-## Small scale intensive Systems
-space stacking + time stacking
+## SMALL SCALE INTENSIVE SYSTEMS
 
 http://deepgreenpermaculture.com/permaculture/permaculture-design-principles/7-small-scale-intensive-systems/
 
-## Accelerating succession and evolution
+## STACKING
+space stacking + time stacking
+
+
+
+## ACCELERATED SUCCESSION AND EVOLUTION
 
 Using and accelerating natural cycles to establish favourable environment
 
 http://deepgreenpermaculture.com/permaculture/permaculture-design-principles/8-accelerating-succession-and-evolution/
 
-## Diversity
+## DIVERSITY
 
 monoculture has many problems associated with it		
 
@@ -57,19 +66,21 @@ Maximize diversity of people, places, species for a productive interactive syste
 
 http://deepgreenpermaculture.com/permaculture/permaculture-design-principles/9-diversity/
 
-## Edge effect
+## EDGE EFFECT
 
 When two different environment meet there is maximal potential for productivity. Maximize interface between different people or place to increase diveristy and yields
 
 http://deepgreenpermaculture.com/permaculture/permaculture-design-principles/10-edge-effect/
 
-## Everything works both ways
+## ATTITUDE
+
+### Everything works both ways
 
 a problem can be used creativelly to find an elegant solution. If the problem is an excess of something, can it be used productively elsewhere ?
 
 http://deepgreenpermaculture.com/permaculture/permaculture-design-principles/11-attitudinal-principles/
 
-## Intensive Information and Imagination
+### Intensive Information and Imagination
 
 "our yields are determined by the the quality of thought and information we use, not the size and quality of our system. To use our resources in the most efficient and productive ways possible, we need to be able to access and process information to make the best decisions about how we design our system.
 
@@ -79,5 +90,5 @@ It is only when we take the time to observe, contemplate, discuss, read and lear
 
 http://deepgreenpermaculture.com/permaculture/permaculture-design-principles/11-attitudinal-principles/
 
-## Outputs become inputs
+### Outputs become inputs
 normal elements or system produce output. When this outputs are not used and accumulate, they can become detrimental to the system and their potential is wasted		Create links between elements so that the ouput of one is use as an input for another
