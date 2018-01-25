@@ -60,10 +60,11 @@ décision interne par CONSENTEMENT, et motivée auprès des candidats.
 - le collectif de formateurs doit faire une LETTRE D'INTENTION pour expliciter motivations.
 
 ## LETTRE D'INTENTION
-- collectif local la redige
-- expliciter la pertinence de la demande (COMPLEMENTARITÉ TERRITORIALE)
-- envoyer au COLLECTIF ANIMACOOP pour validation 
-- lien vers biens communs
+
+Dans la situation où un groupe veut monter une formation animacoop locale, le groupe doit obtenir l'assentiment du COLLECTIF ANIMACOOP. Pour cela, il doit d'abord rédiger une LETTRE D'INTENTION qui exprime/explicite la pertinence de la demande (y a t-il une COMPLEMENTARITÉ TERRITORIALE). Cette lettre comprend des liens vers les BIENS COMMUNS produits par les futurs FORMATEURS ANIMACOOP.
+
+Le groupe l'envoie au COLLECTIF ANIMACOOP pour validation 
+
 
 ## COMMUN INDIVIDUELS
 Chaque formateur doit partager des contenus de formation, animation
