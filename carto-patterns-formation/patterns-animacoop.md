@@ -40,60 +40,19 @@ Chaque année, le collectif Animacoop se réunit pour décider de l’évolution
 intègre système de ré-ÉVALUATION, tous les 6 mois ou tous les ans.
 
 
-## COLLECTIF DE FORMATEURS / COLLECTIF ANIMACOOP
-
-Conçue et animée par l’association Outils Réseaux en …. elle est depuis 2016 animée par un collectif de formateurs.
-
-Pour organiser la formation Animacoop, il faut remplir les conditions suivantes : 
-
-- avoir suivi la formation Animacoop
-- avoir intégré le collectif de formateur Animacoop et participé à ses travaux
-- avoir contribué aux contenus en biens communs de la formation Animacoop
-
-## ESSAIMAGE / NOUVELLES FORMATIONS / NOUVEAUX COLLECTIF
-
-Doivent participer aux rencontres formateurs.
-aspect territorial: questionner le besoin et la pertinence de créer une formation proche d'une formation existante
-validation du collectif avant d'autoriser nouvelles formation 
-décision interne par CONSENTEMENT, et motivée auprès des candidats.
-- respecter esprit et loi d'animacoop
-- le collectif de formateurs doit faire une LETTRE D'INTENTION pour expliciter motivations.
-
-## LETTRE D'INTENTION
-
-Dans la situation où un groupe veut monter une formation animacoop locale, le groupe doit obtenir l'assentiment du COLLECTIF ANIMACOOP. Pour cela, il doit d'abord rédiger une LETTRE D'INTENTION qui exprime/explicite la pertinence de la demande (y a t-il une COMPLEMENTARITÉ TERRITORIALE). Cette lettre comprend des liens vers les BIENS COMMUNS produits par les futurs FORMATEURS ANIMACOOP.
-
-Le groupe l'envoie au COLLECTIF ANIMACOOP pour validation 
+ 
 
 
 ## COMMUN INDIVIDUELS
 Chaque formateur doit partager des contenus de formation, animation
 
-## COMPLEMENTARITE TERRITORIALE 
-
-Il convient de travailler la complémentarité sur un même territoire entre formateurs Animacoop (et/ou de leur structures employeuses), un projet de formation doit échanger avec les formations les plus proches afin d’en évaluer la pertinence.
 
 
-## EQUIPE COMPLEMENTAIRE
-
-Voici les différents rôles et taches
-- Responsable péda : dynamique de groupe (groupe complet de stagiaire) (accélérateurs de projets en plus petits groupes)(pop en groupe moyen)/dynamiques des personnes concevoir des temps de formation
-- Animation des ateliers techniques
-- Formation/animation des contenus clés
-- Compétences technique: plateforme wiki, listes de discussion, outils de gestion de projet (trello, framateam…)
-- Administrative  : suivi dossiers opca, dossiers de financement de formation des participants 
-- Accompagnement de projets individuels
-- Mise en réseau : articulation avec la diversité des ressources, les anciens animacoops
-- communication, prise de contact en amont de la formation avec les potentiels et futurs participants
 
 ## FORMATEUR ANIMACOOP AGILE
 
 Formateur qui a déjà assuré la responsabilité pédagogique avec brio.
 
-## FORMATEUR ANIMACOOP
-Pour etre formateur animacoop il faut:
-- avoir partagé des contenus en biens commun au préalable (PARTAGE SINCÈRE, BIENS COMMUNS)
-- accepté la CHARTE ANIMACOOP
 
 
 ## PETITES FORMATIONS COMPLÉMENTAIRES PRÉALABLES
@@ -104,13 +63,10 @@ deux fois une journée (sensibilisation) pour tester, se connaitre, s'aligner en
 
 Un pourcentage du chiffre d’affaire réalisé sur chaque session ANIMACOOP est dévolu à un fond de mutualisation ANIMACOOP servant à financer les charges fixes du collectif.
 
-## FINANCEMENT LOURD (Antipattern)
-
-Passage par les OPCA rend long et laborieux le financement de la formation pour les stagiaires.
 
 ## TROC TEMPS
 
-Dans la msure où la formation est partiellement financée (au moins 10 inscrits payant), la formation peut avoir lieu et donner des places à tarifs réduits et / ou contre contribution non monétaires (temps, ...)
+Dans la mesure où la formation est partiellement financée (au moins 10 inscrits payant), la formation peut avoir lieu et donner des places à tarifs réduits et / ou contre contribution non monétaires (temps, ...)
 
 ## TRYPTIQUE D'OUTILS
 
