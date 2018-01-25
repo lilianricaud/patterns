@@ -25,19 +25,7 @@ En tant qu'outil , elle s’appuie fortement sur les principes édictés par Yva
 - augmentant le pouvoir d’agir.
 - générateur d’efficience sans impacter l’autonomie individuelle
 
-## GOUVERNANCE COLLECTIVE
 
-La gouvernance du projet Animacoop est assurée par et au sein d’un collectif dit, le Collectif Animacoop. 
-
-Le collectif est constitué de personnes physiques justifiant d’une expérience dans le domaine de la formation (animation, conception, organisation logistique, suivi administratif) intégrés par cooptation.
-
-Les décisions au sein du collectif se font au consensus lors des divers échanges menés dans un cadre collectif par quelques canaux que ce soient (rencontres, visioconférence, courriels, documents partagés, ...). 
-
-## CHARTE ANIMACOOP
-
-Chaque année, le collectif Animacoop se réunit pour décider de l’évolution de la présente charte et des grandes orientations stratégiques de la formation Animacoop pour l’année à suivre.
-
-intègre système de ré-ÉVALUATION, tous les 6 mois ou tous les ans.
 
 
  
@@ -58,15 +46,6 @@ Formateur qui a déjà assuré la responsabilité pédagogique avec brio.
 ## PETITES FORMATIONS COMPLÉMENTAIRES PRÉALABLES
 deux fois une journée (sensibilisation) pour tester, se connaitre, s'aligner entre futurs formateurs, faire ressortir les complémentarités (aider à clarifier EQUIPE COMPLEMENTAIRE).
 
-
-## MUTUALISATION FINANCIERES 
-
-Un pourcentage du chiffre d’affaire réalisé sur chaque session ANIMACOOP est dévolu à un fond de mutualisation ANIMACOOP servant à financer les charges fixes du collectif.
-
-
-## TROC TEMPS
-
-Dans la mesure où la formation est partiellement financée (au moins 10 inscrits payant), la formation peut avoir lieu et donner des places à tarifs réduits et / ou contre contribution non monétaires (temps, ...)
 
 ## TRYPTIQUE D'OUTILS
 
@@ -94,9 +73,7 @@ temps autnomes
 
 appropriation individuelle des cours se déroule de manière autonome, à distance par les participants via une plateforme de cours en ligne (EAP)
 
-## ACCOMPAGNEMENT INDIVIDUEL
 
-Les participants bénéficient d'un accompagnement individuel sur leur projet en cours
 
 ## ACTIVITES COLLECTIVES
 
@@ -115,11 +92,8 @@ Des ateliers techniques en présence et à distance sont dédiés à l'appropria
 
 pas juste un groupe issus de la même structure, mais public varié pour bénéficier de la diversité interactive et de l'intelligence collective du groupe.
 
-## PROJET STAGIAIRE CONCRET
 
-les stagiaires travaillent sur un projet concret de leur choix et ce ci sert de SITUATION PROBLEME pour donner de la motivation.
 
-## SITUATION PROBLEME
 
 ## ESPACE D'APPRENTISSAGE EN LIGNE
 
@@ -135,32 +109,13 @@ Est ce que yeswiki est un pattern clé ? possibilité d'utiliser un autre outil 
 ## SUPPORTS NUMERIQUES LIBRES
 Les supports sont numériques, en ligne et sous licence Libre Creative Commons By-Sa.
 
-## BIENS COMMUNS 
 
-Les contenus Animacoop sont des contenus sincèrement partagés et ont vocation à être réutilisés. 
- 
-L’intégralité des contenus produits au sein du projet Animacoop ou insérés dans Animacoop sont sous licence Creative Commons By-Sa. (sauf exception et mention contraire concernant des contenus non produits par le collectif ANIMACOOP).
 
 ## PRODUCTEUR DE CONTENUS
 
 pour etre formateur animacoop il faut être producteur de contenus
 
-## PARTAGE SINCÈRE
 
-Ne pas juste avoir des contenus, mais les rendre dispos par la licence et fichier source disponibles en ligne pour faciliter la réutilisation.
-
-## PROCESSUS
-
-mettre en place une formation animacoop est un processus.
-
-
-## AMELIORATION CONTINUE
-
-Les formateurs améliorent de façon continue les contenus et supports de formation ANIMACOOP en présence et à distance.
-
-## ARCHIPELISATION
-
-Non concurrence entre les différents territoires, se renvoyer les stagiaires, ESSAIMAGE.
 
 
 
@@ -174,7 +129,7 @@ L'humour, sans être obligatoire est néanmoins un prérequis qu'il serait domma
 
 
 
-## EVALUTION
+## EVALUATION
 
 des formateurs, des organisateurs, des stagiaires, ...
 
@@ -182,15 +137,7 @@ des formateurs, des organisateurs, des stagiaires, ...
 
 modèle de message à envoyer aux stagiaires
 
-## SUIVI STAGIAIRES
 
-a l'heure actuelle pad anonymisé / stagiaire et accessible juste accessible au stagiaire. écoute, et POSTURE DE QUESTIONNEMENT plutot que d'apport de réponses.
-
-TRAME ENTRETIENS? GRILLE DE SUIVI
-
-## GRILLE DE SUIVI
-
-google calc
 
 ## TABLEAU COLLABORATIVITÉ PROJETS
 
@@ -213,7 +160,7 @@ Mise en paquet - répond collectivement
 nuage de representations du groupe permet de s'appuyer sur les represenation initiales pour le reste de la formation.
 https://bimestriel.framapad.org/p/methodo-entretien-collectif
 
-### TROC
+
 
 ### ATELIER TECHNIQUE
 Temps de 1-2h dans les regroupepement (initiations 20 min) etjournéee dédiée sur la pratique d'outils numériques pour aller plus loin (frama... carte mentales, wiki, ) méthodo décroché des ateliers technique (animation de réunion en ligne ...)
@@ -227,10 +174,6 @@ Gap : sont proposés - gratuits pour les animacoopiens payant pour les autres
 
 sensible: fabriquer une oeuvre ensemble
 
-### NOMBRE DE FORMATEURS
-
-Binome + observateur qui se forme pour faire rotation
-4 personnes utile sur atelier technique
 
 ### POSTURE D'ANIMATION
 1 personne sur le contenu
@@ -281,14 +224,7 @@ echanger avec toustes pour que le système reste vivant
 
 Fais partie des VALEURS
 
-### SUIVI STAGIAIRES
 
-### DISPONIBILITÉ
-
-expliciter sa disponibilité pour éviter tension liées au manque de disponibilité
-
-### PFH
-precieux facteur humain / putain de facteur humain
 
 ### ECOSYSTÈME
 autres contenus, formation complémentaires.
@@ -305,10 +241,6 @@ mais semblant être présent
 existantes ?
 
 
-
-# Patterns à ajouter
-dla37
-intra structure ? casser silos ?
 
 
 
