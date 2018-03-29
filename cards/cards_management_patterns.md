@@ -1,5 +1,6 @@
 # CARDS MANAGEMENT PATTERNS
 
+from original C2 wiki
 
 ## Index Card
 An index card (also called a SystemCard) is a small rectangular piece of thin cardboard or thick paper, suitable for writing on, frequently ruled on one side or both. Popular sizes in North America include 3x5" (76x127mm) and 4x6" (102x152mm). In countries where metric paper is used (Germany in this case) probably the most common size is A7 (74x105mm), smaller ones (A8 = 52x74mm) are also used, as are bigger ones like A6 (105x148mm) or A5 (148x210mm).
