@@ -12,7 +12,7 @@ Index cards can be used for many things:
     used for project management. The logistics for the Gulf War were managed on index cards. Read "Moving Mountains" by Lt. General George Pagonis.
     used as StoryCards 
 
-## Write It Ona Card
+## Write It On a Card
 UserStory is a special case of a more general pattern, WriteItOnaCard. Here's general discussion, not in pattern form.
 
 Got something to do? Write it on a card. Carry the card around till it gets done. Then throw the card away or put it in a box of things that are done.
@@ -28,6 +28,20 @@ UserStory extends this life strategy with the usual rococo frills for which XP i
 In particular, experience suggests that all the management and scheduling for a small-population project can be done this way. --RonJeffries
 
 ## StoryCards
+
+I read all the various comments about user stories and sense there is a serious lack of consensus regarding just what a UserStory is. English speakers typically think of a story as some kind of narrative that describes a WHO, WHAT, and WHY scenario. So, from that perspective, it is doubtful to me that a story is going to be at the brief, functional level a programmer needs to develop code.
+
+Therefore, I suggest that the USER STORY is indeed a narrative that a user tells from her own perspective. This story typically describes some kind of scenario or situation that the user finds herself in. The programmers must then work with the user to derive from that narrative the specific USER TASKS that the user must to perform with the software to successfully accomplish the story.
+
+For example, here is a real USER STORY:
+
+    A project manager needs to set up a web-based location where all the members of her team can access engineering drawings, models, research findings, meeting minutes, and schedules associated with their latest project. This will help the team stay in synch regarding the progress of the project. It will also prevent the current problem of storing data in different places that not everyone can access.
+
+And here are USER TASKS we derive from the story: 1. Create a project on the web. 2. Create folders in the project. 3. Transfer files to those folders.
+
+And if the user makes any mistakes regarding the name or location of a project, folder, or file, she must be able to: 1. Rename a project, folder, or file. 2. Move a folder or file. 3. Delete a project, folder, or file.
+
+I think you can see that it is the user TASKS, NOT the STORY, that represent those chunks of functionality that can be estimated, prioritized, and then implemented by the software programmers. 
 
 ## COLOURS
 
