@@ -12,6 +12,21 @@ Index cards can be used for many things:
     used for project management. The logistics for the Gulf War were managed on index cards. Read "Moving Mountains" by Lt. General George Pagonis.
     used as StoryCards 
 
+## Write It Ona Card
+UserStory is a special case of a more general pattern, WriteItOnaCard. Here's general discussion, not in pattern form.
+
+Got something to do? Write it on a card. Carry the card around till it gets done. Then throw the card away or put it in a box of things that are done.
+
+Got lots of things to do? Take your cards and do CardTriage on them. Then pick the ones of most immediate value for doing now and do them. SitOnTheOtherCards.
+
+Want to know how long it will take to get done? Take your cards and write a time estimate on each one. See about dividing them up among other members of your team, or other personalities if you have them. Lay them out on a schedule.
+
+Need to be done by next Tuesday and have TooMuchToDo? Lay them out, put a pencil on the table where the deadline is, and do the math. Move the things you are going to do to the left of the pencil, move the ones you aren't going to do to the right, until you get the best possible schedule. Then SitOnTheOtherCards.
+
+UserStory extends this life strategy with the usual rococo frills for which XP is famous. Business value, risk assessments, estimates, tasks, all that stuff. Software development needs all that stuff. Often all you need to do is WriteItOnaCard.
+
+In particular, experience suggests that all the management and scheduling for a small-population project can be done this way. --RonJeffries
+
 ## StoryCards
 
 ## COLOURS
