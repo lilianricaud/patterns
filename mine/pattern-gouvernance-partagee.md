@@ -33,8 +33,23 @@ continu, "formation" collective, apprendre a faire ensemble, processus
 actif, ni suiveur, ni rebelle, ni leader
 
 ## ROLES 
+
+Pas de personne dédiées au commercial, management, 
+
+mais définis avec indicateurs -> responsabilité temporaire du role
+
 - temporaires, tournant, partagés, 
 FACILITATEUR
+
+## Processus génératif de prise de décision
+
+Processus structuré
+
+chacun s'exprime de manière structuré, prendre le temps des échanges, mais pas parler de tout tout le temps
+
+## DEMANDE D'AIDE
+
+Explicite et légitime la possibilité de demander de l'aide aux collègues.
 
 ## TIMEBOX
 - visible
@@ -64,6 +79,8 @@ Toutes les réunions sont ouvertes, permet de se fréquenter, voir si ça marche
 - CONSENTEMENT
 
 ## AUTOORGANISATION
+
+chacun peut s'organiser indépendammment, pas besoin de permission de quelque de plus ancien, si ça semble juste. Seulement besoin du consentement si cela concerne l'ensemble des membres.
 
 ## CONTROLE A POSTERIORI
 
