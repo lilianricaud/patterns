@@ -21,6 +21,7 @@ facilite prise décision à distance.
 ## CO-CONSTRUCTION
 
 ## CO-APPRENTISSAGE
+Droit de faire des erreurs, prendre des initiatives, se planter, tant qu'on se saisit de l'apprentissage "comment j'apprends de mes erreurs".
 
 continu, "formation" collective, apprendre a faire ensemble, processus
 
@@ -61,6 +62,8 @@ Toutes les réunions sont ouvertes, permet de se fréquenter, voir si ça marche
 
 - TRANSPARENCE
 - CONSENTEMENT
+
+## AUTOORGANISATION
 
 ## CONTROLE A POSTERIORI
 
