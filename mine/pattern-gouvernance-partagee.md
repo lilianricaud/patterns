@@ -1,5 +1,7 @@
 # Patterns Gouvernance Partagée
 
+Inspiré du modèle Percolab (source Nadine Jouanen, moustic 2017, Fanny Monod, pause dej 2018)
+
 ## REUNIONS PRESENTIELLES
 
 ## CERCLES
