@@ -57,6 +57,7 @@ vision partagée
 Faire pas à pas, tester, itérer
 
 ## OUVERTURE A PRIORI
+Toutes les réunions sont ouvertes, permet de se fréquenter, voir si ça marche entre nous, accès au documents, qui gagne combien, ...
 
 - TRANSPARENCE
 - CONSENTEMENT
