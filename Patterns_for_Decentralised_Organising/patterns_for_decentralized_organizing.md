@@ -71,7 +71,20 @@ Bi-annual retreats. Every 6 months we go away together for 3 or 4 days. This dee
 
 ## source
 
+Credits Contributor Contribution
 Richard D. Bartlett
-TheHum.org
+rich@thehum.org
+Writing first draft in English
+Natalia Lombardo
+nati@thehum.org
+Co-designed first draft with Rich.
+Lucas Tauil de Freitas
+lucas@enspiral.com
+Translation for Portuguese (Brasil)
+Sandra Chemin
+sandra.chemin@enspiral.com
+Revision & editing in English + Portuguese
+License: 
+CC0 1.0 Universa
 
 https://docs.wixstatic.com/ugd/8246de_248a47ddbd3c4d209667ff5508ee300b.pdf
