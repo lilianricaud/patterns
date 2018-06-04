@@ -1,5 +1,52 @@
 # Patterns for Decentralised Organising
 
+## 1. Intentionally produce counter-culture
+Challenge: 
+You want to be non-hierarchical but you have hierarchical habits, e.g.telling people what to do, or looking to others for answers. We are
+conditioned by culture
+: if there is sexism and racism in your environment,
+it can be imprinted into your habits.
+Response:
+We can 
+unlearn hierarchies
+ together. We can 
+co-design a culture
+ that
+encourages each of us to develop our best qualities, making us all more
+generous, respectful, trusting, courageous, etc.
+How do you produce culture? 
+Fermentation!
+ To make sourdough bread, you
+have a 
+starter dough
+, mixed with 
+fresh ingredients, 
+and put it somewhere
+dark and safe for some time. To ferment a new group culture, your "starter
+dough" is a person or people who 
+embody some of the qualities
+ you want to
+develop. The “fresh ingredients” are 
+new people
+ who have a 
+desire
+ to grow
+in a specific way. We combine these ingredients in a 
+retreat
+: safe, quiet,
+isolated from the outside world for a few days.
+Results:
+We learn about each other’s 
+dreams
+ and 
+fears
+, building deep 
+relationships
+of trust
+ and 
+belonging
+: the most important resource for all your upcoming
+challenges
 
 ## 3. Make explicit norms and boundaries
 Norms = how we do things around here. 
