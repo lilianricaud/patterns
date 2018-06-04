@@ -90,3 +90,4 @@ CC0 1.0 Universa
 https://docs.wixstatic.com/ugd/8246de_248a47ddbd3c4d209667ff5508ee300b.pdf
 See for different versions
 https://github.com/rdbartlett/patterns
+https://github.com/rdbartlett/patterns/blob/master/Workshop%20Handout%20-%20English.textbundle/text.md
