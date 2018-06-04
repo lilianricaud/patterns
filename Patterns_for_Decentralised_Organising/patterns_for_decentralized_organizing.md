@@ -213,3 +213,5 @@ Weekly
 agree what work we’re going to do this week. On Friday we
 share progress and have a “retrospective” looking for
 
+
+https://docs.wixstatic.com/ugd/8246de_248a47ddbd3c4d209667ff5508ee300b.pdf
