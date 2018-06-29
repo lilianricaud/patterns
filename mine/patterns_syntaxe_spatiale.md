@@ -1,6 +1,24 @@
 # Concept clés syntaxe spatiale
 
-la réalité architecturale est envisagée selon un certainnombre de concepts basiques tels que : le mouvement vers et à l’intérieur d’un édifice ainsi que le contrôle que l’on exerce sur lui, l’occupation fonctionnelle des zones internes, les modèles de rencontre/évitement entre résidents et visiteurs et, par extension, le type d’organisation sociale sous-jacente. Il s’agit donc de mettre en évidence la ou les interface(s) (c'est-à-dire la ou les relation(s) spatiale(s) entre les deux grands groupes d’utilisateurs susmentionnés). Cette ou ces interface(s) étant l’élément clé du programme, c'est-à-dire la dimension spatiale de l’organisation d’un bâtiment, sa configuration (Hillier 1996 : 251)
+## SYNTAXE SPATIALE
+
+cette méthode vise à éclaircir et à permettre l’interprétation des rapports intrinsèques entre le social et l’architectural, entre un groupe humain donné et son espace bâti. La bipolarité de ces rapports est la base même de l’analyse de la syntaxe spatiale. En effet, une société investit un certain nombre de NORMES CULTURELLES dans ses réalisations architecturales. En d’autres termes, l’élaboration d’un édifice particulier est régie par des conventions qui peuvent être d’ordre social, économique ou même politique. À l’inverse, selon différentes modalités, un bâtiment influence, contraint et aiguille les activités humaines qui s’y déroulent.
+
+la réalité architecturale est envisagée selon un certain nombre de concepts basiques tels que : le MOUVEMENT vers et à l’intérieur d’un édifice ainsi que le contrôle que l’on exerce sur lui, l’OCCUPATION FONCTIONNELLE des zones internes, les modèles de rencontre/évitement entre résidents et visiteurs et, par extension, le type d’organisation sociale sous-jacente. Il s’agit donc de mettre en évidence la ou les interface(s) (c'est-à-dire la ou les relation(s) spatiale(s) entre les deux grands groupes d’utilisateurs susmentionnés). Cette ou ces interface(s) étant l’élément clé du programme, c'est-à-dire la dimension spatiale de l’organisation d’un bâtiment, sa CONFIGURATION SPATIALE (Hillier 1996 : 251)
+
+### CONFIGURATION SPATIALE
+
+Le principe fondamental de cette analyse de la configuration spatiale est qu’elle permet de traduire n’importe quel plan architectural classique en un ensemble de données objectives aisément comparables. 
+
+Cette ‘traduction’s’opère selon deux axes. Premièrement, le plan donne naissance à un graphe d’un type particulier (GRAPHE JUSTIFIÉ). Les caractéristiques de ce graphe, de nature qualitative, constituent une première source d’informations. 
+
+Ensuite, sur base du graphe et par le biais de formules mathématiques, l’édifice étudié est transcrit en données quantitatives. C’est à la lumière de ces éléments qualitatifs et quantitatifs que l’architecture et les rapports mutuels qu’elle entretient avec la société qui en est à l’origine sont envisagés. L’axe selon lequel l’analyse est conduite est étroitement lié au second principe de base de la syntaxe spatiale : les RAPPORTS INTÉRIEUR/EXTÉRIEUR.
+
+### RAPPORTS INTÉRIEUR/EXTÉRIEUR
+
+Plus qu’une simple notion de lieu ou de positionnement, intérieur et extérieur évoquent ici deux ‘factions’ sociales bien distinctes. 
+
+D’une part, les RÉSIDENTS (inhabitants), d’autre part, les VISITEURS (visitors). Les premiers sont ceux dont l’identité sociale, en tant qu’individus, est intégrée au tracé de l’espace du bâtiment et qui peuvent donc y exercer un certain contrôle et y ont un accès privilégié. Les seconds peuvent être définis comme ayant un accès potentiel temporaire au bâtiment, sous le contrôle des résidents et une identité sociale se manifestant généralement de manière collective (Hillier 1996 : 251 ; Hanson 1998 : 6). Ainsi,professeurs, médecins, prêtres et maître de maison sont des résidents alors qu’élèves, patients, fidèles et invités sont des visiteurs (Hillier 1996 : 251). Tout bâtiment constituerait donc une interface physique entre l’intérieur et l’extérieur tout autant qu’une interface sociale entre résidents et visiteurs, comme l’évoquent Hillier et Hanson.
 
 
 ### CELLULES SPATIALES
@@ -64,11 +82,13 @@ Distribués s’il existe plus d’une ‘route’indépendante de a à b en com
 
 ### RÉSIDENTS
 
+Ceux dont l’identité sociale, en tant qu’individus, est intégrée au tracé de l’espace du bâtiment et qui peuvent donc y exercer un certain contrôle et y ont un accès privilégié. 
 
+ Ainsi,professeurs, médecins, prêtres et maître de maison sont des résidents alors qu’élèves, patients, fidèles et invités sont des visiteurs (Hillier 1996 : 251). Tout bâtiment constituerait donc une interface physique entre l’intérieur et l’extérieur tout autant qu’une interface sociale entre résidents et visiteurs, comme l’évoquent Hillier et Hanson.
 
 ### VISITEURS
 
-
+Les seconds peuvent être définis comme ayant un accès potentiel temporaire au bâtiment, sous le contrôle des résidents et une identité sociale se manifestant généralement de manière collective (Hillier 1996 : 251 ; Hanson 1998 : 6).
 
 
 ### Approche quantitative
