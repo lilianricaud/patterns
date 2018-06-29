@@ -90,6 +90,22 @@ Ceux dont l’identité sociale, en tant qu’individus, est intégrée au trac�
 
 Les seconds peuvent être définis comme ayant un accès potentiel temporaire au bâtiment, sous le contrôle des RÉSIDENTS et une identité sociale se manifestant généralement de manière collective (Hillier 1996 : 251 ; Hanson 1998 : 6).
 
+## COUPLES DE VARIABLES
+1er couple: VISIBILITÉ/PERMÉABILITÉ
+2eme couple: ISOLATION et le SÉQUENÇAGE
+
+## VISIBILITÉ
+
+La visibilité se réfère au fait que l’intérieur d’un bâtiment soit visible ou pas depuis l’extérieur ou au fait qu’il soit possible de voir clairement depuis une partie de l’intérieur vers une autre. La visibilité renseigne sur la perception que l’on a de l’espace sans bouger, elle renvoie à la manière dont l’espace est utilisé pour manifester ou dissimuler des objets ou des comportements. Elle est fonction de la transparence ou de l’opacité relative d’un intérieur. Cette variable sera envisagée à la lumière de considérations proxémiques plus étroitement liées à la vision (voir 3. Outils connexes) mais également grâce à Depthmap (Turner 2001), un logiciel permettant une étude du facteur de visibilité au sein d’une architecture sur base des conceptions théoriques de la SYNTAXE SPATIALE mais sans passer par le biais d’un GRAPHE JUSTIFIÉ. 
+
+## PERMÉABILITÉ
+
+La perméabilité manifeste le degré de contrôle exercé sur la manière dont il est possible d’évoluer d’un espace à l’autre. Elle définit où il est possible d’aller et la (les) façon(s) de s’y rendre. Le second couple de variables, l’ISOLATION et le SÉQUENÇAGE est étroitement lié au concept de perméabilité et elles seront traitées conjointement aussi bien dans l’étude qualitative que lors de la démarche quantitative. 
+
+## Isolation
+
+L’isolation renvoie au degré de discontinuité, c'est-à-dire à la force des limites entre cellules spatiales. À ce sujet, un examen de la forme des limites entre cellules est nécessaire (5). 
+
 
 ### Approche quantitative
 
