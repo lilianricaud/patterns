@@ -25,6 +25,8 @@ Le point d’origine (carrier) se présente sous la forme d’un cercle marqué 
 
 La limite est dotée d’une double nature, elle crée conjointement une catégorie de l’espace - l’intérieur (ESPACE INTÉRIEUR)- et une forme de contrôle - la limite/frontière en elle-même. L’exemple le plus facilement appréhensible de limite spatiale est la porte.
 
+En étudiant les phénomènes spatiaux liés au concept de limite, on cherche à mettre en évidence la manière dont les RÉSIDENTS interagissent avec les VISITEURS (ou entre eux). C’est-à-dire, la manière dont ils intégraient les CELLULES SPATIALES particulières au sein de l’édifice (**limite en tant que séparation physique entre espaces** indiquée par la DISTRIBUTIVITÉ) et la façon dont ils contrôlent l’accès des visiteurs au bâtiment et les circulations de ceux-ci une fois qu’ils y ont pénétré (**limite en tant que point de passage entre espaces** indiquée par la SYMÉTRIE).
+
 ## GRAPHE JUSTIFIÉ
 
 La première étape de l’approche qualitative de la syntaxe spatiale consiste à réduire un plan classique en un graphe justifié (Hillier et Hanson 1984 : 106 et 149). Pour ce faire, chaque espace constitutif du plan, qu’il s’agisse d’une pièce, d’un couloir ou même d’une cour est considéré comme une CELLULE SPATIALE (3). Matérialisées sous forme de cercles dans le graphe, les cellules sont disposées en fonction de leur PROFONDEUR respective. La valeur d’une cellule en termes de profondeur est définie par le nombre de cellules qu’il faut franchir depuis unpoint d’origine (traditionnellement l’extérieur) pour y parvenir. 
@@ -39,17 +41,25 @@ les graphes ainsi obtenus sont parfois qualifiés d’**annulaires quand la dist
 
 On parle d’**arborescence en cas de symétrie et de non-distributivité**, alors qu’**un modèle asymétrique et non-distribué est comparable à une chaîne**.
 
-#### DISTRIBUTIVITÉ/NON-DISTRIBUTIVITÉ
-
-Les modèles de DISTRIBUTIVITÉ/NON-DISTRIBUTIVITÉ évoquent la limite en tant que point de passage.
-
-le pôle de la distributivité articule les relations de LIMITE/FRONTIÈRE, c’est-à-dire d’accès à un espace. À ce sujet, il convient de préciser que, **dans la majorité des cas, la structure distribuée d’un édifice articule les relations entre résidents et visiteurs alors que la structure non-distribuée cadre les relations entre résidents** (4).
-
 ### DÉSYMÉTRIE/ASYMÉTRIE 
 
 Les relations DÉSYMÉTRIE/ASYMÉTRIE évoquent la limite en tant que séparation physique.
 
 **l’asymétrie reflète l’importance de l’espace en termes de ségrégation ou d’intégration**. 
+
+Dans un plan justifié, deux espaces nommés a et b seront: symétriques si a est à b ce que b est à a par rapport à un point c (perspective extérieure ou carrier). En d’autres termes quand ni a ni b ne contrôle l’accès à l’autre depuis le troisième espace c.
+
+Asymétriques si a n’est pas à b ce que b est à a; c’est-à-dire quand  l’un des points contrôle l’accès à l’autre depuis le troisième espace c. 
+
+#### DISTRIBUTIVITÉ/NON-DISTRIBUTIVITÉ
+
+Les modèles de DISTRIBUTIVITÉ/NON-DISTRIBUTIVITÉ évoquent la limite en tant que point de passage.
+
+le pôle de la distributivité articule les relations de LIMITE/FRONTIÈRE, c’est-à-dire d’accès à un espace. À ce sujet, il convient de préciser que, **dans la majorité des cas, la structure distribuée d’un édifice articule les relations entre résidents et visiteurs alors que la structure non-distribuée cadre les relations entre résidents**.
+
+Distribués s’il existe plus d’une ‘route’indépendante de a à b en comptant celle passant par le point initial c; non-distribués s’il existe un espace c, àtravers lequel toute ‘route’ de a à b doit passer.
+
+
 
 
 ### RÉSIDENTS
