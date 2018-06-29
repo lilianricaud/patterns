@@ -6,11 +6,33 @@ la réalité architecturale est envisagée selon un certainnombre de concepts ba
 
 ### Approche qualitative
 
-#### point d’origine (carrier)
+## GRAPHE JUSTIFIÉ
 
-#### limite/frontière (boundary)
+La première étape de l’approche qualitative de la syntaxe spatiale consiste à réduire un plan classique en un graphe justifié (Hillier et Hanson 1984 : 106 et 149). Pour ce faire, chaque espace constitutif du plan, qu’il s’agisse d’une pièce, d’un couloir ou même d’une cour est considéré comme une CELLULE SPATIALE (3). Matérialisées sous forme de cercles dans le graphe, les cellules sont disposées en fonction de leur PROFONDEUR respective. La valeur d’une cellule en termes de profondeur est définie par le nombre de cellules qu’il faut franchir depuis unpoint d’origine (traditionnellement l’extérieur) pour y parvenir. 
 
-La limite est dotée d’une double nature, elle crée conjointement une catégorie de l’espace - l’intérieur - et une forme de contrôle - la limite/frontière en elle-même. L’exemple le plus facilement appréhensible de limite spatiale étant la porte.
+Par justification, on entend que chaque cellule de même profondeur doit être placée sur la même ligne horizontale fictive. On aboutit alors à un graphe fait decercles disposés en lignes horizontales parallèles en fonction de leur valeur de profondeur. Les cercles sont alorsreliés entre eux en fonction des rapports de perméabilité que les cellules qu’ils représentent entretiennent. Les lignes tracées sur le graphe matérialisent donc les connexions spatiales de l’édifice envisagé. En d’autres termes, si deux pièces sont reliées par une porte ou un accès quelconque dans le bâtiment étudié, les cercles qui les représentent sont connectés par une ligne dans le graphe justifié. Le point d’origine (carrier), en ce qui le concerne, se présente sous la forme d’un cercle marqué d’une croix. Le graphe ainsi élaboré est analysé à la lumière du concept de limite/frontière (boundary). La limite est dotée d’une double nature, elle crée conjointement une catégorie de l’espace - l’intérieur - et une forme de contrôle - la limite/frontière en elle-même (Hillier et Hanson 1984 : 19). 
+
+### CELLULES SPATIALES
+
+Chaque espace constitutif du plan, qu’il s’agisse d’une pièce, d’un couloir ou même d’une cour est considéré comme une CELLULE SPATIALE. Matérialisées sous forme de cercles dans le GRAPHE JUSTIFIÉ, les cellules sont disposées en fonction de leur PROFONDEUR respective à partir du POINT D'ORIGINE et reliées par des traits représentant les CONNEXIONS SPATIALES.
+
+
+### PROFONDEUR
+
+La valeur d’une cellule en termes de profondeur est définie par le nombre de CELLULES SPATIALES qu’il faut franchir depuis un POINT D'ORIGINE pour y parvenir. 
+
+### CONNEXIONS SPATIALES
+
+Si deux pièces (CELLULES SPATIALES) sont reliées par une porte ou un accès quelconque dans le bâtiment étudié, il y a une CONNEXION SPATIALE, les cercles qui représentent les CELLULES SPATIALES sont connectés par une ligne dans le graphe justifié. 
+
+### POINT D'ORIGINE (carrier)
+
+Le point d’origine (carrier), en ce qui le concerne, se présente sous la forme d’un cercle marqué d’une croix. (traditionnellement l’extérieur)
+
+
+### LIMITES/FRONTIÈRE (boundary)
+
+La limite est dotée d’une double nature, elle crée conjointement une catégorie de l’espace - l’intérieur (ESPACE INTÉRIEUR)- et une forme de contrôle - la limite/frontière en elle-même. L’exemple le plus facilement appréhensible de limite spatiale est la porte.
 
 
 #### Distributivité et Asymétrie
