@@ -88,7 +88,7 @@ Ceux dont l’identité sociale, en tant qu’individus, est intégrée au trac�
 
 ### VISITEURS
 
-Les seconds peuvent être définis comme ayant un accès potentiel temporaire au bâtiment, sous le contrôle des résidents et une identité sociale se manifestant généralement de manière collective (Hillier 1996 : 251 ; Hanson 1998 : 6).
+Les seconds peuvent être définis comme ayant un accès potentiel temporaire au bâtiment, sous le contrôle des RÉSIDENTS et une identité sociale se manifestant généralement de manière collective (Hillier 1996 : 251 ; Hanson 1998 : 6).
 
 
 ### Approche quantitative
