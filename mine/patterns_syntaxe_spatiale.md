@@ -20,6 +20,21 @@ Plus qu’une simple notion de lieu ou de positionnement, intérieur et extérie
 
 D’une part, les RÉSIDENTS (inhabitants), d’autre part, les VISITEURS (visitors). Les premiers sont ceux dont l’identité sociale, en tant qu’individus, est intégrée au tracé de l’espace du bâtiment et qui peuvent donc y exercer un certain contrôle et y ont un accès privilégié. Les seconds peuvent être définis comme ayant un accès potentiel temporaire au bâtiment, sous le contrôle des résidents et une identité sociale se manifestant généralement de manière collective (Hillier 1996 : 251 ; Hanson 1998 : 6). Ainsi,professeurs, médecins, prêtres et maître de maison sont des résidents alors qu’élèves, patients, fidèles et invités sont des visiteurs (Hillier 1996 : 251). Tout bâtiment constituerait donc une interface physique entre l’intérieur et l’extérieur tout autant qu’une interface sociale entre résidents et visiteurs, comme l’évoquent Hillier et Hanson.
 
+### COMPORTEMENTS D'UN ESPACE BATI
+
+OCCUPATION et MOUVEMENT sont les deux comportements basiques qu’abrite un espace bâti. Chacun de ces comportements a des exigences spatiales différentes.
+
+
+### OCCUPATION
+
+L’occupation est du domaine statique mais peut néanmoins impliquer des mouvements très localisés au sein de l’espace occupé (Hillier 1996 : 317). 
+
+Un espace d’occupation est généralement convexe (Hillier 1996 : 124-132 et 317-318). En géométrie, un objet peut être qualifié de ‘convexe’ si pour toute paire de points {A, B} de cet objet, le segment[AB] qui les unit est entièrement contenu dans l’objet. Par analogie, Hillier attribue cette propriété à un espace dont les occupants peuvent se voir les uns les autres (8). 
+
+### MOUVEMENT
+
+
+
 
 ### CELLULES SPATIALES
 
@@ -102,9 +117,9 @@ La visibilité se réfère au fait que l’intérieur d’un bâtiment soit visi
 
 La perméabilité manifeste le degré de contrôle exercé sur la manière dont il est possible d’évoluer d’un espace à l’autre. Elle définit où il est possible d’aller et la (les) façon(s) de s’y rendre. Le second couple de variables, l’ISOLATION et le SÉQUENÇAGE est étroitement lié au concept de perméabilité et elles seront traitées conjointement aussi bien dans l’étude qualitative que lors de la démarche quantitative. 
 
-## Isolation
+## ISOLATION
 
-L’isolation renvoie au degré de discontinuité, c'est-à-dire à la force des limites entre cellules spatiales. À ce sujet, un examen de la forme des limites entre cellules est nécessaire (5). 
+L’isolation renvoie au degré de discontinuité, c'est-à-dire à la force des LIMITES entre CELLULES SPATIALES. À ce sujet, un examen de la forme des limites entre cellules est nécessaire (5). 
 
 
 ### Approche quantitative
