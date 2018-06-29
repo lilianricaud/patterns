@@ -35,21 +35,28 @@ En d’autres termes, si deux pièces sont reliées par une porte ou un accès q
 
 Deux variables permettent une première qualification visuelle d’un graphe justifié. Il s’agit des relations DÉSYMÉTRIE/ASYMÉTRIE (évoquant la limite en tant que séparation physique) et des modèles de DISTRIBUTIVITÉ/NON-DISTRIBUTIVITÉ (évoquant la limite en tant que point de passage)
 
+les graphes ainsi obtenus sont parfois qualifiés d’**annulaires quand la distributivité prime** (fig.4).
+
+On parle d’**arborescence en cas de symétrie et de non-distributivité**, alors qu’**un modèle asymétrique et non-distribué est comparable à une chaîne**.
+
 #### DISTRIBUTIVITÉ/NON-DISTRIBUTIVITÉ
 
-### DÉSYMÉTRIE/ASYMÉTRIE
+Les modèles de DISTRIBUTIVITÉ/NON-DISTRIBUTIVITÉ évoquent la limite en tant que point de passage.
+
+le pôle de la distributivité articule les relations de LIMITE/FRONTIÈRE, c’est-à-dire d’accès à un espace. À ce sujet, il convient de préciser que, **dans la majorité des cas, la structure distribuée d’un édifice articule les relations entre résidents et visiteurs alors que la structure non-distribuée cadre les relations entre résidents** (4).
+
+### DÉSYMÉTRIE/ASYMÉTRIE 
+
+Les relations DÉSYMÉTRIE/ASYMÉTRIE évoquent la limite en tant que séparation physique.
+
+**l’asymétrie reflète l’importance de l’espace en termes de ségrégation ou d’intégration**. 
+
+
+### RÉSIDENTS
 
 
 
-Il apparaît donc que le pôle de la distributivité articule les relations de limite/frontière, c’est-à-dire d’accès à un espace. À ce sujet, il convient de préciser que, **dans la majorité des cas, la structure distribuée d’un édifice articule les relations entre résidents et visiteurs alors que la structure non-distribuée cadre les relations entre résidents** (4). 
-
-Mais également que **l’asymétrie reflète l’importance de l’espace en termes de ségrégation ou d’intégration**. 
-
-Les graphes ainsi obtenus sont parfois qualifiés d’**annulaires quand la distributivité prime** (fig.4).
-
-On parle d’**arborescence en cas de symétrie et de non-distributivité**, alors qu’**un modèle asymétrique et non-distribué est comparable à une chaîne** (fig.3).
-
-
+### VISITEURS
 
 
 
