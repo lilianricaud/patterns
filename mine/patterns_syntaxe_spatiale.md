@@ -84,7 +84,7 @@ Distribués s’il existe plus d’une ‘route’indépendante de a à b en com
 
 Ceux dont l’identité sociale, en tant qu’individus, est intégrée au tracé de l’espace du bâtiment et qui peuvent donc y exercer un certain contrôle et y ont un accès privilégié. 
 
- Ainsi,professeurs, médecins, prêtres et maître de maison sont des résidents alors qu’élèves, patients, fidèles et invités sont des visiteurs (Hillier 1996 : 251). Tout bâtiment constituerait donc une interface physique entre l’intérieur et l’extérieur tout autant qu’une interface sociale entre résidents et visiteurs, comme l’évoquent Hillier et Hanson.
+ Ainsi,professeurs, médecins, prêtres et maître de maison sont des résidents alors qu’élèves, patients, fidèles et invités sont des VISITEURS (Hillier 1996 : 251). 
 
 ### VISITEURS
 
