@@ -24,6 +24,7 @@ D’une part, les RÉSIDENTS (inhabitants), d’autre part, les VISITEURS (visit
 
 OCCUPATION et MOUVEMENT sont les deux comportements basiques qu’abrite un espace bâti. Chacun de ces comportements a des exigences spatiales différentes.
 
+Les espaces qui composent une architecture peuvent donc être divisés en quatre catégories qui répondent plus ou moins aux exigences de l’OCCUPATION et du MOUVEMENT. 
 
 ### OCCUPATION
 
@@ -33,7 +34,9 @@ Un espace d’occupation est généralement convexe (Hillier 1996 : 124-132 et 3
 
 ### MOUVEMENT
 
+Le mouvement concerne davantage la relation entre espaces ou entre l’ESPACE INTÉRIEUR et l’ESPACE EXTÉRIEUR.
 
+Une zone associée au mouvement est, quant à elle,d’avantage linéaire (Hillier 1996 : 317-318). En fait, si le mouvement veut être intelligible et efficient, il est nécessaire qu’il existe des lignes relativement claires et libres - non entravées - à travers l’espace. 
 
 
 ### CELLULES SPATIALES
@@ -108,6 +111,7 @@ Les seconds peuvent être définis comme ayant un accès potentiel temporaire au
 ## COUPLES DE VARIABLES
 1er couple: VISIBILITÉ/PERMÉABILITÉ
 2eme couple: ISOLATION et le SÉQUENÇAGE
+DIFFÉRENTIATION CATÉGORIQUE et POSITION RELATIVE forment le dernier couple de variables analytiques qualitatives.
 
 ## VISIBILITÉ
 
@@ -121,6 +125,13 @@ La perméabilité manifeste le degré de contrôle exercé sur la manière dont 
 
 L’isolation renvoie au degré de discontinuité, c'est-à-dire à la force des LIMITES entre CELLULES SPATIALES. À ce sujet, un examen de la forme des limites entre cellules est nécessaire (5). 
 
+## DIFFÉRENTIATION CATÉGORIQUE 
+
+La différentiation catégorique renvoie à la manière dont des fonctions particulières sont associées sans ambiguïté à certains espaces spécifiques du bâtiment. 
+
+## POSITION RELATIVE 
+
+La position relative s’intéresse à la manière dont les espaces sont reliés entre eux et au monde extérieur à travers un schéma conceptuel basé sur les points cardinaux ou d’autres schémas de référence
 
 ### Approche quantitative
 
